@@ -1,0 +1,1065 @@
+Type,Prefecture,Municipality,TradePrice,Area,AreaIsGreaterFlag,Frontage,FrontageIsGreaterFlag,TotalFloorArea,TotalFloorAreaIsGreaterFlag,BuildingYear,PrewarBuilding,Year,Quarter,AvgTimeToNearestStation,Region_Commercial Area,Region_Industrial Area,Region_Potential Residential Area,Region_Residential Area,MunicipalityCategory,Region_Chugoku
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,9800000,135,False,7.5,False,75.0,False,1975.0,False,2019,2,24.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,6500000,135,False,7.0,False,75.0,False,1975.0,False,2018,4,26.0,True,False,False,False,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,5400000,135,False,15.0,False,95.0,False,1977.0,False,2018,1,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,10000000,200,False,16.0,False,75.0,False,1991.0,False,2017,3,21.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,16000000,200,False,16.0,False,75.0,False,1991.0,False,2017,3,21.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,18000000,130,False,7.0,False,100.0,False,1975.0,False,2017,2,19.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,24000000,320,False,7.5,False,170.0,False,1989.0,False,2016,4,24.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,25000000,145,False,8.3,False,90.0,False,2016.0,False,2016,4,26.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,6000000,130,False,6.5,False,115.0,False,1958.0,False,2015,1,24.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,6800000,140,False,8.0,False,95.0,False,1974.0,False,2014,3,23.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,9500000,130,False,7.0,False,80.0,False,1978.0,False,2014,2,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,5500000,230,False,16.5,False,130.0,False,1985.0,False,2016,3,14.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,2000000,1000,False,39.0,False,230.0,False,1978.0,False,2014,4,23.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,14000000,330,False,10.5,False,135.0,False,2001.0,False,2014,3,16.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,14000000,280,False,14.0,False,160.0,False,1982.0,False,2019,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,51000000,240,False,9.0,False,140.0,False,2018.0,False,2018,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,36000000,180,False,12.0,False,115.0,False,2015.0,False,2015,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,37000000,175,False,14.5,False,110.0,False,2015.0,False,2015,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,40000000,210,False,13.0,False,145.0,False,2015.0,False,2015,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,54000000,260,False,18.0,False,165.0,False,2015.0,False,2015,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,38000000,180,False,11.0,False,115.0,False,2015.0,False,2015,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,36000000,185,False,14.1,False,115.0,False,2015.0,False,2015,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,36000000,180,False,12.0,False,110.0,False,2014.0,False,2014,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,36000000,165,False,10.0,False,120.0,False,2017.0,False,2017,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,7000000,110,False,13.0,False,80.0,False,1976.0,False,2017,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,5500000,135,False,8.0,False,65.0,False,1966.0,False,2015,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,25000000,150,False,9.0,False,110.0,False,2017.0,False,2017,2,15.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,31000000,180,False,10.5,False,140.0,False,2015.0,False,2014,4,15.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,700000,220,False,7.0,False,85.0,False,1993.0,False,2015,2,105.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,5000000,90,False,6.0,False,55.0,False,1969.0,False,2018,4,24.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,65000000,590,False,12.0,False,810.0,False,1992.0,False,2018,3,21.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,6000000,50,False,7.0,False,65.0,False,1995.0,False,2016,2,20.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,110000000,970,False,24.0,False,1900.0,False,1993.0,False,2014,2,8.0,True,False,False,False,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,700000,730,False,37.0,False,175.0,False,1969.0,False,2019,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,12000000,400,False,15.0,False,135.0,False,1982.0,False,2015,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,39000000,200,False,14.0,False,135.0,False,2014.0,False,2015,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,32000000,300,False,10.0,False,135.0,False,2015.0,False,2015,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,195,False,11.0,False,105.0,False,1976.0,False,2019,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,14000000,180,False,10.5,False,120.0,False,1996.0,False,2017,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,21000000,300,False,7.0,False,170.0,False,1999.0,False,2018,4,13.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,250,False,10.0,False,120.0,False,1981.0,False,2017,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,24000000,165,False,13.0,False,115.0,False,2014.0,False,2017,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,5500000,120,False,9.0,False,80.0,False,1974.0,False,2015,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,12000000,130,False,15.0,False,80.0,False,2001.0,False,2015,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,22000000,135,False,13.0,False,115.0,False,2008.0,False,2015,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,39000000,170,False,9.0,False,125.0,False,2017.0,False,2016,4,23.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,12000000,155,False,6.5,False,165.0,False,1997.0,False,2015,1,20.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,28000000,165,False,11.0,False,110.0,False,2017.0,False,2017,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,39000000,190,False,10.0,False,125.0,False,2016.0,False,2016,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,80,False,9.0,False,130.0,False,1960.0,False,2017,3,14.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,5000000,80,False,9.0,False,130.0,False,1960.0,False,2017,2,14.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,2000000,170,False,2.5,False,70.0,False,1953.0,False,2017,1,16.0,True,False,False,False,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,19000000,140,False,10.0,False,120.0,False,2007.0,False,2018,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,8000000,165,False,11.0,False,125.0,False,1997.0,False,2015,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,14000000,120,False,9.0,False,95.0,False,2005.0,False,2014,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,26000000,145,False,13.0,False,110.0,False,2007.0,False,2017,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,25000000,150,False,10.0,False,115.0,False,2006.0,False,2015,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,4000000,130,False,8.0,False,150.0,False,1957.0,False,2018,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,32000000,200,False,10.0,False,130.0,False,2018.0,False,2018,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,33000000,1100,False,30.0,False,320.0,False,1991.0,False,2017,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,22000000,170,False,11.0,False,95.0,False,2014.0,False,2019,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,12000000,175,False,15.0,False,120.0,False,2008.0,False,2018,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,6700000,195,False,9.7,False,30.0,False,2005.0,False,2014,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,6000000,420,False,12.0,False,165.0,False,1989.0,False,2018,1,26.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,5000000,190,False,9.0,False,90.0,False,1986.0,False,2014,2,21.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,21000000,340,False,18.0,False,165.0,False,1999.0,False,2014,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,390,False,12.0,False,145.0,False,1997.0,False,2019,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,34000000,155,False,7.0,False,110.0,False,2016.0,False,2016,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,8000000,170,False,16.0,False,135.0,False,1980.0,False,2015,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,5000000,85,False,7.0,False,115.0,False,1960.0,False,2015,4,9.0,True,False,False,False,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,20000000,380,False,26.0,False,175.0,False,1990.0,False,2019,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,26000000,550,False,32.0,False,220.0,False,1989.0,False,2017,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,270,False,18.0,False,105.0,False,1994.0,False,2015,2,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,33000000,165,False,12.5,False,180.0,False,1999.0,False,2017,4,11.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,17000000,240,False,7.0,False,150.0,False,1980.0,False,2017,3,18.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,3500000,165,False,13.0,False,115.0,False,1966.0,False,2016,2,14.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,9300000,660,False,10.0,False,60.0,False,1964.0,False,2016,1,16.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,6000000,260,False,6.5,False,125.0,False,1977.0,False,2015,4,14.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,18000000,300,False,21.5,False,200.0,False,1992.0,False,2019,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,3900000,135,False,8.0,False,110.0,False,1977.0,False,2018,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,18000000,200,False,11.5,False,120.0,False,1999.0,False,2017,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,20000000,230,False,6.0,False,120.0,False,1979.0,False,2017,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,9200000,220,False,11.0,False,110.0,False,1978.0,False,2016,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,15000000,220,False,14.5,False,165.0,False,1989.0,False,2016,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,20000000,210,False,16.0,False,175.0,False,1994.0,False,2015,1,29.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,30000000,180,False,13.0,False,135.0,False,2007.0,False,2015,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,20000000,155,False,11.5,False,110.0,False,2001.0,False,2016,3,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,4500000,155,False,9.0,False,105.0,False,1996.0,False,2019,2,15.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,15000000,300,False,12.0,False,155.0,False,2005.0,False,2018,1,11.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,15000000,440,False,19.0,False,195.0,False,1980.0,False,2015,4,16.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,8000000,340,False,13.0,False,340.0,False,1992.0,False,2017,2,16.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,2800000,195,False,17.0,False,55.0,False,1991.0,False,2015,1,26.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,8800000,260,False,14.0,False,120.0,False,1987.0,False,2018,2,11.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,2000000,190,False,10.6,False,65.0,False,1974.0,False,2017,1,8.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,210,False,10.5,False,125.0,False,1975.0,False,2016,4,6.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,12000000,210,False,11.0,False,125.0,False,1975.0,False,2015,2,5.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,8500000,560,False,23.0,False,240.0,False,1958.0,False,2017,2,3.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,380,False,25.0,False,160.0,False,1999.0,False,2014,3,8.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,2500000,150,False,12.8,False,100.0,False,1981.0,False,2015,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,2500000,510,False,27.0,False,230.0,False,1997.0,False,2015,2,120.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,1800000,170,False,11.0,False,115.0,False,2007.0,False,2017,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,9500000,310,False,15.0,False,80.0,False,1961.0,False,2016,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,8000000,410,False,20.0,False,175.0,False,1976.0,False,2017,3,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,19000000,140,False,11.0,False,115.0,False,1977.0,False,2019,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,31000000,165,False,10.5,False,120.0,False,2016.0,False,2016,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,13000000,135,False,9.0,False,95.0,False,1986.0,False,2016,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,16000000,400,False,18.5,False,200.0,False,1971.0,False,2014,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,9800000,200,False,9.0,False,140.0,False,1971.0,False,2014,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,360,False,14.0,False,140.0,False,1975.0,False,2016,2,105.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,6500000,320,False,19.0,False,85.0,False,2005.0,False,2016,2,120.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,490,False,11.5,False,210.0,False,1982.0,False,2015,4,105.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,21000000,400,False,10.0,False,210.0,False,1993.0,False,2018,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,22000000,870,False,40.0,False,240.0,False,1973.0,False,2019,2,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,6800000,140,False,7.0,False,80.0,False,1994.0,False,2016,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,14000000,150,False,7.5,False,80.0,False,1994.0,False,2015,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,9100000,150,False,7.5,False,80.0,False,1994.0,False,2015,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,3200000,55,False,5.5,False,35.0,False,1958.0,False,2016,2,15.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,10000000,240,False,13.0,False,115.0,False,1970.0,False,2017,1,16.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,30000000,195,False,14.0,False,140.0,False,2017.0,False,2016,4,10.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,26000000,140,False,9.0,False,120.0,False,2016.0,False,2016,3,11.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,22000000,110,False,14.0,False,95.0,False,2016.0,False,2016,1,11.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,17000000,180,False,3.0,False,115.0,False,1994.0,False,2015,2,16.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,33000000,145,False,11.0,False,115.0,False,2014.0,False,2014,3,21.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,24000000,140,False,10.0,False,115.0,False,2014.0,False,2014,2,16.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,23000000,115,False,15.0,False,100.0,False,2016.0,False,2016,1,11.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,140000000,460,False,18.0,False,660.0,False,2001.0,False,2019,2,4.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,12000000,110,False,11.5,False,70.0,False,1989.0,False,2018,2,6.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,15000000,470,False,26.0,False,195.0,False,1967.0,False,2018,1,4.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,62000000,180,False,11.5,False,200.0,False,2013.0,False,2017,2,4.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,8500000,135,False,9.0,False,110.0,False,1984.0,False,2016,3,18.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,35000000,330,False,14.0,False,380.0,False,1989.0,False,2014,3,10.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,22000000,150,False,10.0,False,100.0,False,2015.0,False,2015,2,24.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,15000000,270,False,13.0,False,190.0,False,1990.0,False,2019,1,24.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,26000000,220,False,14.5,False,150.0,False,2012.0,False,2019,1,21.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,16000000,185,False,9.0,False,110.0,False,1990.0,False,2015,4,26.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,6500000,120,False,8.0,False,105.0,False,1994.0,False,2015,3,10.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,23000000,810,False,24.0,False,260.0,False,1978.0,False,2014,4,19.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,240,False,15.0,False,145.0,False,1984.0,False,2014,4,24.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,21000000,660,False,30.0,False,145.0,False,1975.0,False,2014,2,24.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,94000000,2000,True,40.0,False,650.0,False,1976.0,False,2016,4,3.0,True,False,False,False,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,10000000,160,False,8.5,False,140.0,False,1976.0,False,2016,4,2.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,13000000,165,False,8.5,False,140.0,False,1988.0,False,2016,2,4.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,33000000,160,False,9.0,False,110.0,False,2018.0,False,2018,3,16.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,2200000,65,False,5.0,False,55.0,False,1979.0,False,2018,1,20.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,35000000,180,False,12.0,False,110.0,False,2017.0,False,2018,1,16.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,26000000,175,False,11.0,False,120.0,False,2018.0,False,2018,1,18.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,26000000,160,False,11.0,False,115.0,False,2017.0,False,2017,4,15.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,7000000,85,False,6.0,False,70.0,False,1978.0,False,2017,3,19.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,110,False,8.0,False,80.0,False,1979.0,False,2017,1,21.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,25000000,165,False,10.0,False,115.0,False,2017.0,False,2017,1,9.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,7000000,270,False,9.0,False,115.0,False,1982.0,False,2016,3,9.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,40000000,165,False,11.0,False,130.0,False,2016.0,False,2016,2,15.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,24000000,165,False,11.5,False,100.0,False,2016.0,False,2016,2,16.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,20000000,290,False,13.0,False,140.0,False,1993.0,False,2015,4,18.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,22000000,160,False,10.0,False,110.0,False,2003.0,False,2015,3,9.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,8200000,110,False,7.8,False,80.0,False,1979.0,False,2014,4,21.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,15000000,145,False,11.0,False,90.0,False,1979.0,False,2014,4,18.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,25000000,170,False,12.0,False,115.0,False,2014.0,False,2014,3,9.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,15000000,370,False,15.0,False,210.0,False,1997.0,False,2014,2,10.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,15000000,220,False,11.0,False,110.0,False,1975.0,False,2018,1,7.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,10000000,250,False,12.5,False,115.0,False,1995.0,False,2017,4,20.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,28000000,155,False,8.0,False,115.0,False,2017.0,False,2017,2,13.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,60000000,410,False,12.0,False,700.0,False,1991.0,False,2017,1,9.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,10000000,280,False,11.0,False,100.0,False,1976.0,False,2017,1,10.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,17000000,270,False,15.0,False,170.0,False,1972.0,False,2016,3,13.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,16000000,200,False,15.0,False,150.0,False,1992.0,False,2016,1,11.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,3800000,195,False,12.0,False,185.0,False,1977.0,False,2015,4,10.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,10000000,165,False,13.0,False,100.0,False,1986.0,False,2015,4,8.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,6000000,150,False,10.0,False,85.0,False,1986.0,False,2015,3,8.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,230,False,15.0,False,160.0,False,1993.0,False,2014,2,13.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,7300000,140,False,7.0,False,50.0,False,1958.0,False,2015,1,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,21000000,130,False,13.0,False,95.0,False,2016.0,False,2018,4,19.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,1400000,170,False,7.0,False,70.0,False,1976.0,False,2017,2,19.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,19000000,195,False,16.5,False,95.0,False,2006.0,False,2016,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,37000000,270,False,11.0,False,165.0,False,2013.0,False,2015,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,10000000,200,False,10.0,False,95.0,False,1973.0,False,2014,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,10000000,520,False,34.0,False,130.0,False,1993.0,False,2019,1,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,1700000,150,False,4.5,False,115.0,False,1998.0,False,2018,4,75.0,True,False,False,False,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,15000000,270,False,15.0,False,115.0,False,1998.0,False,2017,3,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,20000000,270,False,18.0,False,120.0,False,2010.0,False,2017,3,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,260,False,18.5,False,180.0,False,2007.0,False,2017,1,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,9500000,250,False,16.5,False,100.0,False,2000.0,False,2016,4,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,530,False,30.0,False,95.0,False,1990.0,False,2016,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,12000000,500,False,16.0,False,190.0,False,1996.0,False,2014,4,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,36000000,150,False,15.0,False,110.0,False,2018.0,False,2017,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,37000000,145,False,13.5,False,115.0,False,2017.0,False,2017,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,22000000,135,False,9.0,False,85.0,False,2016.0,False,2016,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,6000000,210,False,9.0,False,120.0,False,1970.0,False,2016,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,15000000,310,False,12.0,False,110.0,False,1989.0,False,2014,3,29.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,19000000,120,False,6.0,False,80.0,False,1967.0,False,2015,1,5.0,True,False,False,False,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,13000000,220,False,12.0,False,175.0,False,1984.0,False,2019,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,24000000,190,False,15.0,False,200.0,False,1996.0,False,2018,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,21000000,250,False,12.0,False,145.0,False,1990.0,False,2017,3,26.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,13000000,250,False,13.0,False,120.0,False,1973.0,False,2016,2,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,14000000,165,False,12.5,False,105.0,False,1984.0,False,2016,1,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,15000000,105,False,8.5,False,100.0,False,1991.0,False,2014,2,18.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,7000000,165,False,10.7,False,125.0,False,1997.0,False,2015,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,13000000,135,False,10.0,False,95.0,False,1985.0,False,2018,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,210,False,10.0,False,105.0,False,1991.0,False,2017,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,18000000,120,False,6.0,False,105.0,False,2014.0,False,2017,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,160,False,5.0,False,125.0,False,2007.0,False,2016,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,3200000,75,False,7.0,False,65.0,False,1972.0,False,2015,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,6200000,115,False,2.0,False,90.0,False,1972.0,False,2014,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,18000000,220,False,14.5,False,125.0,False,1985.0,False,2014,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,5000000,170,False,8.0,False,140.0,False,1972.0,False,2014,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,37000000,940,False,33.0,False,105.0,False,1982.0,False,2017,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,105,False,12.0,False,130.0,False,1986.0,False,2018,3,26.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,19000000,130,False,7.0,False,85.0,False,2016.0,False,2016,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,20000000,220,False,13.0,False,90.0,False,2011.0,False,2019,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,23000000,200,False,16.0,False,160.0,False,1995.0,False,2018,4,23.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,14000000,340,False,10.5,False,200.0,False,1973.0,False,2018,4,24.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,40000000,150,False,7.0,False,100.0,False,2018.0,False,2018,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,4000000,300,False,12.5,False,55.0,False,1985.0,False,2018,1,28.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,33000000,165,False,13.0,False,115.0,False,2017.0,False,2017,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,20000000,125,False,14.0,False,90.0,False,2017.0,False,2017,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,7000000,130,False,12.0,False,90.0,False,1988.0,False,2017,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,12000000,125,False,11.0,False,195.0,False,1994.0,False,2017,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,15000000,135,False,10.5,False,115.0,False,1993.0,False,2016,4,28.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,37000000,160,False,13.0,False,115.0,False,2016.0,False,2016,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,1500000,80,False,5.0,False,90.0,False,1972.0,False,2016,2,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,185,False,12.4,False,160.0,False,1984.0,False,2015,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,6300000,130,False,11.5,False,105.0,False,1977.0,False,2015,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,500,False,13.5,False,220.0,False,1974.0,False,2015,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,8900000,100,False,6.5,False,110.0,False,1991.0,False,2014,3,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,65000000,1900,False,50.0,True,440.0,False,1991.0,False,2018,1,16.0,False,True,False,False,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,8000000,175,False,9.0,False,105.0,False,1972.0,False,2019,1,4.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,13000000,190,False,10.0,False,120.0,False,1970.0,False,2016,1,3.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,13000000,130,False,9.0,False,105.0,False,1987.0,False,2015,1,7.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,9800000,115,False,7.0,False,80.0,False,1975.0,False,2014,4,5.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,4000000,115,False,7.0,False,75.0,False,1975.0,False,2014,3,5.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,22000000,105,False,6.0,False,105.0,False,2015.0,False,2017,4,16.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,2000000,65,False,5.0,False,80.0,False,1966.0,False,2016,2,15.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,15000000,370,False,13.5,False,165.0,False,1964.0,False,2015,4,16.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,30000000,470,False,20.0,False,260.0,False,1982.0,False,2018,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,5500000,125,False,12.0,False,135.0,False,1976.0,False,2016,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,7000000,155,False,6.5,False,95.0,False,2003.0,False,2014,3,28.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,25000000,155,False,10.0,False,95.0,False,2017.0,False,2018,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,41000000,170,False,17.0,False,115.0,False,2017.0,False,2017,3,28.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,17000000,170,False,16.0,False,115.0,False,1994.0,False,2016,1,28.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,9500000,410,False,30.0,False,220.0,False,1974.0,False,2015,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,28000000,190,False,7.0,False,110.0,False,2018.0,False,2018,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,23000000,150,False,15.5,False,100.0,False,2015.0,False,2015,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,16000000,400,False,13.0,False,160.0,False,1983.0,False,2017,1,10.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,3500000,1400,False,30.5,False,95.0,False,1965.0,False,2017,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,23000000,490,False,4.5,False,160.0,False,1989.0,False,2018,1,23.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,10000000,115,False,8.0,False,130.0,False,1992.0,False,2016,3,19.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,15000000,50,False,6.0,False,125.0,False,1997.0,False,2016,1,11.0,True,False,False,False,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,3500000,50,False,5.5,False,65.0,False,1960.0,False,2014,2,16.0,True,False,False,False,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,26000000,135,False,9.0,False,100.0,False,2019.0,False,2019,3,23.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,24000000,155,False,15.0,False,105.0,False,2017.0,False,2017,2,16.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,8900000,95,False,7.0,False,55.0,False,1996.0,False,2017,1,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,5500000,140,False,8.5,False,180.0,False,1980.0,False,2016,4,26.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,26000000,150,False,10.5,False,110.0,False,2016.0,False,2016,3,16.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,27000000,185,False,15.5,False,115.0,False,2016.0,False,2016,2,16.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,7500000,240,False,35.0,False,70.0,False,1983.0,False,2016,2,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,80,False,10.0,False,85.0,False,1992.0,False,2015,1,24.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,22000000,75,False,6.5,False,200.0,False,1971.0,False,2017,1,15.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,9700000,75,False,9.5,False,100.0,False,1977.0,False,2014,2,19.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,4800000,330,False,22.0,False,195.0,False,1975.0,False,2016,1,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,14000000,165,False,11.0,False,95.0,False,1979.0,False,2019,2,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,240,False,11.0,False,165.0,False,1968.0,False,2019,2,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,27000000,145,False,12.5,False,120.0,False,2018.0,False,2018,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,29000000,210,False,10.0,False,125.0,False,2015.0,False,2018,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,26000000,170,False,9.0,False,100.0,False,2018.0,False,2018,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,3600000,120,False,13.0,False,75.0,False,1970.0,False,2018,1,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,5000000,180,False,10.0,False,95.0,False,1981.0,False,2018,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,23000000,145,False,11.5,False,110.0,False,2015.0,False,2017,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,20000000,160,False,8.0,False,100.0,False,2017.0,False,2017,2,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,22000000,145,False,12.0,False,85.0,False,2016.0,False,2017,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,10000000,300,False,11.0,False,100.0,False,1968.0,False,2016,4,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,29000000,165,False,14.0,False,100.0,False,2016.0,False,2016,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,34000000,145,False,13.5,False,115.0,False,2015.0,False,2016,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,28000000,145,False,8.5,False,100.0,False,2015.0,False,2015,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,17000000,210,False,15.0,False,155.0,False,1988.0,False,2015,3,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,28000000,155,False,11.0,False,115.0,False,2015.0,False,2015,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,24000000,200,False,17.5,False,105.0,False,2015.0,False,2015,2,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,23000000,175,False,9.0,False,105.0,False,2015.0,False,2015,2,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,33000000,170,False,10.0,False,110.0,False,2014.0,False,2015,2,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,5100000,150,False,9.5,False,60.0,False,1979.0,False,2015,2,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,2000000,100,False,10.5,False,80.0,False,1972.0,False,2015,1,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,32000000,175,False,14.0,False,105.0,False,2015.0,False,2015,1,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,22000000,150,False,13.5,False,100.0,False,2014.0,False,2014,3,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,6800000,165,False,15.0,False,90.0,False,1977.0,False,2014,3,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,24000000,330,False,38.0,False,105.0,False,2014.0,False,2014,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,3500000,110,False,8.0,False,85.0,False,1973.0,False,2014,3,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,27000000,165,False,10.0,False,90.0,False,2014.0,False,2014,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,28000000,145,False,11.5,False,85.0,False,2017.0,False,2016,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,3500000,75,False,8.0,False,65.0,False,1978.0,False,2018,2,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,18000000,260,False,15.0,False,150.0,False,1983.0,False,2018,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,33000000,160,False,12.0,False,100.0,False,2019.0,False,2019,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,16000000,195,False,10.0,False,125.0,False,1987.0,False,2016,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,18000000,95,False,9.0,False,75.0,False,2015.0,False,2015,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,9500000,160,False,16.0,False,120.0,False,1999.0,False,2014,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,850000,200,False,10.0,False,105.0,False,1975.0,False,2014,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,30000000,330,False,18.0,False,240.0,False,1966.0,False,2016,4,24.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,8000000,850,False,35.0,False,240.0,False,1998.0,False,2014,3,23.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,13000000,175,False,12.5,False,120.0,False,1993.0,False,2016,1,4.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,13000000,180,False,17.0,False,200.0,False,1997.0,False,2014,3,7.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,13000000,200,False,12.5,False,105.0,False,1985.0,False,2014,3,19.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,8500000,100,False,7.7,False,80.0,False,1998.0,False,2018,4,28.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,24000000,125,False,8.0,False,105.0,False,2015.0,False,2015,3,24.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,24000000,135,False,6.0,False,105.0,False,2015.0,False,2015,2,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,8000000,185,False,14.5,False,55.0,False,1971.0,False,2015,1,24.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,33000000,175,False,15.5,False,120.0,False,2019.0,False,2019,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,3000000,80,False,6.0,False,70.0,False,1976.0,False,2018,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,5800000,95,False,9.5,False,115.0,False,1980.0,False,2017,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,26000000,330,False,17.0,False,320.0,False,1990.0,False,2017,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,16000000,260,False,12.0,False,170.0,False,1998.0,False,2014,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,8800000,105,False,6.5,False,120.0,False,1978.0,False,2017,2,19.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,26000000,330,False,15.0,False,160.0,False,1993.0,False,2018,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,10000000,165,False,14.0,False,75.0,False,1991.0,False,2017,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,1500000,80,False,5.5,False,85.0,False,1972.0,False,2016,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,7000000,120,False,12.0,False,85.0,False,1980.0,False,2015,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,500000,45,False,5.5,False,60.0,False,1970.0,False,2015,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,1000000,110,False,11.5,False,70.0,False,1963.0,False,2014,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,3500000,410,False,21.0,False,100.0,False,1984.0,False,2016,2,75.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,50000000,1400,False,40.0,False,610.0,False,1977.0,False,2019,1,28.0,True,False,False,False,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,31000000,260,False,12.0,False,120.0,False,2015.0,False,2018,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,4000000,85,False,4.5,False,45.0,False,1981.0,False,2018,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,6000000,150,False,8.0,False,135.0,False,1971.0,False,2017,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,7900000,115,False,17.0,False,90.0,False,1981.0,False,2015,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,26000000,165,False,10.0,False,110.0,False,2019.0,False,2019,2,21.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,25000000,150,False,17.5,False,120.0,False,2017.0,False,2017,1,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,21000000,135,False,5.0,False,95.0,False,2016.0,False,2016,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,6000000,125,False,10.0,False,110.0,False,1981.0,False,2016,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,15000000,120,False,9.0,False,80.0,False,1994.0,False,2016,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,7800000,120,False,9.0,False,80.0,False,1994.0,False,2015,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,22000000,165,False,9.5,False,125.0,False,1999.0,False,2015,2,24.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,16000000,200,False,10.0,False,190.0,False,2003.0,False,2015,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,5000000,165,False,5.5,False,360.0,False,1981.0,False,2017,1,9.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,12000000,125,False,6.0,False,105.0,False,2008.0,False,2017,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,180,False,10.0,False,105.0,False,1988.0,False,2015,4,29.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,36000000,210,False,12.0,False,180.0,False,2000.0,False,2015,3,29.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,15000000,130,False,7.0,False,130.0,False,1991.0,False,2015,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,20000000,180,False,8.0,False,100.0,False,2010.0,False,2014,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,31000000,185,False,12.5,False,165.0,False,2007.0,False,2018,4,15.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,7400000,600,False,13.0,False,190.0,False,1979.0,False,2017,4,21.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,6000000,600,False,13.0,False,190.0,False,1979.0,False,2017,3,18.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,23000000,145,False,16.5,False,105.0,False,2017.0,False,2017,2,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,1600000,180,False,10.0,False,105.0,False,1989.0,False,2019,2,6.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,19000000,190,False,15.5,False,130.0,False,2004.0,False,2019,1,14.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,7800000,220,False,16.0,False,210.0,False,1978.0,False,2018,1,8.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,16000000,150,False,16.0,False,110.0,False,1996.0,False,2017,3,14.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,18000000,190,False,12.0,False,135.0,False,1998.0,False,2017,2,13.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,7500000,270,False,18.0,False,130.0,False,1977.0,False,2016,2,9.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,19000000,150,False,15.0,False,105.0,False,2014.0,False,2015,2,14.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,16000000,570,False,26.0,False,155.0,False,1975.0,False,2014,4,9.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,8000000,630,False,20.0,False,185.0,False,1977.0,False,2014,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,37000000,165,False,12.0,False,120.0,False,2019.0,False,2018,3,29.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,24000000,140,False,9.0,False,105.0,False,2017.0,False,2017,4,26.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,6000000,105,False,9.0,False,95.0,False,1982.0,False,2017,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,29000000,165,False,11.0,False,120.0,False,2009.0,False,2017,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,25000000,135,False,13.0,False,110.0,False,2016.0,False,2016,2,28.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,15000000,210,False,11.5,False,105.0,False,1988.0,False,2015,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,13000000,200,False,14.0,False,140.0,False,1979.0,False,2015,4,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,15000000,1200,False,23.0,False,140.0,False,2002.0,False,2017,1,105.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,6000000,440,False,24.0,False,240.0,False,1985.0,False,2019,2,6.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,580,False,26.5,False,125.0,False,1965.0,False,2018,4,1.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,1000000,110,False,6.0,False,90.0,False,1989.0,False,2016,4,1.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,650000,70,False,7.0,False,80.0,False,1979.0,False,2016,1,6.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,16000000,210,False,15.0,False,105.0,False,1993.0,False,2014,4,29.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,7000000,200,False,27.0,False,220.0,False,1965.0,False,2014,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,8000000,310,False,20.0,False,145.0,False,1981.0,False,2018,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,8500000,200,False,9.0,False,125.0,False,1985.0,False,2017,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,7600000,70,False,5.0,False,185.0,False,1987.0,False,2016,1,9.0,True,False,False,False,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,13000000,50,False,4.0,False,140.0,False,1988.0,False,2015,3,8.0,True,False,False,False,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,14000000,100,False,15.0,False,110.0,False,1980.0,False,2019,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,14000000,80,False,10.0,False,85.0,False,2005.0,False,2019,1,28.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,4800000,120,False,9.0,False,100.0,False,1970.0,False,2018,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,98000000,910,False,18.0,False,850.0,False,1990.0,False,2018,1,24.0,True,False,False,False,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,19000000,190,False,9.0,False,140.0,False,1993.0,False,2016,1,28.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,12000000,160,False,18.5,False,65.0,False,1957.0,False,2014,4,28.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,16000000,165,False,16.0,False,115.0,False,1989.0,False,2014,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,4500000,70,False,7.0,False,90.0,False,1974.0,False,2018,4,13.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,1600000,105,False,8.0,False,90.0,False,1967.0,False,2018,4,18.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,13000000,320,False,9.0,False,130.0,False,1983.0,False,2017,4,16.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,13000000,250,False,7.5,False,190.0,False,1968.0,False,2017,2,15.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,17000000,135,False,11.0,False,130.0,False,1999.0,False,2014,3,12.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,4000000,70,False,5.0,False,65.0,False,1987.0,False,2014,3,17.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,17000000,310,False,5.0,False,150.0,False,1989.0,False,2019,3,18.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,8500000,160,False,6.0,False,170.0,False,1978.0,False,2015,4,21.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,16000000,160,False,5.0,False,170.0,False,1978.0,False,2015,4,21.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,3000000,165,False,25.0,False,115.0,False,1966.0,False,2018,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,5500000,165,False,7.0,False,105.0,False,1974.0,False,2016,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,17000000,330,False,12.5,False,135.0,False,1992.0,False,2014,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,19000000,200,False,11.0,False,150.0,False,1979.0,False,2019,2,15.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,12000000,220,False,12.0,False,165.0,False,1986.0,False,2018,4,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,21000000,135,False,6.0,False,50.0,False,2018.0,False,2018,3,21.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,3500000,70,False,10.0,False,60.0,False,1974.0,False,2018,1,12.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,2700000,85,False,12.5,False,60.0,False,1978.0,False,2017,4,24.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,14000000,300,False,22.0,False,145.0,False,1991.0,False,2017,3,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,12000000,230,False,12.0,False,120.0,False,1979.0,False,2016,4,15.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,165,False,7.5,False,80.0,False,1973.0,False,2016,4,23.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,8500000,165,False,10.0,False,80.0,False,1973.0,False,2016,3,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,3500000,90,False,5.5,False,105.0,False,1973.0,False,2016,2,18.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,3500000,80,False,9.5,False,80.0,False,1975.0,False,2016,1,14.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,5300000,110,False,12.0,False,125.0,False,1977.0,False,2015,4,24.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,17000000,190,False,5.0,False,95.0,False,1985.0,False,2015,3,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,52000000,780,False,21.0,False,450.0,False,1999.0,False,2014,2,20.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,11000000,165,False,16.5,False,105.0,False,1994.0,False,2019,2,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,5300000,90,False,6.5,False,75.0,False,1981.0,False,2017,4,20.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,12000000,160,False,10.0,False,105.0,False,1987.0,False,2016,4,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,17000000,165,False,16.5,False,125.0,False,1987.0,False,2015,3,25.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,19000000,250,False,10.0,False,145.0,False,2000.0,False,2019,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,25000000,260,False,16.0,False,155.0,False,2016.0,False,2019,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,27000000,250,False,16.0,False,125.0,False,2005.0,False,2018,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,25000000,280,False,16.5,False,140.0,False,1997.0,False,2017,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,18000000,310,False,20.0,False,175.0,False,1997.0,False,2017,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,19000000,260,False,15.0,False,125.0,False,2000.0,False,2017,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,15000000,280,False,19.0,False,135.0,False,1998.0,False,2017,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,24000000,250,False,15.0,False,155.0,False,1997.0,False,2017,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,23000000,320,False,17.0,False,85.0,False,2014.0,False,2017,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,16000000,250,False,15.0,False,105.0,False,2002.0,False,2016,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,23000000,240,False,10.5,False,125.0,False,2006.0,False,2015,3,26.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,40000000,260,False,16.0,False,145.0,False,2016.0,False,2015,3,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,19000000,340,False,17.0,False,165.0,False,1997.0,False,2014,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,18000000,240,False,13.5,False,125.0,False,1998.0,False,2017,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,15000000,330,False,20.0,False,175.0,False,1991.0,False,2018,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,14000000,310,False,18.5,False,165.0,False,1998.0,False,2017,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,15000000,280,False,17.5,False,140.0,False,1992.0,False,2017,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,14000000,270,False,14.0,False,110.0,False,1992.0,False,2016,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,22000000,320,False,21.5,False,200.0,False,1997.0,False,2015,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,12000000,300,False,17.5,False,130.0,False,1994.0,False,2015,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,13000000,290,False,16.5,False,135.0,False,1989.0,False,2015,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,18000000,290,False,19.5,False,125.0,False,1990.0,False,2015,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,20000000,260,False,17.0,False,150.0,False,1995.0,False,2015,2,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,20000000,270,False,16.0,False,150.0,False,1995.0,False,2015,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,17000000,230,False,14.0,False,135.0,False,1991.0,False,2015,1,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Tottori City,22000000,320,False,12.5,False,220.0,False,1993.0,False,2014,4,45.0,False,False,False,True,4,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,3000000,380,False,23.5,False,95.0,False,1980.0,False,2014,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,900000,65,False,4.0,False,130.0,False,1966.0,False,2019,1,25.0,True,False,False,False,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,3800000,210,False,14.0,False,85.0,False,1976.0,False,2017,1,15.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,11000000,430,False,11.5,False,240.0,False,1985.0,False,2018,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,21000000,190,False,13.5,False,120.0,False,1988.0,False,2015,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,10000000,190,False,13.5,False,120.0,False,1988.0,False,2015,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,16000000,210,False,15.0,False,135.0,False,1991.0,False,2014,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,12000000,180,False,11.5,False,120.0,False,1988.0,False,2014,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,5500000,240,False,9.0,False,100.0,False,1984.0,False,2016,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,6000000,210,False,10.0,False,110.0,False,1986.0,False,2015,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,4100000,400,False,12.0,False,90.0,False,1981.0,False,2015,1,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,8300000,195,False,19.0,False,80.0,False,1985.0,False,2018,2,11.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,33000000,1500,False,36.0,False,380.0,False,2000.0,False,2019,2,12.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9500000,210,False,14.5,False,125.0,False,1980.0,False,2017,4,10.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,13000000,670,False,28.0,False,170.0,False,1979.0,False,2017,3,15.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,15000000,330,False,23.0,False,150.0,False,1979.0,False,2015,1,15.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,6700000,360,False,15.0,False,75.0,False,1974.0,False,2017,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,2200000,840,False,21.5,False,165.0,False,1956.0,False,2015,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,16000000,270,False,13.0,False,150.0,False,1996.0,False,2014,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,17000000,500,False,15.5,False,90.0,False,1997.0,False,2014,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,6000000,210,False,18.0,False,95.0,False,1945.0,True,2019,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,7000000,240,False,3.0,False,110.0,False,1999.0,False,2018,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9800000,280,False,12.0,False,120.0,False,1991.0,False,2017,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,14000000,250,False,16.0,False,105.0,False,1983.0,False,2017,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,13000000,180,False,12.0,False,110.0,False,1982.0,False,2017,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,4000000,250,False,16.0,False,105.0,False,1983.0,False,2017,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9500000,210,False,14.0,False,80.0,False,1997.0,False,2016,4,27.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,15000000,180,False,12.0,False,100.0,False,1982.0,False,2015,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,13000000,175,False,11.5,False,115.0,False,1994.0,False,2015,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,10000000,135,False,12.0,False,105.0,False,2001.0,False,2017,2,45.0,True,False,False,False,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,15000000,180,False,11.0,False,100.0,False,1987.0,False,2014,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9800000,440,False,16.5,False,50.0,False,1974.0,False,2014,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,7800000,180,False,15.0,False,85.0,False,1991.0,False,2018,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,17000000,490,False,19.0,False,160.0,False,1994.0,False,2016,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,10000000,180,False,15.0,False,160.0,False,1991.0,False,2015,1,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,15000000,160,False,10.0,False,120.0,False,2008.0,False,2016,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,18000000,410,False,16.0,False,190.0,False,1986.0,False,2018,1,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,12000000,140,False,12.0,False,100.0,False,1996.0,False,2015,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,28000000,410,False,10.5,False,300.0,False,1970.0,False,2017,4,20.0,True,False,False,False,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,11000000,390,False,16.0,False,110.0,False,1987.0,False,2015,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,2600000,220,False,7.0,False,90.0,False,1966.0,False,2019,3,5.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,28000000,220,False,8.0,False,105.0,False,2018.0,False,2019,2,4.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,26000000,200,False,16.0,False,125.0,False,2017.0,False,2017,3,18.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,18000000,720,False,22.0,False,300.0,False,1972.0,False,2017,3,9.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,7800000,140,False,13.0,False,80.0,False,1973.0,False,2016,2,10.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,4000000,290,False,20.0,False,230.0,False,1969.0,False,2015,2,3.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,6500000,240,False,15.0,False,85.0,False,1962.0,False,2014,4,10.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,2000000,190,False,13.0,False,65.0,False,1960.0,False,2019,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,3800000,220,False,23.0,False,75.0,False,1971.0,False,2018,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,20000000,300,False,14.5,False,125.0,False,1992.0,False,2018,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,26000000,140,False,11.0,False,95.0,False,2017.0,False,2018,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,24000000,175,False,16.0,False,115.0,False,2005.0,False,2017,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,24000000,340,False,10.0,False,165.0,False,1998.0,False,2016,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,17000000,340,False,10.5,False,165.0,False,1998.0,False,2015,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,7500000,400,False,13.0,False,105.0,False,1961.0,False,2015,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,4000000,200,False,13.5,False,220.0,False,1966.0,False,2015,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,18000000,140,False,18.0,False,105.0,False,2004.0,False,2015,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,4000000,160,False,12.0,False,40.0,False,1967.0,False,2014,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,6300000,230,False,19.5,False,85.0,False,1976.0,False,2018,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,18000000,185,False,12.0,False,115.0,False,2011.0,False,2016,4,16.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,13000000,155,False,8.1,False,105.0,False,1973.0,False,2014,2,19.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,2000000,90,False,7.0,False,65.0,False,1971.0,False,2019,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,28000000,220,False,15.5,False,115.0,False,2019.0,False,2018,4,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,27000000,210,False,16.0,False,110.0,False,2018.0,False,2018,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,4200000,145,False,11.5,False,110.0,False,1980.0,False,2018,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,13000000,330,False,12.0,False,65.0,False,2018.0,False,2018,1,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,500000,135,False,8.0,False,80.0,False,1973.0,False,2017,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,3000000,380,False,13.0,False,115.0,False,1960.0,False,2017,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,23000000,185,False,12.0,False,115.0,False,2011.0,False,2017,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,33000000,185,False,11.5,False,105.0,False,2016.0,False,2016,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,8000000,180,False,10.0,False,135.0,False,1970.0,False,2016,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,13000000,120,False,6.0,False,100.0,False,2005.0,False,2016,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9800000,250,False,12.0,False,115.0,False,1974.0,False,2016,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,3500000,195,False,18.0,False,120.0,False,1980.0,False,2016,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,4100000,200,False,13.5,False,95.0,False,1970.0,False,2015,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9000000,330,False,9.0,False,210.0,False,1976.0,False,2015,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,22000000,220,False,13.0,False,140.0,False,2004.0,False,2015,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,7500000,660,False,31.0,False,190.0,False,1998.0,False,2017,2,6.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,21000000,220,False,11.0,False,105.0,False,2002.0,False,2016,2,6.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,16000000,145,False,12.5,False,120.0,False,2003.0,False,2015,1,4.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,18000000,195,False,12.0,False,110.0,False,2017.0,False,2017,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9000000,165,False,9.0,False,115.0,False,1984.0,False,2018,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,5000000,150,False,8.5,False,85.0,False,1995.0,False,2018,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,5000000,160,False,9.0,False,70.0,False,1983.0,False,2017,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,30000000,80,False,11.0,False,120.0,False,2016.0,False,2016,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,30000000,85,False,11.0,False,120.0,False,2016.0,False,2016,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,8000000,520,False,24.0,False,115.0,False,1973.0,False,2016,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,5800000,140,False,9.0,False,90.0,False,1979.0,False,2015,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,7800000,190,False,14.0,False,100.0,False,2000.0,False,2018,3,105.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9000000,330,False,13.0,False,110.0,False,1980.0,False,2018,2,9.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9500000,260,False,8.5,False,100.0,False,1976.0,False,2017,4,13.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,7500000,320,False,12.0,False,110.0,False,1972.0,False,2017,2,13.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,21000000,200,False,11.0,False,135.0,False,2000.0,False,2017,2,9.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,15000000,220,False,11.5,False,125.0,False,2002.0,False,2017,1,9.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,7800000,320,False,12.0,False,105.0,False,1974.0,False,2016,3,12.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,19000000,185,False,12.0,False,115.0,False,2005.0,False,2016,2,8.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,20000000,170,False,12.0,False,115.0,False,2005.0,False,2016,2,8.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9000000,280,False,16.0,False,130.0,False,1994.0,False,2015,1,16.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,7800000,160,False,6.0,False,95.0,False,1986.0,False,2014,4,26.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9100000,330,False,20.0,False,160.0,False,2006.0,False,2014,4,5.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,8200000,300,False,15.0,False,75.0,False,1973.0,False,2017,4,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,6200000,240,False,15.5,False,120.0,False,1974.0,False,2017,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,5800000,165,False,7.5,False,105.0,False,1985.0,False,2015,4,24.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,28000000,390,False,21.0,False,200.0,False,2009.0,False,2019,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,22000000,185,False,3.0,False,100.0,False,2007.0,False,2018,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,27000000,210,False,12.0,False,135.0,False,2003.0,False,2018,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,33000000,195,False,8.0,False,105.0,False,2017.0,False,2018,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,7000000,270,False,8.0,False,120.0,False,1990.0,False,2014,4,27.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,8300000,250,False,15.0,False,210.0,False,1986.0,False,2017,1,13.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,24000000,155,False,11.0,False,95.0,False,2018.0,False,2018,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,11000000,155,False,11.0,False,125.0,False,1982.0,False,2015,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,13000000,270,False,13.5,False,125.0,False,1996.0,False,2019,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,70000000,2000,True,50.0,True,1300.0,False,1993.0,False,2016,1,21.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,10000000,420,False,11.5,False,135.0,False,1986.0,False,2018,3,4.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,20000000,440,False,18.0,False,195.0,False,1977.0,False,2017,2,18.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9500000,380,False,25.5,False,150.0,False,1972.0,False,2018,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,25000000,390,False,26.0,False,210.0,False,2013.0,False,2018,1,45.0,True,False,False,False,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,23000000,220,False,10.5,False,110.0,False,2016.0,False,2018,3,9.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,4000000,95,False,8.0,False,130.0,False,1968.0,False,2017,2,5.0,True,False,False,False,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,630000000,1800,False,39.0,False,2000.0,True,2013.0,False,2018,1,10.0,True,False,False,False,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,28000000,300,False,20.0,False,120.0,False,2017.0,False,2017,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,22000000,125,False,10.0,False,90.0,False,2018.0,False,2019,2,1.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,16000000,230,False,15.5,False,120.0,False,1964.0,False,2019,2,6.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,4800000,145,False,10.0,False,70.0,False,1973.0,False,2018,1,4.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,6100000,240,False,11.0,False,115.0,False,1969.0,False,2017,4,6.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,7200000,150,False,16.0,False,125.0,False,1996.0,False,2016,4,9.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,2600000,105,False,9.0,False,105.0,False,1952.0,False,2016,4,9.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,10000000,270,False,18.0,False,160.0,False,1971.0,False,2016,3,2.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,8000000,180,False,13.0,False,125.0,False,1992.0,False,2014,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,13000000,155,False,11.0,False,115.0,False,1992.0,False,2014,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,8500000,135,False,8.0,False,105.0,False,2000.0,False,2014,2,7.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,21000000,185,False,10.0,False,95.0,False,2017.0,False,2016,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,23000000,165,False,9.0,False,100.0,False,2017.0,False,2016,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,10000000,145,False,10.0,False,105.0,False,1995.0,False,2016,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,20000000,155,False,9.0,False,125.0,False,2004.0,False,2019,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,24000000,210,False,13.0,False,135.0,False,2004.0,False,2019,1,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,23000000,250,False,12.0,False,100.0,False,2018.0,False,2018,4,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,23000000,175,False,8.5,False,105.0,False,2018.0,False,2018,4,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,28000000,195,False,10.0,False,115.0,False,2017.0,False,2017,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,10000000,145,False,8.5,False,105.0,False,1994.0,False,2017,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,18000000,260,False,12.0,False,145.0,False,1979.0,False,2017,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,12000000,200,False,18.0,False,100.0,False,1979.0,False,2017,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,11000000,200,False,13.0,False,125.0,False,1987.0,False,2017,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,8500000,260,False,12.0,False,145.0,False,1979.0,False,2017,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,27000000,220,False,16.5,False,130.0,False,2014.0,False,2017,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,27000000,210,False,12.0,False,140.0,False,2010.0,False,2016,1,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,11000000,270,False,5.0,False,115.0,False,1988.0,False,2015,4,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,25000000,195,False,10.5,False,105.0,False,2016.0,False,2015,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,30000000,195,False,11.5,False,120.0,False,2014.0,False,2015,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,29000000,190,False,11.5,False,120.0,False,2014.0,False,2014,4,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,6800000,190,False,14.5,False,125.0,False,1977.0,False,2014,4,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,30000000,125,False,8.0,False,105.0,False,2014.0,False,2014,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,33000000,260,False,18.0,False,120.0,False,2014.0,False,2014,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9800000,610,False,9.0,False,310.0,False,1962.0,False,2015,1,24.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,1800000,110,False,9.0,False,250.0,False,1973.0,False,2018,1,8.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9400000,380,False,6.5,False,80.0,False,1954.0,False,2017,4,6.0,True,False,False,False,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,8500000,185,False,7.0,False,135.0,False,1980.0,False,2017,3,13.0,True,False,False,False,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9500000,110,False,13.0,False,85.0,False,1989.0,False,2016,3,23.0,True,False,False,False,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,6800000,195,False,9.0,False,85.0,False,1966.0,False,2016,2,15.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,8500000,105,False,8.5,False,140.0,False,1990.0,False,2014,2,21.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,11000000,115,False,9.0,False,75.0,False,1975.0,False,2018,3,25.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,7800000,170,False,12.0,False,95.0,False,1980.0,False,2018,2,15.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,20000000,150,False,10.5,False,115.0,False,2017.0,False,2017,4,20.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,13000000,190,False,12.0,False,115.0,False,1980.0,False,2017,3,15.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,3700000,190,False,12.0,False,115.0,False,1980.0,False,2017,1,15.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,3800000,155,False,14.5,False,90.0,False,1981.0,False,2016,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,19000000,170,False,13.0,False,115.0,False,2007.0,False,2016,4,25.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,12000000,280,False,17.0,False,120.0,False,1991.0,False,2015,2,15.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,25000000,240,False,13.0,False,140.0,False,2019.0,False,2019,1,120.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,10000000,250,False,11.5,False,125.0,False,2006.0,False,2018,3,105.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,24000000,220,False,13.0,False,105.0,False,2018.0,False,2018,2,105.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,21000000,150,False,10.0,False,110.0,False,2018.0,False,2018,2,105.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,7100000,290,False,18.0,False,115.0,False,1987.0,False,2018,2,105.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9000000,290,False,11.0,False,130.0,False,1980.0,False,2019,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,14000000,250,False,13.0,False,130.0,False,2003.0,False,2018,4,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,8500000,290,False,14.0,False,140.0,False,1980.0,False,2018,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,5400000,250,False,14.0,False,75.0,False,1978.0,False,2018,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,18000000,230,False,14.0,False,85.0,False,2017.0,False,2018,1,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,4000000,280,False,14.0,False,120.0,False,1980.0,False,2017,4,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,16000000,270,False,13.0,False,100.0,False,1979.0,False,2017,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,6500000,290,False,13.0,False,145.0,False,1980.0,False,2017,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,8300000,280,False,13.5,False,115.0,False,1979.0,False,2017,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,5000000,200,False,12.0,False,55.0,False,1974.0,False,2017,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,11000000,290,False,14.0,False,90.0,False,1980.0,False,2016,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,14000000,200,False,11.0,False,140.0,False,1999.0,False,2015,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,2500000,250,False,13.0,False,125.0,False,1982.0,False,2015,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,12000000,230,False,9.5,False,115.0,False,1979.0,False,2014,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,15000000,290,False,14.0,False,120.0,False,1979.0,False,2014,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,3900000,165,False,8.0,False,85.0,False,1967.0,False,2017,1,11.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,14000000,280,False,15.5,False,120.0,False,1988.0,False,2016,2,10.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,15000000,400,False,4.0,False,165.0,False,1993.0,False,2019,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,3000000,115,False,10.0,False,75.0,False,1981.0,False,2018,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,3300000,140,False,8.0,False,95.0,False,1973.0,False,2017,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,14000000,165,False,13.5,False,120.0,False,1994.0,False,2014,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,4800000,190,False,14.0,False,110.0,False,1974.0,False,2016,2,23.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,51000000,2000,True,39.0,False,1100.0,False,1974.0,False,2015,2,28.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,22000000,330,False,11.5,False,135.0,False,1988.0,False,2014,4,28.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,34000000,640,False,15.0,False,175.0,False,2008.0,False,2018,4,6.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,3700000,90,False,5.0,False,100.0,False,1979.0,False,2018,4,6.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,28000000,200,False,6.5,False,115.0,False,2013.0,False,2014,3,7.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,32000000,175,False,13.5,False,105.0,False,2018.0,False,2018,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,45000000,210,False,12.0,False,125.0,False,2018.0,False,2018,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,41000000,190,False,10.0,False,130.0,False,2018.0,False,2018,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,30000000,470,False,17.5,False,300.0,False,1979.0,False,2017,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,110000000,2000,True,49.5,False,1100.0,False,1990.0,False,2016,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,27000000,195,False,13.0,False,120.0,False,2003.0,False,2016,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,19000000,240,False,13.5,False,135.0,False,1997.0,False,2016,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9000000,240,False,13.5,False,135.0,False,1997.0,False,2015,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,5500000,170,False,16.0,False,95.0,False,1975.0,False,2015,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,2800000,45,False,12.0,False,60.0,False,1965.0,False,2014,3,45.0,True,False,False,False,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,6800000,510,False,50.0,True,80.0,False,1959.0,False,2018,4,11.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,27000000,690,False,26.0,False,240.0,False,1996.0,False,2014,4,24.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,15000000,200,False,17.0,False,110.0,False,1967.0,False,2015,4,4.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9500000,370,False,17.5,False,140.0,False,1986.0,False,2015,3,5.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,32000000,185,False,15.0,False,110.0,False,2015.0,False,2017,1,5.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,39000000,185,False,16.0,False,125.0,False,2017.0,False,2017,1,6.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,39000000,190,False,17.0,False,130.0,False,2016.0,False,2016,2,5.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,34000000,180,False,15.0,False,120.0,False,2014.0,False,2015,2,6.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,33000000,190,False,16.5,False,120.0,False,2014.0,False,2014,1,5.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,28000000,200,False,11.0,False,125.0,False,2016.0,False,2016,4,12.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,6300000,580,False,14.0,False,200.0,False,1960.0,False,2019,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,32000000,160,False,14.0,False,460.0,False,1995.0,False,2019,1,26.0,True,False,False,False,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,10000000,135,False,9.5,False,85.0,False,1980.0,False,2018,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,25000000,460,False,17.5,False,240.0,False,1994.0,False,2018,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,12000000,400,False,16.0,False,105.0,False,1963.0,False,2018,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,16000000,510,False,18.5,False,175.0,False,1966.0,False,2018,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,8000000,135,False,9.5,False,85.0,False,1980.0,False,2018,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,7300000,360,False,32.0,False,120.0,False,1974.0,False,2017,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,8000000,155,False,15.0,False,80.0,False,1990.0,False,2017,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,20000000,330,False,22.0,False,290.0,False,1991.0,False,2016,4,28.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,12000000,260,False,16.5,False,175.0,False,1999.0,False,2016,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,17000000,195,False,17.5,False,125.0,False,1993.0,False,2016,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,11000000,240,False,12.0,False,125.0,False,1977.0,False,2015,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,14000000,360,False,22.0,False,155.0,False,1988.0,False,2014,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,7300000,185,False,8.0,False,185.0,False,1978.0,False,2018,3,28.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,30000000,400,False,13.0,False,195.0,False,1962.0,False,2017,1,10.0,True,False,False,False,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,26000000,330,False,25.0,False,490.0,False,1987.0,False,2018,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,24000000,130,False,8.0,False,105.0,False,2018.0,False,2018,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,5800000,230,False,11.0,False,115.0,False,1975.0,False,2017,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9800000,260,False,17.0,False,150.0,False,1975.0,False,2017,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,39000000,230,False,12.0,False,105.0,False,2015.0,False,2015,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,11000000,280,False,8.0,False,240.0,False,1981.0,False,2015,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,44000000,2000,True,38.0,False,380.0,False,1972.0,False,2015,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,7800000,460,False,12.0,False,55.0,False,1976.0,False,2014,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9000000,165,False,8.0,False,85.0,False,1980.0,False,2019,1,24.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,3000000,320,False,20.0,False,45.0,False,1979.0,False,2015,1,26.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,400000,150,False,13.5,False,125.0,False,1976.0,False,2019,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,18000000,200,False,13.0,False,130.0,False,1996.0,False,2016,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9000000,310,False,20.0,False,150.0,False,1972.0,False,2019,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,14000000,230,False,11.5,False,140.0,False,1978.0,False,2019,1,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,13000000,180,False,13.0,False,75.0,False,2013.0,False,2018,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,19000000,1000,False,31.0,False,260.0,False,1975.0,False,2017,4,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9500000,590,False,36.5,False,155.0,False,1971.0,False,2017,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9200000,380,False,21.0,False,115.0,False,1975.0,False,2017,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,15000000,270,False,27.5,False,100.0,False,1968.0,False,2017,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,13000000,190,False,13.0,False,95.0,False,1992.0,False,2016,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,15000000,240,False,19.0,False,115.0,False,2000.0,False,2016,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9600000,220,False,14.0,False,85.0,False,1977.0,False,2014,4,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,5900000,290,False,18.0,False,80.0,False,1981.0,False,2017,1,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,5500000,210,False,9.0,False,210.0,False,1978.0,False,2016,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,7000000,65,False,6.0,False,80.0,False,1980.0,False,2016,4,7.0,True,False,False,False,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,14000000,300,False,13.0,False,170.0,False,1979.0,False,2015,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,17000000,200,False,11.5,False,100.0,False,1978.0,False,2018,3,18.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,13000000,450,False,19.0,False,250.0,False,1978.0,False,2016,3,18.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,14000000,210,False,14.0,False,80.0,False,1990.0,False,2015,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,8000000,210,False,14.0,False,80.0,False,1990.0,False,2014,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,20000000,290,False,14.5,False,185.0,False,1982.0,False,2017,4,15.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,11000000,290,False,16.5,False,120.0,False,1970.0,False,2015,1,15.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,16000000,630,False,17.0,False,185.0,False,1972.0,False,2015,4,21.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,8500000,1200,False,31.0,False,170.0,False,1981.0,False,2018,1,24.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,2300000,65,False,6.0,False,195.0,False,1970.0,False,2015,1,13.0,True,False,False,False,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,24000000,220,False,12.0,False,110.0,False,2017.0,False,2017,4,10.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,4000000,370,False,24.0,False,155.0,False,1973.0,False,2016,2,13.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9600000,210,False,9.5,False,145.0,False,1993.0,False,2014,2,11.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,24000000,175,False,11.0,False,110.0,False,2019.0,False,2019,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,30000000,210,False,14.0,False,125.0,False,2019.0,False,2019,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,6000000,135,False,11.0,False,110.0,False,1997.0,False,2019,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,12000000,240,False,28.5,False,80.0,False,1975.0,False,2018,1,25.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,8500000,200,False,16.0,False,85.0,False,1990.0,False,2017,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,4500000,330,False,18.0,False,80.0,False,1975.0,False,2017,3,25.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,4500000,440,False,18.0,False,80.0,False,1975.0,False,2017,3,26.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,2000000,240,False,28.5,False,80.0,False,1975.0,False,2017,2,25.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,3600000,480,False,6.0,False,95.0,False,1984.0,False,2017,1,26.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9300000,210,False,10.0,False,90.0,False,1995.0,False,2016,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,7600000,330,False,13.0,False,100.0,False,1991.0,False,2016,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,5000000,230,False,19.5,False,115.0,False,1977.0,False,2016,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,13000000,200,False,13.5,False,175.0,False,1994.0,False,2015,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,18000000,220,False,12.0,False,125.0,False,1997.0,False,2015,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,8000000,320,False,15.0,False,60.0,False,1975.0,False,2015,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,23000000,180,False,11.0,False,100.0,False,2014.0,False,2014,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,20000000,560,False,22.0,False,220.0,False,1981.0,False,2014,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,22000000,210,False,9.5,False,115.0,False,2014.0,False,2014,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,14000000,520,False,11.0,False,175.0,False,2002.0,False,2015,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,600000,270,False,14.5,False,120.0,False,1988.0,False,2015,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,5800000,170,False,11.0,False,90.0,False,1988.0,False,2014,4,28.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,11000000,290,False,11.0,False,165.0,False,1978.0,False,2015,3,6.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,20000000,260,False,12.0,False,140.0,False,1979.0,False,2018,3,1.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,12000000,260,False,12.0,False,140.0,False,1979.0,False,2017,2,1.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,2600000,95,False,10.0,False,65.0,False,1964.0,False,2017,1,6.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,18000000,290,False,17.5,False,110.0,False,1998.0,False,2016,2,23.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,19000000,170,False,12.0,False,105.0,False,1986.0,False,2016,2,8.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,16000000,270,False,13.0,False,105.0,False,1975.0,False,2014,4,23.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,2500000,95,False,10.0,False,65.0,False,1964.0,False,2014,3,6.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,55000000,940,False,13.0,False,680.0,False,1990.0,False,2019,1,45.0,True,False,False,False,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,21000000,155,False,15.0,False,125.0,False,1997.0,False,2018,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,17000000,160,False,11.5,False,90.0,False,2016.0,False,2017,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,7200000,250,False,14.0,False,115.0,False,1975.0,False,2016,3,120.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,18000000,160,False,12.0,False,115.0,False,1999.0,False,2016,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9400000,170,False,12.5,False,105.0,False,1986.0,False,2015,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,35000000,180,False,12.0,False,115.0,False,2014.0,False,2015,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,35000000,220,False,12.0,False,115.0,False,2015.0,False,2015,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,17000000,160,False,12.0,False,110.0,False,1999.0,False,2014,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,1200000,220,False,12.5,False,145.0,False,1990.0,False,2017,1,26.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,7000000,230,False,15.0,False,125.0,False,1985.0,False,2016,3,21.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,24000000,195,False,13.0,False,120.0,False,2006.0,False,2015,2,23.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,15000000,180,False,11.0,False,120.0,False,2006.0,False,2015,2,24.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,2500000,135,False,2.0,False,110.0,False,1991.0,False,2018,4,24.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,6300000,390,False,18.5,False,100.0,False,1970.0,False,2017,4,6.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,6800000,160,False,13.0,False,105.0,False,1989.0,False,2017,4,10.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,5700000,260,False,13.0,False,160.0,False,1979.0,False,2017,3,14.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,17000000,330,False,11.0,False,135.0,False,1990.0,False,2017,1,16.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,12000000,130,False,8.0,False,80.0,False,1991.0,False,2016,4,15.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9000000,180,False,11.5,False,100.0,False,1988.0,False,2016,3,12.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9200000,230,False,13.0,False,115.0,False,1979.0,False,2016,2,16.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,11000000,1000,False,17.5,False,30.0,False,1989.0,False,2016,2,10.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,15000000,190,False,7.5,False,140.0,False,2001.0,False,2016,1,24.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,6400000,230,False,13.0,False,115.0,False,1979.0,False,2016,1,16.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,10000000,195,False,10.5,False,95.0,False,1978.0,False,2015,3,15.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9300000,200,False,10.5,False,85.0,False,1978.0,False,2015,3,14.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,8000000,175,False,15.0,False,110.0,False,1978.0,False,2015,1,15.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,9500000,185,False,13.0,False,110.0,False,1987.0,False,2019,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,21000000,145,False,9.0,False,100.0,False,2018.0,False,2018,4,28.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,6900000,400,False,13.5,False,220.0,False,1978.0,False,2015,3,16.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,14000000,190,False,12.5,False,90.0,False,1987.0,False,2015,3,21.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,16000000,290,False,17.0,False,125.0,False,1985.0,False,2015,2,28.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,39000000,310,False,10.0,False,110.0,False,2019.0,False,2019,2,16.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,26000000,480,False,17.5,False,280.0,False,1989.0,False,2017,2,2.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,20000000,210,False,12.0,False,130.0,False,2002.0,False,2017,2,5.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,21000000,125,False,12.0,False,100.0,False,2017.0,False,2017,1,25.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,29000000,190,False,13.0,False,110.0,False,2017.0,False,2017,1,10.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,34000000,180,False,10.0,False,110.0,False,2017.0,False,2016,4,21.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,14000000,175,False,5.0,False,120.0,False,2005.0,False,2014,3,3.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,13000000,300,False,18.0,False,135.0,False,1997.0,False,2019,1,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,14000000,250,False,13.0,False,150.0,False,1993.0,False,2018,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,10000000,320,False,17.5,False,145.0,False,1974.0,False,2018,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,24000000,200,False,4.5,False,110.0,False,2016.0,False,2017,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,4000000,290,False,24.5,False,175.0,False,1972.0,False,2017,4,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,4500000,290,False,13.0,False,120.0,False,1972.0,False,2017,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,24000000,220,False,8.5,False,100.0,False,2015.0,False,2016,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,12000000,175,False,11.0,False,150.0,False,1988.0,False,2016,1,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,18000000,210,False,12.5,False,135.0,False,1994.0,False,2015,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,17000000,155,False,11.0,False,95.0,False,1980.0,False,2015,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,6200000,250,False,16.0,False,135.0,False,1978.0,False,2015,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,6000000,155,False,11.0,False,85.0,False,1980.0,False,2015,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,6000000,350,False,15.0,False,140.0,False,1973.0,False,2014,4,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,3400000,330,False,17.0,False,40.0,False,1961.0,False,2018,2,14.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,6700000,200,False,12.0,False,90.0,False,1980.0,False,2018,2,5.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,3400000,180,False,10.5,False,170.0,False,1971.0,False,2017,3,14.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Yonago City,10000000,195,False,15.0,False,95.0,False,1979.0,False,2015,4,6.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,3800000,70,False,6.0,False,100.0,False,1984.0,False,2014,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,12000000,170,False,10.5,False,80.0,False,1989.0,False,2016,1,13.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,7700000,260,False,25.0,False,115.0,False,1979.0,False,2015,4,8.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,9400000,170,False,10.0,False,80.0,False,1989.0,False,2015,4,13.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,14000000,80,False,9.0,False,125.0,False,1986.0,False,2019,1,6.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,11000000,165,False,6.0,False,180.0,False,1969.0,False,2016,2,5.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,9500000,130,False,9.0,False,140.0,False,1978.0,False,2016,1,7.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,3000000,70,False,6.0,False,90.0,False,1976.0,False,2016,1,3.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,15000000,165,False,12.5,False,165.0,False,2003.0,False,2015,4,15.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,18000000,360,False,28.0,False,200.0,False,1994.0,False,2014,3,16.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,7000000,390,False,18.0,False,120.0,False,1973.0,False,2017,2,105.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,15000000,195,False,10.0,False,125.0,False,1997.0,False,2014,3,105.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,16000000,720,False,16.5,False,80.0,False,2007.0,False,2015,1,105.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,3500000,330,False,13.0,False,145.0,False,1982.0,False,2019,1,105.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,7000000,900,False,18.0,False,220.0,False,1981.0,False,2017,2,105.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,4500000,600,False,31.5,False,165.0,False,1974.0,False,2017,1,105.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,2000000,420,False,15.0,False,125.0,False,1955.0,False,2014,4,120.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,1900000,250,False,14.5,False,160.0,False,1990.0,False,2019,2,120.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,4500000,460,False,25.0,False,150.0,False,1994.0,False,2016,2,120.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,5100000,110,False,6.0,False,100.0,False,1991.0,False,2015,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,11000000,115,False,13.0,False,80.0,False,1980.0,False,2017,4,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,3000000,670,False,22.0,False,80.0,False,1971.0,False,2016,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,1000000,70,False,4.0,False,65.0,False,1945.0,True,2014,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,32000000,220,False,10.0,False,115.0,False,2017.0,False,2017,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,1000000,460,False,20.5,False,155.0,False,1972.0,False,2019,1,120.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,5000000,250,False,5.5,False,120.0,False,1980.0,False,2017,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,12000000,320,False,14.0,False,145.0,False,1969.0,False,2016,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,8000000,90,False,9.0,False,100.0,False,1995.0,False,2018,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,25000000,200,False,14.0,False,105.0,False,2018.0,False,2019,2,23.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,12000000,200,False,10.0,False,150.0,False,1998.0,False,2014,3,120.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,13000000,410,False,11.5,False,85.0,False,1966.0,False,2018,3,120.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,4500000,360,False,16.0,False,100.0,False,1980.0,False,2017,2,120.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,800000,1200,False,21.0,False,135.0,False,1968.0,False,2019,2,120.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,6000000,350,False,11.0,False,155.0,False,1991.0,False,2019,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,7000000,320,False,13.0,False,120.0,False,1981.0,False,2018,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,8500000,220,False,14.0,False,160.0,False,1982.0,False,2017,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,13000000,270,False,15.0,False,110.0,False,1979.0,False,2019,2,105.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,8500000,270,False,15.0,False,95.0,False,1980.0,False,2014,4,105.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,22000000,250,False,11.0,False,190.0,False,1998.0,False,2017,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,13000000,330,False,13.0,False,165.0,False,1981.0,False,2017,4,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,21000000,240,False,20.5,False,100.0,False,2014.0,False,2014,4,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,12000000,220,False,14.0,False,130.0,False,1971.0,False,2016,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,12000000,240,False,17.0,False,110.0,False,1973.0,False,2015,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,1700000,220,False,12.0,False,100.0,False,1968.0,False,2014,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,15000000,200,False,11.0,False,180.0,False,2000.0,False,2015,4,105.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,2500000,120,False,11.5,False,175.0,False,1963.0,False,2017,2,26.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,3500000,115,False,12.5,False,70.0,False,1978.0,False,2015,4,29.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,9400000,270,False,9.0,False,185.0,False,1993.0,False,2018,4,14.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,12000000,270,False,10.0,False,140.0,False,1988.0,False,2015,1,23.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,31000000,740,False,14.0,False,240.0,False,1991.0,False,2014,4,19.0,True,False,False,False,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,2500000,165,False,12.0,False,60.0,False,1974.0,False,2017,2,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,9500000,330,False,13.5,False,185.0,False,1992.0,False,2017,4,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,2100000,230,False,26.0,False,160.0,False,1970.0,False,2015,4,120.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,8500000,280,False,17.0,False,135.0,False,1994.0,False,2018,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,3800000,155,False,10.0,False,105.0,False,1961.0,False,2018,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,3700000,125,False,6.0,False,105.0,False,1972.0,False,2014,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,5500000,320,False,13.0,False,140.0,False,1971.0,False,2014,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,3200000,105,False,5.0,False,120.0,False,1978.0,False,2015,3,45.0,True,False,False,False,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,7500000,360,False,10.0,False,100.0,False,1999.0,False,2016,4,120.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,2400000,135,False,12.0,False,110.0,False,1973.0,False,2015,2,14.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Kurayoshi City,10000000,280,False,13.0,False,155.0,False,1985.0,False,2014,3,75.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,4500000,330,False,24.0,False,135.0,False,1966.0,False,2018,1,19.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,5300000,220,False,17.0,False,150.0,False,1984.0,False,2014,3,14.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,14000000,420,False,19.0,False,190.0,False,1980.0,False,2015,4,12.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,15000000,220,False,10.5,False,155.0,False,1991.0,False,2015,3,3.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,3800000,110,False,17.0,False,75.0,False,1985.0,False,2015,2,18.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,4500000,170,False,15.0,False,240.0,False,1966.0,False,2017,3,10.0,True,False,False,False,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,19000000,130,False,9.5,False,95.0,False,2010.0,False,2017,3,8.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,3700000,330,False,18.0,False,105.0,False,1980.0,False,2017,3,7.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,3000000,350,False,19.0,False,110.0,False,1980.0,False,2015,3,11.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,5100000,260,False,11.0,False,75.0,False,1980.0,False,2014,2,13.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,11000000,320,False,14.5,False,160.0,False,1982.0,False,2017,2,6.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,15000000,340,False,13.0,False,120.0,False,1997.0,False,2016,3,8.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,8600000,780,False,40.0,False,180.0,False,1995.0,False,2016,3,4.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,2000000,210,False,18.0,False,50.0,False,1979.0,False,2018,4,19.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,5500000,150,False,13.5,False,95.0,False,1981.0,False,2018,3,11.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,14000000,220,False,14.0,False,110.0,False,1980.0,False,2016,4,12.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,5300000,220,False,14.0,False,110.0,False,1980.0,False,2016,1,12.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,5000000,220,False,12.5,False,95.0,False,1980.0,False,2015,1,13.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,19000000,180,False,6.0,False,100.0,False,2014.0,False,2015,1,16.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,46000000,2000,True,50.0,True,1400.0,False,1977.0,False,2018,1,45.0,False,True,False,False,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,11000000,220,False,14.5,False,110.0,False,1976.0,False,2017,3,10.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,5000000,710,False,23.0,False,110.0,False,1976.0,False,2018,3,7.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,8000000,180,False,13.5,False,125.0,False,1993.0,False,2019,2,20.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,4300000,195,False,9.0,False,120.0,False,1967.0,False,2018,1,19.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,14000000,200,False,12.0,False,135.0,False,1982.0,False,2014,3,23.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,6300000,360,False,23.0,False,50.0,False,2003.0,False,2019,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,4500000,650,False,18.5,False,135.0,False,1982.0,False,2017,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,10000000,220,False,15.0,False,90.0,False,1995.0,False,2017,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,4800000,290,False,15.0,False,180.0,False,1987.0,False,2019,1,6.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,17000000,270,False,18.5,False,115.0,False,1992.0,False,2018,3,4.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,7500000,380,False,23.0,False,165.0,False,1985.0,False,2018,3,5.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,8700000,260,False,20.0,False,90.0,False,1986.0,False,2018,3,6.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,6000000,135,False,16.0,False,70.0,False,1984.0,False,2017,1,7.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,23000000,165,False,11.0,False,100.0,False,2015.0,False,2016,2,9.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,11000000,570,False,18.0,False,220.0,False,1974.0,False,2016,4,15.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,4000000,240,False,4.0,False,110.0,False,1995.0,False,2014,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,10000000,210,False,10.5,False,110.0,False,1992.0,False,2017,2,11.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,11000000,710,False,27.5,False,155.0,False,1978.0,False,2015,1,15.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,4300000,65,False,6.0,False,90.0,False,1995.0,False,2018,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,2500000,95,False,13.0,False,115.0,False,1976.0,False,2016,4,25.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,14000000,190,False,12.5,False,115.0,False,1975.0,False,2017,1,14.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,3000000,175,False,3.0,False,100.0,False,1981.0,False,2016,2,5.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,7100000,240,False,15.5,False,120.0,False,1993.0,False,2014,3,16.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,14000000,240,False,15.5,False,120.0,False,1993.0,False,2014,3,16.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,20000000,160,False,15.0,False,95.0,False,2018.0,False,2019,1,6.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,3600000,260,False,13.5,False,120.0,False,1978.0,False,2014,4,11.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,15000000,260,False,11.5,False,140.0,False,2013.0,False,2018,1,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,21000000,300,False,15.0,False,130.0,False,2001.0,False,2017,2,28.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,8000000,260,False,15.0,False,120.0,False,1978.0,False,2017,1,9.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,14000000,310,False,13.0,False,155.0,False,2000.0,False,2016,3,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,3000000,180,False,10.0,False,100.0,False,1979.0,False,2014,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,15000000,220,False,16.0,False,70.0,False,1992.0,False,2018,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,7200000,195,False,16.5,False,125.0,False,1990.0,False,2017,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,7000000,180,False,9.0,False,85.0,False,1980.0,False,2017,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,17000000,230,False,13.0,False,125.0,False,1990.0,False,2017,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,8500000,280,False,12.0,False,145.0,False,1990.0,False,2015,4,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,Sakaiminato City,14000000,330,False,15.5,False,150.0,False,1998.0,False,2014,2,45.0,False,False,False,True,3,True
+Residential Land(Land and Building),Tottori Prefecture,"Iwami Town,Iwami County",5000000,280,False,8.0,False,110.0,False,1981.0,False,2018,4,21.0,True,False,False,False,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Iwami Town,Iwami County",2000000,135,False,8.0,False,115.0,False,1980.0,False,2018,4,8.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Iwami Town,Iwami County",7000000,370,False,6.0,False,175.0,False,1969.0,False,2018,3,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Iwami Town,Iwami County",500000,500,False,16.5,False,155.0,False,1969.0,False,2018,1,20.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Iwami Town,Iwami County",5700000,480,False,17.0,False,140.0,False,1977.0,False,2017,3,20.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Iwami Town,Iwami County",26000000,460,False,23.0,False,150.0,False,2011.0,False,2017,2,19.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Iwami Town,Iwami County",6500000,220,False,11.0,False,145.0,False,1987.0,False,2016,2,9.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Iwami Town,Iwami County",14000000,320,False,16.0,False,220.0,False,2000.0,False,2017,2,28.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Iwami Town,Iwami County",3800000,470,False,18.0,False,125.0,False,1992.0,False,2018,4,21.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Iwami Town,Iwami County",1500000,300,False,22.0,False,165.0,False,1977.0,False,2014,4,20.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Chizu Town,Yazu County",2500000,135,False,12.0,False,95.0,False,1994.0,False,2016,1,10.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Chizu Town,Yazu County",2000000,130,False,7.5,False,150.0,False,1954.0,False,2016,3,2.0,True,False,False,False,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Chizu Town,Yazu County",6500000,160,False,9.0,False,85.0,False,2004.0,False,2016,2,4.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Chizu Town,Yazu County",6000000,300,False,19.0,False,120.0,False,1989.0,False,2015,3,19.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Chizu Town,Yazu County",2000000,185,False,12.0,False,145.0,False,1961.0,False,2014,1,2.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Chizu Town,Yazu County",12000000,670,False,29.5,False,145.0,False,2007.0,False,2014,2,19.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Chizu Town,Yazu County",8000000,320,False,25.0,False,110.0,False,2002.0,False,2018,1,28.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yazu Town,Yazu County",3000000,330,False,5.0,False,135.0,False,1979.0,False,2015,1,14.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yazu Town,Yazu County",7300000,780,False,23.0,False,200.0,False,1999.0,False,2015,1,4.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yazu Town,Yazu County",9000000,190,False,10.0,False,120.0,False,1986.0,False,2015,2,5.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yazu Town,Yazu County",7900000,185,False,12.0,False,110.0,False,1998.0,False,2015,1,1.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yazu Town,Yazu County",18000000,200,False,12.0,False,115.0,False,1997.0,False,2014,4,2.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yazu Town,Yazu County",23000000,250,False,6.0,False,105.0,False,2018.0,False,2018,4,15.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yazu Town,Yazu County",16000000,190,False,15.2,False,120.0,False,2003.0,False,2017,1,6.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yazu Town,Yazu County",26000000,180,False,12.0,False,130.0,False,2015.0,False,2015,1,9.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yazu Town,Yazu County",7000000,560,False,22.0,False,240.0,False,1981.0,False,2015,4,19.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yazu Town,Yazu County",1800000,510,False,22.0,False,240.0,False,1968.0,False,2017,4,13.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yazu Town,Yazu County",7500000,210,False,25.0,False,100.0,False,1992.0,False,2019,1,7.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yazu Town,Yazu County",5100000,440,False,16.0,False,220.0,False,1982.0,False,2017,2,15.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yazu Town,Yazu County",25000000,155,False,10.5,False,120.0,False,2018.0,False,2019,2,11.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yazu Town,Yazu County",7500000,340,False,13.0,False,135.0,False,1976.0,False,2019,1,7.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yazu Town,Yazu County",21000000,1400,False,30.0,False,150.0,False,1993.0,False,2014,4,9.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Misasa Town,Tohaku County",2800000,175,False,16.0,False,85.0,False,1989.0,False,2015,1,120.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Misasa Town,Tohaku County",1800000,210,False,11.0,False,185.0,False,1972.0,False,2018,4,75.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Misasa Town,Tohaku County",1500000,240,False,16.0,False,150.0,False,1978.0,False,2016,3,120.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Misasa Town,Tohaku County",3000000,220,False,20.0,False,90.0,False,1970.0,False,2017,2,105.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Misasa Town,Tohaku County",1500000,165,False,18.0,False,55.0,False,1974.0,False,2017,1,120.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Misasa Town,Tohaku County",4800000,95,False,6.5,False,80.0,False,1999.0,False,2014,3,105.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Misasa Town,Tohaku County",7300000,300,False,15.0,False,185.0,False,1979.0,False,2016,4,105.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Misasa Town,Tohaku County",2600000,110,False,13.0,False,70.0,False,1979.0,False,2015,1,105.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yurihama Town,Tohaku County",6500000,580,False,22.0,False,250.0,False,1976.0,False,2015,1,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yurihama Town,Tohaku County",1200000,310,False,31.0,False,270.0,False,1956.0,False,2014,4,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yurihama Town,Tohaku County",10000000,140,False,10.0,False,70.0,False,2016.0,False,2018,4,105.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yurihama Town,Tohaku County",10000000,155,False,11.0,False,70.0,False,2016.0,False,2018,4,105.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yurihama Town,Tohaku County",3900000,130,False,13.0,False,175.0,False,1988.0,False,2019,2,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yurihama Town,Tohaku County",16000000,830,False,28.0,False,120.0,False,2003.0,False,2018,4,75.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yurihama Town,Tohaku County",8000000,310,False,11.0,False,135.0,False,1984.0,False,2014,4,75.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yurihama Town,Tohaku County",6500000,120,False,6.0,False,125.0,False,1993.0,False,2016,1,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yurihama Town,Tohaku County",15000000,310,False,14.0,False,125.0,False,2005.0,False,2015,4,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yurihama Town,Tohaku County",29000000,370,False,29.0,False,320.0,False,1997.0,False,2015,3,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yurihama Town,Tohaku County",7000000,175,False,10.5,False,70.0,False,2001.0,False,2018,4,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yurihama Town,Tohaku County",15000000,640,False,31.0,False,65.0,False,1973.0,False,2018,2,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yurihama Town,Tohaku County",17000000,730,False,21.0,False,450.0,False,1994.0,False,2017,4,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yurihama Town,Tohaku County",7000000,370,False,12.5,False,90.0,False,1973.0,False,2017,3,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yurihama Town,Tohaku County",23000000,830,False,4.0,False,185.0,False,1999.0,False,2018,4,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yurihama Town,Tohaku County",23000000,160,False,11.0,False,95.0,False,2019.0,False,2018,4,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yurihama Town,Tohaku County",24000000,210,False,11.5,False,110.0,False,2017.0,False,2017,3,75.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yurihama Town,Tohaku County",7500000,240,False,13.0,False,115.0,False,2000.0,False,2016,3,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yurihama Town,Tohaku County",18000000,230,False,8.0,False,115.0,False,1998.0,False,2016,2,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yurihama Town,Tohaku County",6500000,165,False,12.0,False,130.0,False,1997.0,False,2018,3,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Yurihama Town,Tohaku County",10000000,250,False,10.0,False,130.0,False,1991.0,False,2019,1,6.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Kotoura Town,Tohaku County",4000000,230,False,9.0,False,100.0,False,1982.0,False,2017,4,26.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Kotoura Town,Tohaku County",2400000,170,False,9.0,False,145.0,False,1981.0,False,2017,1,24.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Kotoura Town,Tohaku County",1900000,210,False,18.0,False,80.0,False,1982.0,False,2015,3,23.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Kotoura Town,Tohaku County",4300000,210,False,14.5,False,100.0,False,1974.0,False,2018,1,9.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Kotoura Town,Tohaku County",17000000,280,False,8.5,False,105.0,False,2013.0,False,2015,3,17.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Kotoura Town,Tohaku County",4000000,230,False,12.0,False,115.0,False,1982.0,False,2016,3,9.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Kotoura Town,Tohaku County",3000000,230,False,8.5,False,170.0,False,1965.0,False,2015,2,3.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Kotoura Town,Tohaku County",10000000,540,False,20.0,False,280.0,False,1993.0,False,2017,3,5.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Kotoura Town,Tohaku County",14000000,610,False,13.0,False,140.0,False,2004.0,False,2019,3,10.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Kotoura Town,Tohaku County",4000000,450,False,19.0,False,145.0,False,1971.0,False,2018,4,3.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Kotoura Town,Tohaku County",3900000,270,False,16.0,False,110.0,False,1982.0,False,2017,1,13.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",12000000,380,False,12.0,False,135.0,False,1993.0,False,2018,4,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",18000000,230,False,12.5,False,100.0,False,2017.0,False,2018,3,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",7800000,125,False,10.0,False,100.0,False,1989.0,False,2017,3,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",5000000,165,False,16.0,False,75.0,False,1980.0,False,2016,2,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",3500000,80,False,5.0,False,85.0,False,1986.0,False,2015,4,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",9200000,220,False,18.0,False,160.0,False,1996.0,False,2015,3,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",4200000,190,False,10.5,False,85.0,False,1987.0,False,2015,1,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",6800000,260,False,15.0,False,85.0,False,1983.0,False,2015,1,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",2400000,210,False,13.0,False,75.0,False,1982.0,False,2014,4,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",7500000,200,False,14.5,False,115.0,False,1974.0,False,2014,2,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",7000000,350,False,23.5,False,105.0,False,1991.0,False,2017,4,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",5800000,260,False,16.0,False,75.0,False,1977.0,False,2015,2,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",12000000,150,False,9.0,False,130.0,False,1996.0,False,2016,1,28.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",1100000,150,False,20.0,False,65.0,False,1974.0,False,2014,3,12.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",2500000,80,False,5.5,False,115.0,False,1996.0,False,2016,1,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",3800000,750,False,25.0,False,90.0,False,1966.0,False,2016,3,15.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",8400000,165,False,11.0,False,120.0,False,1987.0,False,2016,2,13.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",2500000,230,False,15.0,False,125.0,False,1989.0,False,2015,3,14.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",6500000,165,False,10.5,False,120.0,False,1987.0,False,2014,2,13.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",3300000,930,False,50.0,True,145.0,False,1985.0,False,2017,2,26.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",11000000,500,False,21.5,False,115.0,False,2002.0,False,2018,4,7.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",4500000,320,False,14.0,False,75.0,False,1967.0,False,2018,2,7.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",8000000,270,False,16.0,False,135.0,False,2004.0,False,2017,3,11.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",9800000,115,False,7.5,False,95.0,False,2001.0,False,2016,4,19.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",6500000,230,False,14.5,False,115.0,False,1992.0,False,2016,3,12.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hokuei Town,Tohaku County",7000000,410,False,15.5,False,165.0,False,1980.0,False,2016,2,12.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hiezu Village,Saihaku County",29000000,250,False,11.4,False,115.0,False,2016.0,False,2016,3,45.0,False,False,False,True,1,True
+Residential Land(Land and Building),Tottori Prefecture,"Hiezu Village,Saihaku County",29000000,250,False,11.4,False,115.0,False,2016.0,False,2016,3,45.0,False,False,False,True,1,True
+Residential Land(Land and Building),Tottori Prefecture,"Hiezu Village,Saihaku County",32000000,250,False,11.4,False,110.0,False,2016.0,False,2016,3,45.0,False,False,False,True,1,True
+Residential Land(Land and Building),Tottori Prefecture,"Hiezu Village,Saihaku County",14000000,280,False,16.0,False,160.0,False,1998.0,False,2017,4,45.0,False,False,False,True,1,True
+Residential Land(Land and Building),Tottori Prefecture,"Hiezu Village,Saihaku County",27000000,210,False,16.5,False,120.0,False,2017.0,False,2017,4,9.0,False,False,False,True,1,True
+Residential Land(Land and Building),Tottori Prefecture,"Hiezu Village,Saihaku County",20000000,420,False,18.0,False,105.0,False,1992.0,False,2015,3,45.0,False,False,False,True,1,True
+Residential Land(Land and Building),Tottori Prefecture,"Daisen Town,Saihaku County",14000000,350,False,18.0,False,85.0,False,2008.0,False,2018,4,21.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Daisen Town,Saihaku County",2500000,330,False,14.0,False,140.0,False,1965.0,False,2014,2,20.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Daisen Town,Saihaku County",1000000,210,False,14.5,False,310.0,False,1971.0,False,2019,1,1.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Daisen Town,Saihaku County",15000000,2000,True,49.5,False,950.0,False,1994.0,False,2019,2,120.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Daisen Town,Saihaku County",20000000,250,False,11.9,False,85.0,False,2018.0,False,2018,2,7.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Daisen Town,Saihaku County",9000000,310,False,23.5,False,155.0,False,1994.0,False,2016,2,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Daisen Town,Saihaku County",13000000,350,False,17.5,False,220.0,False,1997.0,False,2015,2,10.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Daisen Town,Saihaku County",5100000,330,False,5.0,False,115.0,False,1976.0,False,2015,2,10.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Nanbu Town,Saihaku County",10000000,190,False,8.5,False,110.0,False,2005.0,False,2016,4,105.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Nanbu Town,Saihaku County",15000000,830,False,36.0,False,240.0,False,1978.0,False,2017,2,120.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Nanbu Town,Saihaku County",5900000,180,False,9.5,False,125.0,False,2001.0,False,2015,2,105.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Nanbu Town,Saihaku County",3400000,165,False,10.0,False,105.0,False,1988.0,False,2018,4,105.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Nanbu Town,Saihaku County",1300000,350,False,29.0,False,180.0,False,1974.0,False,2017,2,75.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Nanbu Town,Saihaku County",9800000,260,False,12.5,False,110.0,False,1972.0,False,2015,3,75.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Nanbu Town,Saihaku County",8800000,340,False,16.5,False,60.0,False,1974.0,False,2015,2,75.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Nanbu Town,Saihaku County",19000000,270,False,18.0,False,165.0,False,2000.0,False,2015,1,120.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Nanbu Town,Saihaku County",8300000,330,False,16.5,False,190.0,False,1973.0,False,2018,3,75.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Nanbu Town,Saihaku County",9600000,530,False,11.0,False,120.0,False,1977.0,False,2017,3,75.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Nanbu Town,Saihaku County",3700000,250,False,12.5,False,100.0,False,1977.0,False,2015,4,75.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Nanbu Town,Saihaku County",7500000,330,False,16.5,False,200.0,False,1977.0,False,2015,1,75.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Nanbu Town,Saihaku County",3800000,200,False,10.0,False,80.0,False,1975.0,False,2014,2,75.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Nanbu Town,Saihaku County",4600000,590,False,8.5,False,135.0,False,1969.0,False,2016,2,120.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Nanbu Town,Saihaku County",6400000,280,False,14.0,False,95.0,False,1975.0,False,2019,2,75.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Nanbu Town,Saihaku County",7400000,280,False,14.0,False,145.0,False,1981.0,False,2014,2,105.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",20000000,240,False,14.0,False,145.0,False,2011.0,False,2019,2,15.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",12000000,340,False,14.0,False,240.0,False,2001.0,False,2019,1,21.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",14000000,550,False,11.0,False,165.0,False,1980.0,False,2017,4,13.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",16000000,820,False,37.0,False,190.0,False,1977.0,False,2017,3,21.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",11000000,230,False,12.0,False,135.0,False,1998.0,False,2017,3,24.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",7500000,270,False,10.5,False,95.0,False,1983.0,False,2017,2,18.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",11000000,500,False,4.0,False,150.0,False,1996.0,False,2017,1,23.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",14000000,300,False,17.0,False,170.0,False,1988.0,False,2016,4,16.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",2800000,195,False,11.5,False,90.0,False,1980.0,False,2015,2,16.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",25000000,290,False,14.0,False,175.0,False,1995.0,False,2014,4,19.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",19000000,280,False,10.5,False,120.0,False,1982.0,False,2014,3,21.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",14000000,350,False,15.5,False,125.0,False,1997.0,False,2019,2,75.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",7300000,580,False,21.5,False,175.0,False,1986.0,False,2015,3,105.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",4000000,175,False,10.0,False,70.0,False,1994.0,False,2017,4,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",16000000,300,False,17.0,False,150.0,False,1994.0,False,2015,1,13.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",5200000,135,False,13.0,False,70.0,False,1983.0,False,2015,4,24.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",2000000,320,False,16.0,False,105.0,False,1975.0,False,2014,2,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",5000000,340,False,14.0,False,90.0,False,1999.0,False,2016,3,120.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",4000000,700,False,21.0,False,140.0,False,1995.0,False,2019,2,105.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",6500000,420,False,20.0,False,105.0,False,1998.0,False,2018,4,75.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",17000000,940,False,25.0,False,140.0,False,2000.0,False,2018,4,75.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",5500000,510,False,14.0,False,55.0,False,1989.0,False,2018,3,105.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",16000000,820,False,21.5,False,155.0,False,2004.0,False,2015,3,75.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",4400000,250,False,11.5,False,170.0,False,1959.0,False,2017,3,3.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hoki Town,Saihaku County",22000000,520,False,20.5,False,200.0,False,1994.0,False,2014,3,2.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Nichinan Town,Hino County",1500000,330,False,16.0,False,95.0,False,1997.0,False,2016,3,120.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Nichinan Town,Hino County",5300000,350,False,30.5,False,150.0,False,1998.0,False,2017,4,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hino Town,Hino County",3500000,1200,False,30.0,False,155.0,False,1985.0,False,2016,2,45.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hino Town,Hino County",300000,70,False,7.0,False,65.0,False,1965.0,False,2018,4,9.0,False,False,False,True,2,True
+Residential Land(Land and Building),Tottori Prefecture,"Hino Town,Hino County",6700000,440,False,17.0,False,280.0,False,1985.0,False,2015,3,3.0,False,False,False,True,2,True

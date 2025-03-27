@@ -107,7 +107,7 @@ data_dir = "../Data/trade_prices"
 for prefecture_idx, prefecture in prefecture_codes.iterrows():
 
     prefecture_code = prefecture['Code']
-    prefecture_name = prefecture['EnName']
+    prefecture_name = prefecture['EnName'].replace(" ", "")
     print(f'Now processing {prefecture_name} prefecture with prefecture code: {prefecture_code}')
 
     #Load releveant data set
@@ -166,17 +166,19 @@ for prefecture_idx, prefecture in prefecture_codes.iterrows():
     print("Sorting prefecture to region . . .")
 
     House_data = encode_region(House_data)
+   
 
     print("Splitting data set between land only and land with building purchases")
 
     # Filter the dataset for properties with buildings and without buildings
-    land_only_df = House_data[House_data['Type_Residential Land(Land Only)'] == True]
-    building_df = House_data[House_data['Type_Residential Land(Land Only)'] == False]
+    land_only_df = House_data[House_data['Type'].str.contains('Land Only')]  
+    building_df = House_data[~House_data['Type'].str.contains('Land Only')]  
+
     House_data.drop(columns=['Type'], inplace=True)
 
     # Save the datasets
     land_only_df.to_csv(f'./Cleaned_Data_Sets/{prefecture_name}_cleaned_test_landOnly.csv', index=False)
-    building_df.to_csv(f'./Cleaned_Data_Sets/{prefecture_code}_cleaned_test_buildings.csv', index=False)
+    building_df.to_csv(f'./Cleaned_Data_Sets/{prefecture_name}_cleaned_test_buildings.csv', index=False)
 
     print(f'Finished processing the {prefecture_name} data set! \n')
 

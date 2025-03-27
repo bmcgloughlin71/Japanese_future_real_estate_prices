@@ -1,0 +1,1059 @@
+Type,Prefecture,Municipality,TradePrice,Area,AreaIsGreaterFlag,Frontage,FrontageIsGreaterFlag,TotalFloorArea,TotalFloorAreaIsGreaterFlag,BuildingYear,PrewarBuilding,Year,Quarter,AvgTimeToNearestStation,Region_Commercial Area,Region_Industrial Area,Region_Potential Residential Area,Region_Residential Area,MunicipalityCategory,Region_Shikoku
+Residential Land(Land Only),Kochi Prefecture,Kochi City,21000000,165,False,-1.0,False,-1.0,False,-1.0,False,2016,3,5.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,31000000,230,False,16.5,False,-1.0,False,-1.0,False,2016,3,4.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,155,False,10.0,False,-1.0,False,-1.0,False,2015,3,7.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,130,False,14.0,False,-1.0,False,-1.0,False,2019,1,10.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,210,False,12.0,False,-1.0,False,-1.0,False,2014,4,7.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,125,False,12.8,False,-1.0,False,-1.0,False,2019,2,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8000000,195,False,13.4,False,-1.0,False,-1.0,False,2019,1,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,260,False,18.3,False,-1.0,False,-1.0,False,2019,1,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8500000,110,False,5.9,False,-1.0,False,-1.0,False,2018,4,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,23000000,330,False,21.9,False,-1.0,False,-1.0,False,2018,4,24.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,150,False,13.0,False,-1.0,False,-1.0,False,2018,3,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6200000,145,False,11.0,False,-1.0,False,-1.0,False,2018,1,14.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5800000,110,False,6.5,False,-1.0,False,-1.0,False,2018,1,24.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5500000,210,False,18.0,False,-1.0,False,-1.0,False,2017,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8800000,175,False,14.5,False,-1.0,False,-1.0,False,2017,3,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,130,False,-1.0,False,-1.0,False,-1.0,False,2017,3,14.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,31000000,400,False,17.0,False,-1.0,False,-1.0,False,2017,3,15.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6300000,220,False,17.0,False,-1.0,False,-1.0,False,2017,3,18.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7500000,210,False,-1.0,False,-1.0,False,-1.0,False,2017,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,1700000,35,False,2.0,False,-1.0,False,-1.0,False,2017,2,21.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,180,False,11.0,False,-1.0,False,-1.0,False,2017,2,26.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,170,False,11.0,False,-1.0,False,-1.0,False,2017,1,13.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,250,False,36.7,False,-1.0,False,-1.0,False,2016,3,7.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8600000,165,False,14.6,False,-1.0,False,-1.0,False,2016,2,6.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,18000000,260,False,12.2,False,-1.0,False,-1.0,False,2016,2,11.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,16000000,210,False,-1.0,False,-1.0,False,-1.0,False,2016,1,7.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8500000,110,False,6.9,False,-1.0,False,-1.0,False,2016,1,7.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,150,False,8.7,False,-1.0,False,-1.0,False,2015,4,16.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,140,False,8.7,False,-1.0,False,-1.0,False,2015,4,16.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,310,False,12.5,False,-1.0,False,-1.0,False,2015,4,8.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,2000000,120,False,15.2,False,-1.0,False,-1.0,False,2015,4,22.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7700000,170,False,8.2,False,-1.0,False,-1.0,False,2015,3,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6300000,105,False,11.1,False,-1.0,False,-1.0,False,2015,3,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,23000000,330,False,17.0,False,-1.0,False,-1.0,False,2015,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,165,False,9.2,False,-1.0,False,-1.0,False,2015,3,24.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,2500000,100,False,7.8,False,-1.0,False,-1.0,False,2015,3,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,180,False,6.1,False,-1.0,False,-1.0,False,2015,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,16000000,210,False,9.7,False,-1.0,False,-1.0,False,2015,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7400000,165,False,10.3,False,-1.0,False,-1.0,False,2015,2,14.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,190,False,13.5,False,-1.0,False,-1.0,False,2015,1,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9500000,200,False,11.0,False,-1.0,False,-1.0,False,2015,1,14.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9200000,120,False,9.5,False,-1.0,False,-1.0,False,2015,1,16.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,4500000,200,False,8.6,False,-1.0,False,-1.0,False,2014,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7000000,320,False,15.8,False,-1.0,False,-1.0,False,2014,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8200000,130,False,14.0,False,-1.0,False,-1.0,False,2014,3,13.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8800000,170,False,-1.0,False,-1.0,False,-1.0,False,2014,2,9.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,130,False,9.0,False,-1.0,False,-1.0,False,2018,2,16.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5000000,120,False,9.0,False,-1.0,False,-1.0,False,2017,4,16.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9500000,135,False,9.0,False,-1.0,False,-1.0,False,2016,4,23.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,200,False,11.2,False,-1.0,False,-1.0,False,2016,3,23.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,450,False,-1.0,False,-1.0,False,-1.0,False,2016,2,20.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,150,False,7.8,False,-1.0,False,-1.0,False,2019,1,11.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,150,False,7.8,False,-1.0,False,-1.0,False,2019,1,12.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,150,False,8.0,False,-1.0,False,-1.0,False,2019,1,12.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,23000000,240,False,11.0,False,-1.0,False,-1.0,False,2017,3,13.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,140,False,11.7,False,-1.0,False,-1.0,False,2016,1,13.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9500000,170,False,10.0,False,-1.0,False,-1.0,False,2016,2,23.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8300000,140,False,12.4,False,-1.0,False,-1.0,False,2014,4,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,220,False,-1.0,False,-1.0,False,-1.0,False,2019,1,16.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,17000000,165,False,13.5,False,-1.0,False,-1.0,False,2018,4,16.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7500000,125,False,12.2,False,-1.0,False,-1.0,False,2018,3,8.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,135,False,7.4,False,-1.0,False,-1.0,False,2016,1,11.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,2000000,35,False,1.8,False,-1.0,False,-1.0,False,2019,3,8.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,130,False,14.0,False,-1.0,False,-1.0,False,2017,2,11.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,19000000,210,False,12.9,False,-1.0,False,-1.0,False,2016,2,9.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,180,False,-1.0,False,-1.0,False,-1.0,False,2015,2,4.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8600000,100,False,11.0,False,-1.0,False,-1.0,False,2018,4,9.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,140,False,9.5,False,-1.0,False,-1.0,False,2018,2,12.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,130,False,7.3,False,-1.0,False,-1.0,False,2017,4,16.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,180,False,10.0,False,-1.0,False,-1.0,False,2017,2,14.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,16000000,410,False,25.0,False,-1.0,False,-1.0,False,2016,2,11.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,290,False,29.6,False,-1.0,False,-1.0,False,2016,1,13.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,200,False,9.0,False,-1.0,False,-1.0,False,2015,4,15.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7500000,120,False,4.5,False,-1.0,False,-1.0,False,2014,3,11.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,230,False,11.5,False,-1.0,False,-1.0,False,2014,2,11.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,135,False,13.5,False,-1.0,False,-1.0,False,2018,1,6.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,19000000,310,False,14.8,False,-1.0,False,-1.0,False,2018,1,8.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,41000000,670,False,30.0,False,-1.0,False,-1.0,False,2016,4,8.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,33000000,550,False,35.0,False,-1.0,False,-1.0,False,2018,2,4.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,150,False,12.3,False,-1.0,False,-1.0,False,2017,3,3.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,16000000,125,False,6.5,False,-1.0,False,-1.0,False,2019,3,8.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,4500000,65,False,5.3,False,-1.0,False,-1.0,False,2018,4,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,155,False,7.5,False,-1.0,False,-1.0,False,2018,4,20.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,160,False,11.2,False,-1.0,False,-1.0,False,2018,2,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,17000000,150,False,12.0,False,-1.0,False,-1.0,False,2017,2,8.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,150,False,13.3,False,-1.0,False,-1.0,False,2017,2,12.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,30000000,320,False,11.0,False,-1.0,False,-1.0,False,2016,3,16.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9800000,100,False,10.5,False,-1.0,False,-1.0,False,2016,3,12.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6000000,75,False,7.0,False,-1.0,False,-1.0,False,2014,3,5.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,16000000,125,False,9.1,False,-1.0,False,-1.0,False,2014,2,7.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,4900000,80,False,9.0,False,-1.0,False,-1.0,False,2016,3,20.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,125,False,8.1,False,-1.0,False,-1.0,False,2014,2,20.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,180,False,12.1,False,-1.0,False,-1.0,False,2016,2,14.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,25000000,260,False,14.9,False,-1.0,False,-1.0,False,2016,2,18.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,185,False,10.8,False,-1.0,False,-1.0,False,2015,2,13.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7800000,320,False,-1.0,False,-1.0,False,-1.0,False,2018,4,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7300000,150,False,10.0,False,-1.0,False,-1.0,False,2018,3,20.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,115,False,7.0,False,-1.0,False,-1.0,False,2017,2,6.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5000000,45,False,4.7,False,-1.0,False,-1.0,False,2018,4,3.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8500000,160,False,6.7,False,-1.0,False,-1.0,False,2018,4,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,140,False,11.9,False,-1.0,False,-1.0,False,2019,2,6.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,140,False,14.0,False,-1.0,False,-1.0,False,2019,2,6.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,145,False,-1.0,False,-1.0,False,-1.0,False,2018,4,5.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,190,False,5.9,False,-1.0,False,-1.0,False,2018,3,6.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9800000,165,False,4.8,False,-1.0,False,-1.0,False,2016,3,13.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9600000,145,False,4.5,False,-1.0,False,-1.0,False,2015,2,6.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,115,False,19.8,False,-1.0,False,-1.0,False,2015,4,15.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,135,False,8.0,False,-1.0,False,-1.0,False,2018,3,8.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,160,False,10.5,False,-1.0,False,-1.0,False,2018,1,13.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,155,False,5.0,False,-1.0,False,-1.0,False,2017,4,14.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,240,False,12.5,False,-1.0,False,-1.0,False,2017,1,14.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,150,False,9.7,False,-1.0,False,-1.0,False,2016,4,7.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,200,False,15.1,False,-1.0,False,-1.0,False,2016,4,12.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,200,False,4.0,False,-1.0,False,-1.0,False,2016,3,13.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,29000000,450,False,30.1,False,-1.0,False,-1.0,False,2016,2,6.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8800000,130,False,13.7,False,-1.0,False,-1.0,False,2015,4,14.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6800000,230,False,-1.0,False,-1.0,False,-1.0,False,2018,4,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,250,False,16.5,False,-1.0,False,-1.0,False,2016,3,18.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6700000,135,False,14.7,False,-1.0,False,-1.0,False,2016,3,12.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,200,False,11.0,False,-1.0,False,-1.0,False,2019,2,21.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8200000,150,False,8.6,False,-1.0,False,-1.0,False,2019,1,24.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,165,False,10.2,False,-1.0,False,-1.0,False,2018,4,18.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,190,False,10.6,False,-1.0,False,-1.0,False,2017,4,23.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,145,False,17.0,False,-1.0,False,-1.0,False,2017,1,8.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,130,False,9.0,False,-1.0,False,-1.0,False,2016,4,5.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8600000,120,False,8.1,False,-1.0,False,-1.0,False,2016,2,7.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9100000,130,False,10.4,False,-1.0,False,-1.0,False,2016,2,8.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,360,False,14.5,False,-1.0,False,-1.0,False,2015,3,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8300000,180,False,9.0,False,-1.0,False,-1.0,False,2014,4,20.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,115,False,7.0,False,-1.0,False,-1.0,False,2016,3,3.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,230,False,17.8,False,-1.0,False,-1.0,False,2018,4,24.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,4000000,135,False,-1.0,False,-1.0,False,-1.0,False,2016,4,29.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,20000000,145,False,11.8,False,-1.0,False,-1.0,False,2019,3,12.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,100,False,8.4,False,-1.0,False,-1.0,False,2017,3,8.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,85,False,9.5,False,-1.0,False,-1.0,False,2015,1,7.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,46000000,310,False,16.9,False,-1.0,False,-1.0,False,2014,3,11.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5000000,50,False,-1.0,False,-1.0,False,-1.0,False,2019,1,10.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,16000000,150,False,9.0,False,-1.0,False,-1.0,False,2014,2,11.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,73000000,1400,False,50.0,True,-1.0,False,-1.0,False,2018,1,26.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8000000,145,False,9.3,False,-1.0,False,-1.0,False,2015,2,17.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6500000,165,False,11.5,False,-1.0,False,-1.0,False,2019,1,28.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,130,False,14.2,False,-1.0,False,-1.0,False,2019,1,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,135,False,8.3,False,-1.0,False,-1.0,False,2019,1,28.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9900000,145,False,15.7,False,-1.0,False,-1.0,False,2018,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,21000000,300,False,19.0,False,-1.0,False,-1.0,False,2018,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8600000,155,False,12.3,False,-1.0,False,-1.0,False,2018,4,28.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,22000000,380,False,17.5,False,-1.0,False,-1.0,False,2018,4,28.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9000000,160,False,10.8,False,-1.0,False,-1.0,False,2018,4,28.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,220,False,12.6,False,-1.0,False,-1.0,False,2018,3,24.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,22000000,320,False,15.2,False,-1.0,False,-1.0,False,2018,3,18.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5000000,440,False,-1.0,False,-1.0,False,-1.0,False,2018,2,16.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,170,False,8.2,False,-1.0,False,-1.0,False,2018,2,10.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,260,False,5.6,False,-1.0,False,-1.0,False,2018,1,10.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,19000000,300,False,15.6,False,-1.0,False,-1.0,False,2017,2,11.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6000000,100,False,7.0,False,-1.0,False,-1.0,False,2017,2,29.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6100000,125,False,7.5,False,-1.0,False,-1.0,False,2016,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,135,False,9.0,False,-1.0,False,-1.0,False,2016,2,18.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,135,False,8.8,False,-1.0,False,-1.0,False,2016,2,18.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,4500000,140,False,13.0,False,-1.0,False,-1.0,False,2016,1,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,150,False,18.2,False,-1.0,False,-1.0,False,2014,3,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9200000,200,False,9.3,False,-1.0,False,-1.0,False,2014,3,7.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6500000,340,False,13.0,False,-1.0,False,-1.0,False,2016,2,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,3200000,65,False,6.0,False,-1.0,False,-1.0,False,2018,1,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6800000,75,False,16.2,False,-1.0,False,-1.0,False,2016,4,2.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,28000000,260,False,13.7,False,-1.0,False,-1.0,False,2015,1,7.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,185,False,14.5,False,-1.0,False,-1.0,False,2019,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,21000000,280,False,18.2,False,-1.0,False,-1.0,False,2018,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,260,False,11.6,False,-1.0,False,-1.0,False,2017,2,29.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,170,False,9.3,False,-1.0,False,-1.0,False,2016,4,29.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8800000,125,False,15.0,False,-1.0,False,-1.0,False,2016,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8200000,100,False,8.5,False,-1.0,False,-1.0,False,2015,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,105,False,9.7,False,-1.0,False,-1.0,False,2019,2,10.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,140,False,11.3,False,-1.0,False,-1.0,False,2018,4,11.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,19000000,210,False,15.5,False,-1.0,False,-1.0,False,2015,4,10.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5500000,220,False,19.0,False,-1.0,False,-1.0,False,2018,3,75.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6900000,210,False,14.0,False,-1.0,False,-1.0,False,2014,4,75.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,24000000,570,False,14.1,False,-1.0,False,-1.0,False,2019,3,45.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,16000000,330,False,15.0,False,-1.0,False,-1.0,False,2017,2,11.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8100000,125,False,5.3,False,-1.0,False,-1.0,False,2017,1,12.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8600000,110,False,11.6,False,-1.0,False,-1.0,False,2015,2,8.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,330,False,13.5,False,-1.0,False,-1.0,False,2014,1,13.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,120,False,7.2,False,-1.0,False,-1.0,False,2017,3,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,28000000,190,False,8.8,False,-1.0,False,-1.0,False,2017,4,16.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,18000000,125,False,7.8,False,-1.0,False,-1.0,False,2016,2,16.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,42000000,410,False,12.3,False,-1.0,False,-1.0,False,2016,2,15.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,44000000,510,False,14.8,False,-1.0,False,-1.0,False,2016,2,18.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,105,False,6.5,False,-1.0,False,-1.0,False,2015,2,18.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,21000000,210,False,5.7,False,-1.0,False,-1.0,False,2014,3,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,17000000,110,False,4.0,False,-1.0,False,-1.0,False,2014,2,14.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,19000000,280,False,25.0,False,-1.0,False,-1.0,False,2018,3,29.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,175,False,12.2,False,-1.0,False,-1.0,False,2017,4,23.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,24000000,165,False,10.0,False,-1.0,False,-1.0,False,2017,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,210,False,12.0,False,-1.0,False,-1.0,False,2015,1,26.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,18000000,300,False,8.8,False,-1.0,False,-1.0,False,2017,4,28.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,130,False,16.5,False,-1.0,False,-1.0,False,2016,1,26.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9200000,110,False,13.8,False,-1.0,False,-1.0,False,2015,4,26.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,160,False,10.3,False,-1.0,False,-1.0,False,2015,1,18.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,170,False,13.9,False,-1.0,False,-1.0,False,2015,3,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,140,False,16.5,False,-1.0,False,-1.0,False,2015,3,28.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7700000,125,False,8.8,False,-1.0,False,-1.0,False,2018,3,11.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9600000,130,False,10.4,False,-1.0,False,-1.0,False,2018,3,10.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8000000,105,False,5.9,False,-1.0,False,-1.0,False,2016,3,11.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8500000,150,False,21.6,False,-1.0,False,-1.0,False,2019,3,16.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,19000000,280,False,21.3,False,-1.0,False,-1.0,False,2016,1,13.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,3300000,175,False,14.6,False,-1.0,False,-1.0,False,2019,2,11.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,160,False,9.4,False,-1.0,False,-1.0,False,2018,3,11.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9500000,155,False,8.1,False,-1.0,False,-1.0,False,2019,1,10.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,160,False,13.0,False,-1.0,False,-1.0,False,2018,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,4800000,130,False,8.3,False,-1.0,False,-1.0,False,2018,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,140,False,9.1,False,-1.0,False,-1.0,False,2017,3,29.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,125,False,7.5,False,-1.0,False,-1.0,False,2017,3,29.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,125,False,-1.0,False,-1.0,False,-1.0,False,2015,3,27.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7800000,125,False,11.7,False,-1.0,False,-1.0,False,2015,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5600000,90,False,8.0,False,-1.0,False,-1.0,False,2015,4,45.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,100,False,5.4,False,-1.0,False,-1.0,False,2014,3,6.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,26000000,340,False,15.0,False,-1.0,False,-1.0,False,2014,2,6.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8800000,270,False,13.9,False,-1.0,False,-1.0,False,2017,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,18000000,145,False,8.5,False,-1.0,False,-1.0,False,2015,2,21.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9300000,125,False,7.2,False,-1.0,False,-1.0,False,2018,4,21.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,210,False,12.9,False,-1.0,False,-1.0,False,2015,2,24.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,200,False,12.0,False,-1.0,False,-1.0,False,2015,1,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,220,False,13.9,False,-1.0,False,-1.0,False,2014,4,26.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,210,False,13.0,False,-1.0,False,-1.0,False,2014,4,24.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,220,False,12.0,False,-1.0,False,-1.0,False,2014,2,24.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,200,False,12.6,False,-1.0,False,-1.0,False,2014,2,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,17000000,230,False,14.2,False,-1.0,False,-1.0,False,2014,2,23.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,30000000,430,False,24.4,False,-1.0,False,-1.0,False,2019,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5500000,115,False,10.9,False,-1.0,False,-1.0,False,2019,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,195,False,13.9,False,-1.0,False,-1.0,False,2019,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,195,False,16.7,False,-1.0,False,-1.0,False,2018,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,390,False,-1.0,False,-1.0,False,-1.0,False,2018,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,17000000,540,False,7.0,False,-1.0,False,-1.0,False,2018,1,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,165,False,13.0,False,-1.0,False,-1.0,False,2017,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8100000,150,False,3.5,False,-1.0,False,-1.0,False,2017,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,24000000,310,False,17.6,False,-1.0,False,-1.0,False,2017,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8500000,270,False,16.0,False,-1.0,False,-1.0,False,2016,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,320,False,-1.0,False,-1.0,False,-1.0,False,2016,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9700000,130,False,14.1,False,-1.0,False,-1.0,False,2016,1,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,160,False,-1.0,False,-1.0,False,-1.0,False,2015,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9800000,150,False,17.8,False,-1.0,False,-1.0,False,2015,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,150,False,9.3,False,-1.0,False,-1.0,False,2015,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8600000,195,False,11.0,False,-1.0,False,-1.0,False,2015,1,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,135,False,9.3,False,-1.0,False,-1.0,False,2015,1,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,1000000,130,False,-1.0,False,-1.0,False,-1.0,False,2019,1,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,350,False,14.0,False,-1.0,False,-1.0,False,2016,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,3000000,65,False,5.6,False,-1.0,False,-1.0,False,2015,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9900000,150,False,-1.0,False,-1.0,False,-1.0,False,2019,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,3500000,135,False,6.5,False,-1.0,False,-1.0,False,2018,3,29.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,17000000,165,False,13.3,False,-1.0,False,-1.0,False,2018,3,28.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,27000000,300,False,10.5,False,-1.0,False,-1.0,False,2018,3,28.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,200,False,15.0,False,-1.0,False,-1.0,False,2018,3,29.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,120,False,10.0,False,-1.0,False,-1.0,False,2018,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,145,False,14.3,False,-1.0,False,-1.0,False,2018,2,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,130,False,-1.0,False,-1.0,False,-1.0,False,2018,2,28.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,120,False,8.5,False,-1.0,False,-1.0,False,2017,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,120,False,8.5,False,-1.0,False,-1.0,False,2017,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9500000,135,False,10.5,False,-1.0,False,-1.0,False,2017,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,135,False,11.8,False,-1.0,False,-1.0,False,2017,1,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8000000,190,False,13.0,False,-1.0,False,-1.0,False,2017,1,29.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,130,False,9.0,False,-1.0,False,-1.0,False,2017,1,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9800000,220,False,15.0,False,-1.0,False,-1.0,False,2016,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,130,False,9.5,False,-1.0,False,-1.0,False,2016,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,180,False,12.0,False,-1.0,False,-1.0,False,2016,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9300000,155,False,10.1,False,-1.0,False,-1.0,False,2015,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,610,False,40.7,False,-1.0,False,-1.0,False,2015,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8000000,130,False,11.1,False,-1.0,False,-1.0,False,2014,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7500000,180,False,12.0,False,-1.0,False,-1.0,False,2014,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,175,False,14.0,False,-1.0,False,-1.0,False,2014,4,29.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7700000,115,False,9.0,False,-1.0,False,-1.0,False,2014,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,34000000,610,False,-1.0,False,-1.0,False,-1.0,False,2019,1,45.0,False,False,True,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,175,False,11.5,False,-1.0,False,-1.0,False,2016,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8900000,150,False,9.5,False,-1.0,False,-1.0,False,2014,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,22000000,190,False,12.8,False,-1.0,False,-1.0,False,2015,3,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7500000,180,False,7.1,False,-1.0,False,-1.0,False,2015,1,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,4000000,220,False,20.0,False,-1.0,False,-1.0,False,2019,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6400000,210,False,12.0,False,-1.0,False,-1.0,False,2016,2,75.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,1000000,180,False,2.0,False,-1.0,False,-1.0,False,2014,2,75.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,18000000,130,False,12.1,False,-1.0,False,-1.0,False,2017,2,13.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9600000,90,False,11.5,False,-1.0,False,-1.0,False,2015,4,7.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9100000,140,False,12.7,False,-1.0,False,-1.0,False,2014,2,3.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,90,False,8.0,False,-1.0,False,-1.0,False,2018,4,3.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8900000,55,False,5.0,False,-1.0,False,-1.0,False,2018,4,4.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,21000000,95,False,7.6,False,-1.0,False,-1.0,False,2016,1,4.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,27000000,290,False,19.3,False,-1.0,False,-1.0,False,2017,3,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,280,False,8.0,False,-1.0,False,-1.0,False,2015,2,20.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,2900000,380,False,-1.0,False,-1.0,False,-1.0,False,2018,1,12.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,170,False,9.0,False,-1.0,False,-1.0,False,2018,4,7.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,4000000,85,False,10.0,False,-1.0,False,-1.0,False,2018,2,7.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,2700000,40,False,5.5,False,-1.0,False,-1.0,False,2018,2,10.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,200,False,10.2,False,-1.0,False,-1.0,False,2014,1,11.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9000000,80,False,10.5,False,-1.0,False,-1.0,False,2015,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,195,False,12.8,False,-1.0,False,-1.0,False,2014,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,24000000,230,False,13.0,False,-1.0,False,-1.0,False,2018,3,9.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,95,False,7.3,False,-1.0,False,-1.0,False,2016,3,6.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,125,False,7.0,False,-1.0,False,-1.0,False,2017,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6100000,100,False,7.0,False,-1.0,False,-1.0,False,2015,1,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,20000000,250,False,17.0,False,-1.0,False,-1.0,False,2014,3,29.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,140,False,8.3,False,-1.0,False,-1.0,False,2014,2,23.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,20000000,185,False,14.0,False,-1.0,False,-1.0,False,2018,4,5.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,18000000,130,False,7.0,False,-1.0,False,-1.0,False,2017,3,6.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,22000000,140,False,7.8,False,-1.0,False,-1.0,False,2017,2,6.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5400000,100,False,11.5,False,-1.0,False,-1.0,False,2015,4,21.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,130,False,9.1,False,-1.0,False,-1.0,False,2015,2,8.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,23000000,175,False,6.8,False,-1.0,False,-1.0,False,2016,2,20.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,22000000,175,False,9.9,False,-1.0,False,-1.0,False,2018,4,5.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9800000,105,False,4.0,False,-1.0,False,-1.0,False,2016,4,6.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,50,False,5.0,False,-1.0,False,-1.0,False,2015,3,4.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,63000000,520,False,15.0,False,-1.0,False,-1.0,False,2015,1,7.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,18000000,125,False,10.3,False,-1.0,False,-1.0,False,2018,4,6.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,120,False,7.5,False,-1.0,False,-1.0,False,2018,3,3.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,1400000,140,False,9.6,False,-1.0,False,-1.0,False,2017,1,3.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,110,False,7.7,False,-1.0,False,-1.0,False,2016,1,4.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,20000000,195,False,16.0,False,-1.0,False,-1.0,False,2014,3,2.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8900000,135,False,11.0,False,-1.0,False,-1.0,False,2019,3,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7900000,145,False,11.5,False,-1.0,False,-1.0,False,2018,4,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6200000,200,False,10.5,False,-1.0,False,-1.0,False,2018,2,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,280,False,16.0,False,-1.0,False,-1.0,False,2019,2,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,195,False,14.0,False,-1.0,False,-1.0,False,2019,1,75.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,240,False,14.0,False,-1.0,False,-1.0,False,2018,3,75.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,16000000,240,False,13.0,False,-1.0,False,-1.0,False,2017,4,75.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6000000,220,False,-1.0,False,-1.0,False,-1.0,False,2017,4,75.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,220,False,10.0,False,-1.0,False,-1.0,False,2017,4,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,230,False,9.5,False,-1.0,False,-1.0,False,2017,2,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,210,False,14.0,False,-1.0,False,-1.0,False,2015,3,75.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8700000,200,False,13.5,False,-1.0,False,-1.0,False,2017,4,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,210,False,-1.0,False,-1.0,False,-1.0,False,2017,3,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7400000,130,False,9.2,False,-1.0,False,-1.0,False,2015,2,75.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6900000,140,False,-1.0,False,-1.0,False,-1.0,False,2017,4,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5900000,120,False,11.5,False,-1.0,False,-1.0,False,2016,3,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,270,False,17.0,False,-1.0,False,-1.0,False,2016,3,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8400000,230,False,15.5,False,-1.0,False,-1.0,False,2015,1,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9000000,160,False,14.6,False,-1.0,False,-1.0,False,2015,1,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5800000,105,False,8.0,False,-1.0,False,-1.0,False,2014,4,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5000000,115,False,11.4,False,-1.0,False,-1.0,False,2014,2,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,19000000,115,False,13.0,False,-1.0,False,-1.0,False,2018,4,21.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,160,False,9.5,False,-1.0,False,-1.0,False,2016,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,160,False,10.5,False,-1.0,False,-1.0,False,2015,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,165,False,16.0,False,-1.0,False,-1.0,False,2014,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,260,False,15.5,False,-1.0,False,-1.0,False,2016,3,45.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,20000000,290,False,13.9,False,-1.0,False,-1.0,False,2017,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6300000,125,False,9.1,False,-1.0,False,-1.0,False,2015,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5400000,125,False,-1.0,False,-1.0,False,-1.0,False,2015,1,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,115,False,7.0,False,-1.0,False,-1.0,False,2017,3,21.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,155,False,7.5,False,-1.0,False,-1.0,False,2017,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,3500000,80,False,5.4,False,-1.0,False,-1.0,False,2017,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5000000,100,False,6.9,False,-1.0,False,-1.0,False,2016,1,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,4000000,130,False,10.0,False,-1.0,False,-1.0,False,2015,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,300000,195,False,-1.0,False,-1.0,False,-1.0,False,2017,2,120.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,1800000,105,False,7.5,False,-1.0,False,-1.0,False,2016,4,120.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,1700000,55,False,-1.0,False,-1.0,False,-1.0,False,2019,2,11.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,3100000,95,False,12.0,False,-1.0,False,-1.0,False,2019,2,10.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6500000,100,False,8.0,False,-1.0,False,-1.0,False,2019,1,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,17000000,230,False,9.0,False,-1.0,False,-1.0,False,2017,1,20.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5800000,110,False,10.0,False,-1.0,False,-1.0,False,2017,1,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9000000,155,False,11.0,False,-1.0,False,-1.0,False,2016,2,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6200000,105,False,7.6,False,-1.0,False,-1.0,False,2014,4,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,4800000,90,False,12.0,False,-1.0,False,-1.0,False,2015,4,14.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8800000,170,False,9.0,False,-1.0,False,-1.0,False,2014,3,12.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,150,False,13.9,False,-1.0,False,-1.0,False,2017,4,3.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6300000,85,False,11.0,False,-1.0,False,-1.0,False,2016,4,3.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,110,False,18.1,False,-1.0,False,-1.0,False,2019,2,10.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,23000000,290,False,6.9,False,-1.0,False,-1.0,False,2015,4,29.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,300,False,4.4,False,-1.0,False,-1.0,False,2016,2,8.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,2900000,470,False,19.7,False,-1.0,False,-1.0,False,2018,4,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,4300000,240,False,14.5,False,-1.0,False,-1.0,False,2016,2,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6000000,260,False,-1.0,False,-1.0,False,-1.0,False,2016,1,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,2800000,155,False,12.0,False,-1.0,False,-1.0,False,2015,1,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,530000,175,False,12.8,False,-1.0,False,-1.0,False,2014,3,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,3500000,145,False,13.1,False,-1.0,False,-1.0,False,2014,2,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,19000000,200,False,13.7,False,-1.0,False,-1.0,False,2017,1,75.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,27000000,180,False,8.9,False,-1.0,False,-1.0,False,2016,3,12.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,23000000,310,False,-1.0,False,-1.0,False,-1.0,False,2019,1,8.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,115,False,8.1,False,-1.0,False,-1.0,False,2018,1,10.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,115,False,8.0,False,-1.0,False,-1.0,False,2017,4,10.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,18000000,210,False,10.0,False,-1.0,False,-1.0,False,2017,2,18.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,26000000,170,False,8.5,False,-1.0,False,-1.0,False,2017,1,12.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5800000,75,False,8.0,False,-1.0,False,-1.0,False,2016,4,10.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,52000000,310,False,15.6,False,-1.0,False,-1.0,False,2016,4,13.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,30000000,350,False,17.3,False,-1.0,False,-1.0,False,2016,4,9.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,4000000,290,False,13.0,False,-1.0,False,-1.0,False,2015,2,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7800000,105,False,9.0,False,-1.0,False,-1.0,False,2016,4,22.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7700000,105,False,7.5,False,-1.0,False,-1.0,False,2016,3,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,17000000,210,False,-1.0,False,-1.0,False,-1.0,False,2017,2,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,160,False,14.7,False,-1.0,False,-1.0,False,2016,2,21.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5000000,360,False,28.8,False,-1.0,False,-1.0,False,2015,3,28.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7300000,110,False,9.0,False,-1.0,False,-1.0,False,2014,3,29.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,27000000,270,False,15.0,False,-1.0,False,-1.0,False,2019,2,23.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,19000000,165,False,5.0,False,-1.0,False,-1.0,False,2017,3,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,16000000,190,False,9.8,False,-1.0,False,-1.0,False,2017,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,150,False,9.5,False,-1.0,False,-1.0,False,2014,2,28.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,175,False,11.5,False,-1.0,False,-1.0,False,2016,3,18.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,24000000,260,False,8.7,False,-1.0,False,-1.0,False,2018,1,14.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,125,False,9.9,False,-1.0,False,-1.0,False,2019,1,14.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,155,False,6.8,False,-1.0,False,-1.0,False,2018,3,14.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,160,False,12.8,False,-1.0,False,-1.0,False,2016,4,14.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,160,False,11.0,False,-1.0,False,-1.0,False,2015,3,14.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,24000000,260,False,15.0,False,-1.0,False,-1.0,False,2014,4,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,140,False,10.4,False,-1.0,False,-1.0,False,2014,3,15.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,3000000,85,False,9.6,False,-1.0,False,-1.0,False,2017,3,3.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,135,False,4.5,False,-1.0,False,-1.0,False,2016,3,4.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,22000000,280,False,8.0,False,-1.0,False,-1.0,False,2016,3,4.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,120,False,12.2,False,-1.0,False,-1.0,False,2016,1,3.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6900000,135,False,7.8,False,-1.0,False,-1.0,False,2015,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7400000,145,False,12.6,False,-1.0,False,-1.0,False,2015,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,2000000,270,False,26.0,False,-1.0,False,-1.0,False,2016,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8900000,200,False,13.3,False,-1.0,False,-1.0,False,2018,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8400000,165,False,14.8,False,-1.0,False,-1.0,False,2017,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8200000,200,False,17.0,False,-1.0,False,-1.0,False,2016,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7800000,200,False,13.0,False,-1.0,False,-1.0,False,2015,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7900000,195,False,13.0,False,-1.0,False,-1.0,False,2015,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,200,False,12.7,False,-1.0,False,-1.0,False,2015,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,16000000,130,False,10.0,False,-1.0,False,-1.0,False,2019,2,9.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,61000000,250,False,7.7,False,-1.0,False,-1.0,False,2017,4,6.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,110000000,350,False,37.6,False,-1.0,False,-1.0,False,2017,4,6.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,40000000,185,False,8.0,False,-1.0,False,-1.0,False,2017,4,6.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,100000000,430,False,9.8,False,-1.0,False,-1.0,False,2014,4,11.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8400000,460,False,22.0,False,-1.0,False,-1.0,False,2014,3,75.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5000000,410,False,18.0,False,-1.0,False,-1.0,False,2017,4,120.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,240,False,14.6,False,-1.0,False,-1.0,False,2016,3,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8000000,210,False,14.0,False,-1.0,False,-1.0,False,2014,4,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,17000000,220,False,16.0,False,-1.0,False,-1.0,False,2015,2,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,220,False,18.0,False,-1.0,False,-1.0,False,2016,1,23.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,25000000,350,False,25.6,False,-1.0,False,-1.0,False,2017,3,24.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,120,False,-1.0,False,-1.0,False,-1.0,False,2015,4,21.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,71000000,1600,False,38.0,False,-1.0,False,-1.0,False,2014,2,21.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,20000000,165,False,8.0,False,-1.0,False,-1.0,False,2018,2,15.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,26000000,290,False,-1.0,False,-1.0,False,-1.0,False,2018,1,16.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,16000000,140,False,-1.0,False,-1.0,False,-1.0,False,2017,3,11.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,130,False,7.0,False,-1.0,False,-1.0,False,2017,2,16.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,155,False,12.0,False,-1.0,False,-1.0,False,2016,2,12.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7600000,800,False,-1.0,False,-1.0,False,-1.0,False,2018,1,26.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,150,False,-1.0,False,-1.0,False,-1.0,False,2017,4,21.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,140,False,15.9,False,-1.0,False,-1.0,False,2017,4,29.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,130,False,8.0,False,-1.0,False,-1.0,False,2015,2,29.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,160,False,9.2,False,-1.0,False,-1.0,False,2015,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,26000000,300,False,15.3,False,-1.0,False,-1.0,False,2014,4,28.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,165,False,15.0,False,-1.0,False,-1.0,False,2014,3,24.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,250,False,26.5,False,-1.0,False,-1.0,False,2014,2,24.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,24000000,250,False,14.8,False,-1.0,False,-1.0,False,2014,3,27.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,125,False,-1.0,False,-1.0,False,-1.0,False,2018,4,12.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,16000000,150,False,8.6,False,-1.0,False,-1.0,False,2018,4,15.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9000000,75,False,7.3,False,-1.0,False,-1.0,False,2018,3,9.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,95,False,9.3,False,-1.0,False,-1.0,False,2017,3,10.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8200000,60,False,5.0,False,-1.0,False,-1.0,False,2015,2,9.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,38000000,260,False,14.4,False,-1.0,False,-1.0,False,2016,4,12.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,23000000,165,False,9.0,False,-1.0,False,-1.0,False,2015,4,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,25000000,410,False,13.0,False,-1.0,False,-1.0,False,2015,4,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,180,False,11.5,False,-1.0,False,-1.0,False,2018,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,130,False,8.0,False,-1.0,False,-1.0,False,2018,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,240,False,18.2,False,-1.0,False,-1.0,False,2018,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,18000000,260,False,13.0,False,-1.0,False,-1.0,False,2017,2,26.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,3000000,90,False,7.5,False,-1.0,False,-1.0,False,2016,1,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8000000,110,False,8.0,False,-1.0,False,-1.0,False,2016,1,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5300000,70,False,5.3,False,-1.0,False,-1.0,False,2015,4,26.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,220,False,9.0,False,-1.0,False,-1.0,False,2015,1,28.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,140,False,9.7,False,-1.0,False,-1.0,False,2015,3,18.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,120,False,7.3,False,-1.0,False,-1.0,False,2015,1,16.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,140,False,11.0,False,-1.0,False,-1.0,False,2016,2,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,220,False,17.0,False,-1.0,False,-1.0,False,2015,1,21.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,16000000,260,False,15.5,False,-1.0,False,-1.0,False,2015,1,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,25000000,270,False,15.7,False,-1.0,False,-1.0,False,2018,2,24.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9800000,170,False,14.5,False,-1.0,False,-1.0,False,2016,3,26.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,16000000,150,False,20.5,False,-1.0,False,-1.0,False,2015,3,15.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,16000000,150,False,10.8,False,-1.0,False,-1.0,False,2015,2,13.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,140,False,8.7,False,-1.0,False,-1.0,False,2017,2,24.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,21000000,280,False,11.4,False,-1.0,False,-1.0,False,2017,2,24.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,140,False,8.8,False,-1.0,False,-1.0,False,2017,2,23.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9500000,145,False,9.3,False,-1.0,False,-1.0,False,2016,4,21.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,175,False,9.5,False,-1.0,False,-1.0,False,2016,3,21.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,105,False,12.0,False,-1.0,False,-1.0,False,2015,3,21.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7500000,115,False,7.3,False,-1.0,False,-1.0,False,2015,2,23.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,12000000,165,False,11.1,False,-1.0,False,-1.0,False,2015,1,24.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,16000000,250,False,18.7,False,-1.0,False,-1.0,False,2014,4,24.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,32000000,490,False,14.1,False,-1.0,False,-1.0,False,2014,4,24.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,210,False,13.6,False,-1.0,False,-1.0,False,2014,4,24.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,220,False,5.0,False,-1.0,False,-1.0,False,2014,4,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,230,False,26.0,False,-1.0,False,-1.0,False,2014,4,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,200,False,12.0,False,-1.0,False,-1.0,False,2014,3,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,195,False,10.8,False,-1.0,False,-1.0,False,2014,2,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,200,False,12.4,False,-1.0,False,-1.0,False,2014,2,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,145,False,10.0,False,-1.0,False,-1.0,False,2014,2,18.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,175,False,10.9,False,-1.0,False,-1.0,False,2014,1,26.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,36000000,680,False,30.0,False,-1.0,False,-1.0,False,2014,2,12.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,145,False,8.5,False,-1.0,False,-1.0,False,2014,3,27.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,25000000,360,False,16.6,False,-1.0,False,-1.0,False,2019,1,29.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,20000000,390,False,13.7,False,-1.0,False,-1.0,False,2016,3,16.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9600000,125,False,6.0,False,-1.0,False,-1.0,False,2014,2,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,19000000,280,False,13.0,False,-1.0,False,-1.0,False,2016,4,18.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6600000,55,False,6.2,False,-1.0,False,-1.0,False,2016,1,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,32000000,350,False,39.5,False,-1.0,False,-1.0,False,2016,1,20.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,22000000,120,False,12.0,False,-1.0,False,-1.0,False,2019,1,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,38000000,210,False,9.2,False,-1.0,False,-1.0,False,2015,4,18.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,37000000,350,False,-1.0,False,-1.0,False,-1.0,False,2019,3,15.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,29000000,250,False,-1.0,False,-1.0,False,-1.0,False,2018,1,15.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,165,False,12.2,False,-1.0,False,-1.0,False,2015,2,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,4200000,75,False,10.0,False,-1.0,False,-1.0,False,2016,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,440000,45,False,7.0,False,-1.0,False,-1.0,False,2015,3,26.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,55,False,2.1,False,-1.0,False,-1.0,False,2017,3,8.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,28000000,150,False,14.5,False,-1.0,False,-1.0,False,2014,4,8.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,19000000,135,False,9.5,False,-1.0,False,-1.0,False,2014,2,14.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,27000000,200,False,10.9,False,-1.0,False,-1.0,False,2015,3,15.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,27000000,200,False,10.8,False,-1.0,False,-1.0,False,2018,4,24.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,180,False,12.0,False,-1.0,False,-1.0,False,2015,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,30000000,310,False,17.0,False,-1.0,False,-1.0,False,2014,4,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,190,False,12.0,False,-1.0,False,-1.0,False,2014,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,185,False,12.5,False,-1.0,False,-1.0,False,2014,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,16000000,280,False,16.0,False,-1.0,False,-1.0,False,2014,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,25000000,330,False,13.0,False,-1.0,False,-1.0,False,2014,2,26.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,185,False,12.5,False,-1.0,False,-1.0,False,2014,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,36000000,410,False,20.0,False,-1.0,False,-1.0,False,2015,4,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,20000000,210,False,18.8,False,-1.0,False,-1.0,False,2015,4,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,120,False,10.8,False,-1.0,False,-1.0,False,2017,4,7.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8300000,125,False,12.0,False,-1.0,False,-1.0,False,2014,4,7.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,210,False,17.0,False,-1.0,False,-1.0,False,2014,4,7.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,75000000,760,False,-1.0,False,-1.0,False,-1.0,False,2018,1,12.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,20000000,440,False,25.6,False,-1.0,False,-1.0,False,2018,2,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,18000000,120,False,16.0,False,-1.0,False,-1.0,False,2016,3,18.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,24000000,220,False,15.6,False,-1.0,False,-1.0,False,2018,1,6.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,8000000,120,False,7.9,False,-1.0,False,-1.0,False,2015,3,6.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,135,False,8.0,False,-1.0,False,-1.0,False,2014,4,9.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,200,False,4.0,False,-1.0,False,-1.0,False,2018,4,5.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,4000000,60,False,5.8,False,-1.0,False,-1.0,False,2018,4,5.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,6500000,135,False,7.1,False,-1.0,False,-1.0,False,2016,3,24.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,180,False,9.5,False,-1.0,False,-1.0,False,2016,1,25.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,13000000,160,False,-1.0,False,-1.0,False,-1.0,False,2015,2,6.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,150,False,-1.0,False,-1.0,False,-1.0,False,2018,1,9.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,125,False,11.6,False,-1.0,False,-1.0,False,2019,3,24.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,17000000,570,False,20.0,False,-1.0,False,-1.0,False,2019,2,21.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,150,False,7.5,False,-1.0,False,-1.0,False,2018,4,14.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,180,False,20.3,False,-1.0,False,-1.0,False,2017,3,16.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,120,False,6.6,False,-1.0,False,-1.0,False,2017,1,16.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,600,False,16.4,False,-1.0,False,-1.0,False,2015,3,16.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5800000,140,False,9.0,False,-1.0,False,-1.0,False,2018,4,75.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,7500000,95,False,10.4,False,-1.0,False,-1.0,False,2018,2,75.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,2500000,200,False,13.0,False,-1.0,False,-1.0,False,2016,1,75.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,29000000,220,False,11.5,False,-1.0,False,-1.0,False,2018,3,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,22000000,250,False,17.0,False,-1.0,False,-1.0,False,2018,1,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,5000000,185,False,12.0,False,-1.0,False,-1.0,False,2015,4,75.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,175,False,-1.0,False,-1.0,False,-1.0,False,2015,2,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,22000000,220,False,15.0,False,-1.0,False,-1.0,False,2015,1,75.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,15000000,150,False,9.9,False,-1.0,False,-1.0,False,2015,1,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,10000000,150,False,-1.0,False,-1.0,False,-1.0,False,2017,2,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9600000,200,False,7.5,False,-1.0,False,-1.0,False,2014,4,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,16000000,130,False,11.8,False,-1.0,False,-1.0,False,2016,2,11.0,True,False,False,False,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9000000,70,False,5.4,False,-1.0,False,-1.0,False,2019,2,19.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,14000000,120,False,10.2,False,-1.0,False,-1.0,False,2015,2,18.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,130,False,8.0,False,-1.0,False,-1.0,False,2014,4,105.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,9900000,120,False,4.1,False,-1.0,False,-1.0,False,2019,2,21.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Muroto City,2000000,660,False,10.0,False,-1.0,False,-1.0,False,2019,3,120.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Muroto City,1000000,90,False,13.0,False,-1.0,False,-1.0,False,2016,1,120.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Muroto City,1000000,80,False,4.0,False,-1.0,False,-1.0,False,2015,4,120.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Aki City,2000000,185,False,14.4,False,-1.0,False,-1.0,False,2016,4,23.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Aki City,4200000,280,False,5.4,False,-1.0,False,-1.0,False,2019,2,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Aki City,3400000,230,False,13.2,False,-1.0,False,-1.0,False,2014,2,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Aki City,3400000,230,False,14.0,False,-1.0,False,-1.0,False,2014,2,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Aki City,3400000,230,False,14.3,False,-1.0,False,-1.0,False,2014,2,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Aki City,4100000,270,False,14.0,False,-1.0,False,-1.0,False,2014,2,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Aki City,3400000,230,False,14.0,False,-1.0,False,-1.0,False,2014,2,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Aki City,3300000,230,False,13.2,False,-1.0,False,-1.0,False,2014,2,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Aki City,3800000,270,False,15.5,False,-1.0,False,-1.0,False,2014,2,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Aki City,4500000,280,False,17.0,False,-1.0,False,-1.0,False,2014,2,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Aki City,4600000,170,False,9.6,False,-1.0,False,-1.0,False,2016,4,9.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Aki City,5200000,230,False,17.0,False,-1.0,False,-1.0,False,2016,4,16.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Aki City,4100000,105,False,13.5,False,-1.0,False,-1.0,False,2019,1,7.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,20000000,750,False,18.0,False,-1.0,False,-1.0,False,2019,2,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,4500000,100,False,11.0,False,-1.0,False,-1.0,False,2018,3,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,5700000,90,False,11.0,False,-1.0,False,-1.0,False,2014,4,1.0,True,False,False,False,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,13000000,130,False,8.8,False,-1.0,False,-1.0,False,2019,3,19.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,14000000,135,False,8.6,False,-1.0,False,-1.0,False,2019,2,15.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,11000000,130,False,9.1,False,-1.0,False,-1.0,False,2019,1,18.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,23000000,260,False,16.2,False,-1.0,False,-1.0,False,2019,1,13.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,25000000,250,False,18.6,False,-1.0,False,-1.0,False,2018,4,16.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,13000000,175,False,6.5,False,-1.0,False,-1.0,False,2017,4,16.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,16000000,185,False,10.7,False,-1.0,False,-1.0,False,2017,1,19.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,16000000,180,False,11.0,False,-1.0,False,-1.0,False,2017,1,24.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,3000000,65,False,5.2,False,-1.0,False,-1.0,False,2017,1,12.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,15000000,185,False,10.7,False,-1.0,False,-1.0,False,2016,2,25.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,1500000,105,False,15.4,False,-1.0,False,-1.0,False,2016,1,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,9900000,250,False,16.1,False,-1.0,False,-1.0,False,2016,1,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,3800000,70,False,5.3,False,-1.0,False,-1.0,False,2016,1,11.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,15000000,230,False,12.2,False,-1.0,False,-1.0,False,2015,3,11.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,24000000,290,False,17.5,False,-1.0,False,-1.0,False,2015,3,17.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,36000000,500,False,20.0,False,-1.0,False,-1.0,False,2014,4,11.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,9900000,140,False,7.7,False,-1.0,False,-1.0,False,2014,1,10.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,15000000,190,False,10.2,False,-1.0,False,-1.0,False,2019,2,6.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,11000000,210,False,16.5,False,-1.0,False,-1.0,False,2019,2,23.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,12000000,180,False,8.2,False,-1.0,False,-1.0,False,2019,1,7.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,13000000,175,False,10.4,False,-1.0,False,-1.0,False,2019,1,6.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,25000000,310,False,16.1,False,-1.0,False,-1.0,False,2019,1,5.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,9900000,240,False,11.3,False,-1.0,False,-1.0,False,2018,4,4.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,45000000,830,False,20.1,False,-1.0,False,-1.0,False,2018,4,6.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,12000000,430,False,11.0,False,-1.0,False,-1.0,False,2018,4,4.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,17000000,190,False,12.5,False,-1.0,False,-1.0,False,2018,3,6.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,11000000,150,False,-1.0,False,-1.0,False,-1.0,False,2018,2,16.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,11000000,230,False,15.6,False,-1.0,False,-1.0,False,2018,2,11.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,13000000,170,False,-1.0,False,-1.0,False,-1.0,False,2018,1,8.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,20000000,670,False,29.0,False,-1.0,False,-1.0,False,2017,4,26.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,13000000,130,False,7.5,False,-1.0,False,-1.0,False,2017,3,6.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,16000000,480,False,19.5,False,-1.0,False,-1.0,False,2017,2,11.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,9500000,260,False,-1.0,False,-1.0,False,-1.0,False,2017,1,4.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,2500000,70,False,5.5,False,-1.0,False,-1.0,False,2017,1,4.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,5700000,155,False,14.5,False,-1.0,False,-1.0,False,2017,1,4.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,14000000,360,False,20.0,False,-1.0,False,-1.0,False,2017,1,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,7400000,165,False,13.1,False,-1.0,False,-1.0,False,2016,3,4.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,12000000,145,False,8.5,False,-1.0,False,-1.0,False,2016,3,6.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,22000000,260,False,15.0,False,-1.0,False,-1.0,False,2016,2,6.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,13000000,150,False,8.5,False,-1.0,False,-1.0,False,2016,2,6.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,11000000,250,False,9.9,False,-1.0,False,-1.0,False,2016,2,11.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,16000000,210,False,10.2,False,-1.0,False,-1.0,False,2016,2,1.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,8500000,160,False,5.0,False,-1.0,False,-1.0,False,2016,1,15.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,6000000,180,False,10.4,False,-1.0,False,-1.0,False,2015,3,16.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,9400000,185,False,-1.0,False,-1.0,False,-1.0,False,2015,3,11.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,16000000,165,False,7.0,False,-1.0,False,-1.0,False,2014,4,10.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,13000000,230,False,11.1,False,-1.0,False,-1.0,False,2014,4,3.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,12000000,160,False,5.7,False,-1.0,False,-1.0,False,2014,3,5.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,13000000,185,False,10.5,False,-1.0,False,-1.0,False,2014,3,8.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,4600000,90,False,-1.0,False,-1.0,False,-1.0,False,2018,3,18.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,17000000,250,False,21.7,False,-1.0,False,-1.0,False,2018,2,3.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,800000,90,False,29.0,False,-1.0,False,-1.0,False,2015,4,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,1900000,870,False,18.0,False,-1.0,False,-1.0,False,2014,2,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,9400000,220,False,9.8,False,-1.0,False,-1.0,False,2018,4,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,10000000,230,False,11.4,False,-1.0,False,-1.0,False,2018,3,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,19000000,560,False,33.6,False,-1.0,False,-1.0,False,2018,1,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,13000000,490,False,23.2,False,-1.0,False,-1.0,False,2016,4,25.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,14000000,470,False,37.4,False,-1.0,False,-1.0,False,2016,3,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,11000000,165,False,12.0,False,-1.0,False,-1.0,False,2019,3,6.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,7300000,150,False,7.0,False,-1.0,False,-1.0,False,2016,4,8.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,8500000,165,False,16.0,False,-1.0,False,-1.0,False,2016,3,7.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,8600000,175,False,12.6,False,-1.0,False,-1.0,False,2016,1,8.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,9000000,175,False,14.0,False,-1.0,False,-1.0,False,2016,1,8.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,9000000,320,False,11.5,False,-1.0,False,-1.0,False,2014,1,12.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,5000000,160,False,7.7,False,-1.0,False,-1.0,False,2019,1,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,10000000,200,False,10.4,False,-1.0,False,-1.0,False,2019,1,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,2600000,80,False,6.5,False,-1.0,False,-1.0,False,2018,3,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,9500000,310,False,3.4,False,-1.0,False,-1.0,False,2017,1,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,25000000,1400,False,37.2,False,-1.0,False,-1.0,False,2016,2,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,7500000,500,False,20.0,False,-1.0,False,-1.0,False,2015,4,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,8900000,130,False,9.5,False,-1.0,False,-1.0,False,2018,2,5.0,True,False,False,False,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,3000000,230,False,14.5,False,-1.0,False,-1.0,False,2016,4,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,7500000,200,False,17.4,False,-1.0,False,-1.0,False,2017,4,12.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,6000000,185,False,8.6,False,-1.0,False,-1.0,False,2017,1,11.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,11000000,290,False,17.8,False,-1.0,False,-1.0,False,2018,2,21.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,6900000,95,False,7.0,False,-1.0,False,-1.0,False,2016,2,14.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,7300000,135,False,7.8,False,-1.0,False,-1.0,False,2015,3,13.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,8200000,125,False,9.3,False,-1.0,False,-1.0,False,2015,1,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,16000000,210,False,10.2,False,-1.0,False,-1.0,False,2015,1,120.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,8800000,210,False,-1.0,False,-1.0,False,-1.0,False,2014,3,28.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,11000000,120,False,10.0,False,-1.0,False,-1.0,False,2014,3,24.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,11000000,270,False,-1.0,False,-1.0,False,-1.0,False,2018,1,24.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,12000000,350,False,4.8,False,-1.0,False,-1.0,False,2014,3,24.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,24000000,870,False,37.0,False,-1.0,False,-1.0,False,2019,1,11.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,19000000,500,False,-1.0,False,-1.0,False,-1.0,False,2018,3,2.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,12000000,420,False,32.0,False,-1.0,False,-1.0,False,2014,4,6.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,11000000,165,False,15.6,False,-1.0,False,-1.0,False,2018,4,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,3600000,400,False,25.4,False,-1.0,False,-1.0,False,2018,4,45.0,False,False,True,False,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,9300000,135,False,7.2,False,-1.0,False,-1.0,False,2018,3,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,9900000,150,False,16.4,False,-1.0,False,-1.0,False,2018,3,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,13000000,190,False,15.5,False,-1.0,False,-1.0,False,2017,4,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,10000000,145,False,13.6,False,-1.0,False,-1.0,False,2017,4,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,12000000,175,False,11.0,False,-1.0,False,-1.0,False,2017,4,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,10000000,360,False,17.0,False,-1.0,False,-1.0,False,2017,2,7.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,6400000,125,False,8.4,False,-1.0,False,-1.0,False,2014,3,120.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,7700000,160,False,7.0,False,-1.0,False,-1.0,False,2014,2,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,9900000,200,False,-1.0,False,-1.0,False,-1.0,False,2017,3,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,10000000,250,False,-1.0,False,-1.0,False,-1.0,False,2014,4,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,6400000,125,False,8.3,False,-1.0,False,-1.0,False,2014,3,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,8000000,440,False,10.0,False,-1.0,False,-1.0,False,2014,1,29.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,5800000,210,False,12.6,False,-1.0,False,-1.0,False,2017,2,20.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,4900000,490,False,29.4,False,-1.0,False,-1.0,False,2015,4,20.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,23000000,390,False,17.0,False,-1.0,False,-1.0,False,2014,2,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,10000000,250,False,13.0,False,-1.0,False,-1.0,False,2018,4,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,14000000,230,False,14.5,False,-1.0,False,-1.0,False,2018,4,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,7900000,200,False,17.5,False,-1.0,False,-1.0,False,2018,3,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,18000000,250,False,-1.0,False,-1.0,False,-1.0,False,2017,2,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,11000000,195,False,12.3,False,-1.0,False,-1.0,False,2016,4,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,14000000,260,False,16.0,False,-1.0,False,-1.0,False,2016,2,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,13000000,200,False,12.8,False,-1.0,False,-1.0,False,2016,1,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,12000000,230,False,18.5,False,-1.0,False,-1.0,False,2014,4,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,4800000,400,False,-1.0,False,-1.0,False,-1.0,False,2016,1,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,3000000,165,False,-1.0,False,-1.0,False,-1.0,False,2016,4,120.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,3500000,260,False,8.5,False,-1.0,False,-1.0,False,2019,2,120.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,10000000,165,False,10.5,False,-1.0,False,-1.0,False,2019,3,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,8400000,165,False,10.5,False,-1.0,False,-1.0,False,2018,3,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,11000000,250,False,27.0,False,-1.0,False,-1.0,False,2018,3,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,6400000,130,False,7.2,False,-1.0,False,-1.0,False,2018,3,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,7800000,175,False,5.5,False,-1.0,False,-1.0,False,2018,2,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,10000000,165,False,15.0,False,-1.0,False,-1.0,False,2018,2,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,14000000,320,False,15.4,False,-1.0,False,-1.0,False,2018,2,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,11000000,185,False,16.0,False,-1.0,False,-1.0,False,2018,2,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,7300000,220,False,13.0,False,-1.0,False,-1.0,False,2018,2,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,7000000,100,False,23.7,False,-1.0,False,-1.0,False,2018,2,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,12000000,165,False,12.8,False,-1.0,False,-1.0,False,2017,4,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,5200000,105,False,12.0,False,-1.0,False,-1.0,False,2017,2,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,3100000,65,False,-1.0,False,-1.0,False,-1.0,False,2017,2,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,12000000,260,False,17.3,False,-1.0,False,-1.0,False,2017,2,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,8700000,180,False,9.4,False,-1.0,False,-1.0,False,2017,2,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,11000000,195,False,10.9,False,-1.0,False,-1.0,False,2017,1,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,13000000,250,False,-1.0,False,-1.0,False,-1.0,False,2016,3,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,11000000,210,False,21.0,False,-1.0,False,-1.0,False,2019,2,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,9600000,220,False,16.6,False,-1.0,False,-1.0,False,2019,2,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,3300000,85,False,8.1,False,-1.0,False,-1.0,False,2019,1,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,11000000,195,False,7.3,False,-1.0,False,-1.0,False,2016,3,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,2000000,130,False,9.6,False,-1.0,False,-1.0,False,2015,4,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,7200000,200,False,9.9,False,-1.0,False,-1.0,False,2015,3,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,9500000,170,False,13.5,False,-1.0,False,-1.0,False,2015,2,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,7500000,165,False,9.7,False,-1.0,False,-1.0,False,2014,2,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,14000000,210,False,15.0,False,-1.0,False,-1.0,False,2014,2,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,8400000,400,False,36.0,False,-1.0,False,-1.0,False,2017,3,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,5400000,150,False,14.6,False,-1.0,False,-1.0,False,2018,4,120.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,9000000,200,False,12.4,False,-1.0,False,-1.0,False,2018,2,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,6000000,210,False,14.0,False,-1.0,False,-1.0,False,2016,1,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,8700000,175,False,15.0,False,-1.0,False,-1.0,False,2019,2,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,8200000,170,False,15.0,False,-1.0,False,-1.0,False,2016,2,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,3500000,195,False,13.6,False,-1.0,False,-1.0,False,2015,2,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,3400000,175,False,14.0,False,-1.0,False,-1.0,False,2014,3,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,8000000,165,False,8.0,False,-1.0,False,-1.0,False,2014,1,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosa City,11000000,200,False,14.3,False,-1.0,False,-1.0,False,2015,4,105.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Susaki City,4400000,230,False,13.8,False,-1.0,False,-1.0,False,2017,3,8.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Susaki City,5200000,1000,False,34.0,False,-1.0,False,-1.0,False,2018,2,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Susaki City,5600000,250,False,-1.0,False,-1.0,False,-1.0,False,2016,4,24.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Susaki City,4500000,850,False,25.0,False,-1.0,False,-1.0,False,2018,1,15.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Susaki City,6000000,280,False,14.0,False,-1.0,False,-1.0,False,2015,1,29.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Susaki City,2000000,100,False,12.0,False,-1.0,False,-1.0,False,2018,2,2.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Susaki City,350000,65,False,9.5,False,-1.0,False,-1.0,False,2018,2,13.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Susaki City,4000000,230,False,8.0,False,-1.0,False,-1.0,False,2015,4,13.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Sukumo City,3900000,260,False,10.0,False,-1.0,False,-1.0,False,2017,1,2.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Sukumo City,2300000,195,False,-1.0,False,-1.0,False,-1.0,False,2014,2,23.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Sukumo City,5400000,200,False,11.5,False,-1.0,False,-1.0,False,2016,2,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Sukumo City,6100000,270,False,12.5,False,-1.0,False,-1.0,False,2014,2,25.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Sukumo City,3500000,185,False,11.0,False,-1.0,False,-1.0,False,2014,3,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Sukumo City,4800000,250,False,16.5,False,-1.0,False,-1.0,False,2018,1,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Sukumo City,8300000,180,False,10.6,False,-1.0,False,-1.0,False,2016,4,8.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Sukumo City,11000000,260,False,15.5,False,-1.0,False,-1.0,False,2014,4,7.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Sukumo City,4500000,880,False,34.0,False,-1.0,False,-1.0,False,2014,2,18.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Sukumo City,5000000,290,False,10.7,False,-1.0,False,-1.0,False,2019,1,10.0,True,False,False,False,3,True
+Residential Land(Land Only),Kochi Prefecture,Sukumo City,1300000,110,False,6.7,False,-1.0,False,-1.0,False,2015,2,9.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Sukumo City,3900000,220,False,14.5,False,-1.0,False,-1.0,False,2019,1,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Sukumo City,2000000,140,False,14.0,False,-1.0,False,-1.0,False,2018,1,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Sukumo City,4500000,310,False,15.0,False,-1.0,False,-1.0,False,2017,2,4.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Sukumo City,5000000,260,False,15.0,False,-1.0,False,-1.0,False,2017,4,19.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Sukumo City,6000000,1100,False,48.0,False,-1.0,False,-1.0,False,2014,4,19.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosashimizu City,6000000,360,False,17.0,False,-1.0,False,-1.0,False,2014,2,120.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosashimizu City,1600000,260,False,19.0,False,-1.0,False,-1.0,False,2019,1,120.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosashimizu City,4000000,380,False,-1.0,False,-1.0,False,-1.0,False,2019,3,120.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosashimizu City,720000,90,False,6.3,False,-1.0,False,-1.0,False,2014,4,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosashimizu City,6400000,190,False,12.0,False,-1.0,False,-1.0,False,2014,4,120.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosashimizu City,3800000,130,False,10.0,False,-1.0,False,-1.0,False,2018,2,120.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosashimizu City,2900000,95,False,9.0,False,-1.0,False,-1.0,False,2016,3,120.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Tosashimizu City,4300000,145,False,11.0,False,-1.0,False,-1.0,False,2015,4,120.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,15000000,800,False,38.0,False,-1.0,False,-1.0,False,2016,3,14.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,3000000,165,False,11.0,False,-1.0,False,-1.0,False,2014,4,13.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,1800000,90,False,9.8,False,-1.0,False,-1.0,False,2019,2,25.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,9300000,230,False,13.0,False,-1.0,False,-1.0,False,2018,4,6.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,15000000,670,False,16.1,False,-1.0,False,-1.0,False,2016,4,5.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,8300000,390,False,12.2,False,-1.0,False,-1.0,False,2016,3,11.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,5500000,260,False,11.5,False,-1.0,False,-1.0,False,2016,2,9.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,3500000,310,False,-1.0,False,-1.0,False,-1.0,False,2018,4,19.0,False,True,False,False,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,7700000,250,False,-1.0,False,-1.0,False,-1.0,False,2018,1,24.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,7500000,200,False,15.0,False,-1.0,False,-1.0,False,2017,4,15.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,3200000,110,False,15.0,False,-1.0,False,-1.0,False,2017,3,18.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,8000000,200,False,13.5,False,-1.0,False,-1.0,False,2015,4,16.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,8000000,280,False,14.6,False,-1.0,False,-1.0,False,2015,4,23.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,8100000,190,False,13.5,False,-1.0,False,-1.0,False,2015,2,15.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,5200000,155,False,5.7,False,-1.0,False,-1.0,False,2015,2,16.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,7500000,165,False,9.1,False,-1.0,False,-1.0,False,2015,1,14.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,6700000,185,False,12.4,False,-1.0,False,-1.0,False,2014,3,13.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,6600000,180,False,10.0,False,-1.0,False,-1.0,False,2019,2,19.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,23000000,630,False,21.0,False,-1.0,False,-1.0,False,2019,1,16.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,5500000,165,False,9.8,False,-1.0,False,-1.0,False,2018,3,15.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,6600000,210,False,10.5,False,-1.0,False,-1.0,False,2018,3,16.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,19000000,690,False,22.0,False,-1.0,False,-1.0,False,2018,2,19.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,4200000,140,False,10.5,False,-1.0,False,-1.0,False,2016,4,22.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,8500000,290,False,25.4,False,-1.0,False,-1.0,False,2015,3,16.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,8600000,260,False,11.2,False,-1.0,False,-1.0,False,2015,2,19.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,6400000,230,False,13.0,False,-1.0,False,-1.0,False,2019,3,13.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,16000000,370,False,11.0,False,-1.0,False,-1.0,False,2018,3,19.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,4500000,150,False,7.0,False,-1.0,False,-1.0,False,2017,3,8.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,6000000,220,False,17.5,False,-1.0,False,-1.0,False,2017,2,7.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,6300000,220,False,15.2,False,-1.0,False,-1.0,False,2017,2,7.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,20000000,1600,False,37.7,False,-1.0,False,-1.0,False,2016,4,7.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,3600000,220,False,14.4,False,-1.0,False,-1.0,False,2016,4,11.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,4500000,170,False,11.9,False,-1.0,False,-1.0,False,2016,2,10.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,5000000,460,False,19.0,False,-1.0,False,-1.0,False,2017,4,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,3300000,160,False,10.7,False,-1.0,False,-1.0,False,2018,4,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,6400000,170,False,11.0,False,-1.0,False,-1.0,False,2017,2,24.0,True,False,False,False,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,4500000,105,False,6.7,False,-1.0,False,-1.0,False,2017,1,16.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,9800000,360,False,15.0,False,-1.0,False,-1.0,False,2018,3,8.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,8800000,200,False,12.7,False,-1.0,False,-1.0,False,2019,1,21.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,5600000,250,False,7.2,False,-1.0,False,-1.0,False,2016,3,25.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,8000000,175,False,14.0,False,-1.0,False,-1.0,False,2017,4,21.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,8000000,380,False,16.3,False,-1.0,False,-1.0,False,2016,4,23.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,6000000,220,False,9.8,False,-1.0,False,-1.0,False,2016,2,17.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,5200000,125,False,7.8,False,-1.0,False,-1.0,False,2015,3,20.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,1900000,200,False,18.0,False,-1.0,False,-1.0,False,2014,3,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,7500000,250,False,14.5,False,-1.0,False,-1.0,False,2015,3,14.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,6300000,240,False,-1.0,False,-1.0,False,-1.0,False,2016,4,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,5000000,195,False,-1.0,False,-1.0,False,-1.0,False,2016,4,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,5000000,200,False,14.3,False,-1.0,False,-1.0,False,2016,3,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,2300000,270,False,12.8,False,-1.0,False,-1.0,False,2014,4,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Shimanto City,2400000,130,False,6.2,False,-1.0,False,-1.0,False,2016,2,18.0,True,False,False,False,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,500000,320,False,19.0,False,-1.0,False,-1.0,False,2018,3,10.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,2200000,270,False,21.5,False,-1.0,False,-1.0,False,2016,3,4.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,500000,90,False,4.5,False,-1.0,False,-1.0,False,2016,2,4.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,6500000,400,False,19.0,False,-1.0,False,-1.0,False,2014,4,13.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,5000000,240,False,19.0,False,-1.0,False,-1.0,False,2014,4,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,6900000,190,False,-1.0,False,-1.0,False,-1.0,False,2015,4,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,4000000,350,False,13.5,False,-1.0,False,-1.0,False,2014,1,29.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,4000000,160,False,14.0,False,-1.0,False,-1.0,False,2015,4,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,5500000,180,False,12.4,False,-1.0,False,-1.0,False,2017,3,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,7500000,165,False,-1.0,False,-1.0,False,-1.0,False,2019,2,16.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,8000000,165,False,14.2,False,-1.0,False,-1.0,False,2017,2,18.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,8500000,220,False,-1.0,False,-1.0,False,-1.0,False,2017,2,23.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,5200000,190,False,10.1,False,-1.0,False,-1.0,False,2018,4,19.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,4900000,180,False,10.3,False,-1.0,False,-1.0,False,2018,1,20.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,7500000,270,False,21.0,False,-1.0,False,-1.0,False,2017,2,18.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,11000000,230,False,10.7,False,-1.0,False,-1.0,False,2016,2,9.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,8700000,380,False,17.5,False,-1.0,False,-1.0,False,2015,4,19.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,9000000,160,False,-1.0,False,-1.0,False,-1.0,False,2019,1,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,9000000,230,False,6.0,False,-1.0,False,-1.0,False,2016,2,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,6600000,155,False,9.4,False,-1.0,False,-1.0,False,2016,2,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,6500000,165,False,10.8,False,-1.0,False,-1.0,False,2018,4,29.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,7000000,290,False,-1.0,False,-1.0,False,-1.0,False,2015,1,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,11000000,180,False,-1.0,False,-1.0,False,-1.0,False,2019,2,12.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,9600000,175,False,11.0,False,-1.0,False,-1.0,False,2019,2,25.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,7500000,160,False,-1.0,False,-1.0,False,-1.0,False,2019,1,9.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,9900000,180,False,-1.0,False,-1.0,False,-1.0,False,2019,1,13.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,9600000,175,False,11.1,False,-1.0,False,-1.0,False,2019,1,25.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,13000000,220,False,18.3,False,-1.0,False,-1.0,False,2018,3,12.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,13000000,210,False,11.9,False,-1.0,False,-1.0,False,2018,2,9.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,8500000,330,False,5.0,False,-1.0,False,-1.0,False,2018,1,26.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,14000000,340,False,-1.0,False,-1.0,False,-1.0,False,2018,1,11.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,9000000,185,False,15.8,False,-1.0,False,-1.0,False,2017,4,25.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,7400000,180,False,10.0,False,-1.0,False,-1.0,False,2017,4,25.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,18000000,700,False,-1.0,False,-1.0,False,-1.0,False,2017,4,11.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,5000000,115,False,10.0,False,-1.0,False,-1.0,False,2017,2,4.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,11000000,175,False,11.9,False,-1.0,False,-1.0,False,2017,1,7.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,7300000,170,False,18.8,False,-1.0,False,-1.0,False,2016,4,21.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,5800000,175,False,17.4,False,-1.0,False,-1.0,False,2016,4,12.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,4800000,165,False,13.6,False,-1.0,False,-1.0,False,2016,2,15.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,7800000,180,False,10.4,False,-1.0,False,-1.0,False,2016,2,29.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,9200000,185,False,10.1,False,-1.0,False,-1.0,False,2016,1,29.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,12000000,680,False,-1.0,False,-1.0,False,-1.0,False,2016,1,12.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,4500000,105,False,12.5,False,-1.0,False,-1.0,False,2015,4,2.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,13000000,220,False,17.0,False,-1.0,False,-1.0,False,2015,4,14.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,8000000,340,False,-1.0,False,-1.0,False,-1.0,False,2015,4,11.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,10000000,210,False,12.4,False,-1.0,False,-1.0,False,2015,4,8.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,9100000,190,False,14.5,False,-1.0,False,-1.0,False,2015,3,26.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,8000000,190,False,10.0,False,-1.0,False,-1.0,False,2015,3,26.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,12000000,680,False,-1.0,False,-1.0,False,-1.0,False,2015,2,14.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,8300000,240,False,-1.0,False,-1.0,False,-1.0,False,2015,1,13.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,11000000,210,False,16.9,False,-1.0,False,-1.0,False,2015,1,25.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,23000000,420,False,26.0,False,-1.0,False,-1.0,False,2014,4,5.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,6800000,165,False,8.0,False,-1.0,False,-1.0,False,2014,4,25.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,14000000,290,False,20.9,False,-1.0,False,-1.0,False,2014,4,25.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,11000000,260,False,10.5,False,-1.0,False,-1.0,False,2014,4,25.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,7300000,175,False,10.0,False,-1.0,False,-1.0,False,2014,4,26.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,10000000,160,False,9.9,False,-1.0,False,-1.0,False,2014,4,3.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,10000000,180,False,10.0,False,-1.0,False,-1.0,False,2014,3,7.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,12000000,210,False,14.4,False,-1.0,False,-1.0,False,2014,3,26.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,7800000,200,False,-1.0,False,-1.0,False,-1.0,False,2014,2,26.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,3500000,230,False,5.9,False,-1.0,False,-1.0,False,2014,2,11.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,3600000,165,False,7.8,False,-1.0,False,-1.0,False,2016,3,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,9000000,155,False,9.5,False,-1.0,False,-1.0,False,2018,4,9.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,8400000,155,False,8.6,False,-1.0,False,-1.0,False,2018,3,9.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,9200000,210,False,8.7,False,-1.0,False,-1.0,False,2016,3,10.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,16000000,330,False,20.0,False,-1.0,False,-1.0,False,2016,2,25.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,8100000,170,False,9.5,False,-1.0,False,-1.0,False,2016,1,26.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,6800000,165,False,10.8,False,-1.0,False,-1.0,False,2016,1,26.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,7600000,165,False,11.0,False,-1.0,False,-1.0,False,2015,3,26.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,13000000,250,False,-1.0,False,-1.0,False,-1.0,False,2015,1,8.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,8100000,165,False,11.0,False,-1.0,False,-1.0,False,2015,1,27.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,7500000,165,False,12.2,False,-1.0,False,-1.0,False,2014,4,28.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,7800000,160,False,7.7,False,-1.0,False,-1.0,False,2015,1,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,11000000,400,False,17.6,False,-1.0,False,-1.0,False,2017,2,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,5000000,240,False,7.5,False,-1.0,False,-1.0,False,2016,2,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,8600000,200,False,10.2,False,-1.0,False,-1.0,False,2018,3,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,9900000,480,False,21.0,False,-1.0,False,-1.0,False,2014,2,75.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,6000000,290,False,14.0,False,-1.0,False,-1.0,False,2015,2,4.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,800000,420,False,6.7,False,-1.0,False,-1.0,False,2018,1,6.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Konan City,1900000,410,False,12.7,False,-1.0,False,-1.0,False,2016,3,19.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,1500000,250,False,30.0,False,-1.0,False,-1.0,False,2016,4,120.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,7000000,140,False,9.7,False,-1.0,False,-1.0,False,2018,3,11.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,7800000,160,False,9.3,False,-1.0,False,-1.0,False,2018,3,11.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,9000000,165,False,-1.0,False,-1.0,False,-1.0,False,2016,4,10.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,26000000,370,False,-1.0,False,-1.0,False,-1.0,False,2016,4,11.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,7900000,145,False,21.0,False,-1.0,False,-1.0,False,2015,1,8.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,15000000,260,False,13.0,False,-1.0,False,-1.0,False,2018,4,8.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,27000000,660,False,28.0,False,-1.0,False,-1.0,False,2018,3,14.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,9600000,175,False,10.7,False,-1.0,False,-1.0,False,2016,4,11.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,15000000,280,False,10.6,False,-1.0,False,-1.0,False,2016,3,10.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,9800000,165,False,11.3,False,-1.0,False,-1.0,False,2016,2,8.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,13000000,190,False,11.0,False,-1.0,False,-1.0,False,2016,1,10.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,12000000,410,False,-1.0,False,-1.0,False,-1.0,False,2015,2,13.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,15000000,210,False,11.7,False,-1.0,False,-1.0,False,2015,2,9.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,8000000,430,False,17.0,False,-1.0,False,-1.0,False,2019,1,21.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,5400000,105,False,7.5,False,-1.0,False,-1.0,False,2018,2,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,5100000,185,False,12.2,False,-1.0,False,-1.0,False,2017,4,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,85000000,1800,False,35.5,False,-1.0,False,-1.0,False,2017,2,15.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,10000000,160,False,13.5,False,-1.0,False,-1.0,False,2017,2,21.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,13000000,230,False,19.2,False,-1.0,False,-1.0,False,2017,1,14.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,4000000,140,False,13.5,False,-1.0,False,-1.0,False,2016,3,2.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,10000000,170,False,14.5,False,-1.0,False,-1.0,False,2014,2,7.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,11000000,145,False,15.4,False,-1.0,False,-1.0,False,2017,1,6.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,18000000,250,False,12.0,False,-1.0,False,-1.0,False,2015,1,6.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,11000000,160,False,8.0,False,-1.0,False,-1.0,False,2014,4,5.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,21000000,290,False,22.0,False,-1.0,False,-1.0,False,2014,3,5.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,3600000,140,False,8.8,False,-1.0,False,-1.0,False,2017,2,11.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,7500000,490,False,18.0,False,-1.0,False,-1.0,False,2015,1,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,9300000,180,False,10.1,False,-1.0,False,-1.0,False,2018,3,7.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,8400000,140,False,9.6,False,-1.0,False,-1.0,False,2016,3,2.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,4000000,125,False,6.4,False,-1.0,False,-1.0,False,2018,3,12.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,7300000,105,False,9.3,False,-1.0,False,-1.0,False,2017,2,10.0,True,False,False,False,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,10000000,140,False,22.9,False,-1.0,False,-1.0,False,2019,2,18.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,9000000,140,False,18.4,False,-1.0,False,-1.0,False,2019,2,18.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,9300000,160,False,17.0,False,-1.0,False,-1.0,False,2019,1,14.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,8000000,200,False,10.1,False,-1.0,False,-1.0,False,2018,3,15.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,8500000,155,False,9.3,False,-1.0,False,-1.0,False,2018,2,19.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,4300000,320,False,10.0,False,-1.0,False,-1.0,False,2015,4,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,3400000,320,False,10.1,False,-1.0,False,-1.0,False,2014,4,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,3500000,175,False,16.5,False,-1.0,False,-1.0,False,2019,1,45.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,15000000,400,False,-1.0,False,-1.0,False,-1.0,False,2014,3,17.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,3400000,280,False,13.4,False,-1.0,False,-1.0,False,2018,2,120.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,Kami City,2400000,440,False,10.9,False,-1.0,False,-1.0,False,2014,2,120.0,False,False,False,True,3,True
+Residential Land(Land Only),Kochi Prefecture,"Nahari Town,Aki County",4700000,400,False,18.0,False,-1.0,False,-1.0,False,2019,2,9.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Nahari Town,Aki County",500000,280,False,15.0,False,-1.0,False,-1.0,False,2019,1,19.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",2200000,220,False,14.5,False,-1.0,False,-1.0,False,2019,3,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",1800000,200,False,12.7,False,-1.0,False,-1.0,False,2018,4,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",1600000,180,False,14.0,False,-1.0,False,-1.0,False,2018,2,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",2100000,195,False,14.6,False,-1.0,False,-1.0,False,2018,1,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",2300000,220,False,14.5,False,-1.0,False,-1.0,False,2018,1,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",2300000,220,False,14.5,False,-1.0,False,-1.0,False,2018,1,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",2100000,220,False,12.6,False,-1.0,False,-1.0,False,2017,2,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",1900000,190,False,12.4,False,-1.0,False,-1.0,False,2017,2,29.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",1900000,180,False,12.5,False,-1.0,False,-1.0,False,2017,2,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",3100000,290,False,13.0,False,-1.0,False,-1.0,False,2016,3,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",2700000,240,False,15.2,False,-1.0,False,-1.0,False,2016,3,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",1800000,195,False,18.5,False,-1.0,False,-1.0,False,2016,3,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",2100000,230,False,18.5,False,-1.0,False,-1.0,False,2016,3,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",2000000,185,False,14.0,False,-1.0,False,-1.0,False,2016,3,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",1800000,200,False,13.0,False,-1.0,False,-1.0,False,2016,3,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",2700000,250,False,20.0,False,-1.0,False,-1.0,False,2016,3,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",3200000,360,False,23.7,False,-1.0,False,-1.0,False,2016,3,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",2200000,240,False,20.0,False,-1.0,False,-1.0,False,2016,3,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",2200000,250,False,26.0,False,-1.0,False,-1.0,False,2016,3,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",2800000,250,False,20.0,False,-1.0,False,-1.0,False,2016,3,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",2300000,240,False,17.8,False,-1.0,False,-1.0,False,2016,3,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tano Town,Aki County",4000000,760,False,30.0,False,-1.0,False,-1.0,False,2014,2,10.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Yasuda Town,Aki County",1700000,200,False,11.8,False,-1.0,False,-1.0,False,2016,1,19.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Yasuda Town,Aki County",1900000,220,False,14.0,False,-1.0,False,-1.0,False,2016,1,19.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Yasuda Town,Aki County",1900000,220,False,12.9,False,-1.0,False,-1.0,False,2016,1,19.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Yasuda Town,Aki County",1900000,220,False,12.9,False,-1.0,False,-1.0,False,2016,1,19.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Yasuda Town,Aki County",1900000,220,False,13.1,False,-1.0,False,-1.0,False,2016,1,19.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Geisei Village,Aki County",2600000,570,False,25.5,False,-1.0,False,-1.0,False,2015,3,45.0,False,False,False,True,1,True
+Residential Land(Land Only),Kochi Prefecture,"Geisei Village,Aki County",1900000,155,False,6.5,False,-1.0,False,-1.0,False,2016,2,9.0,False,False,False,True,1,True
+Residential Land(Land Only),Kochi Prefecture,"Geisei Village,Aki County",1500000,220,False,18.7,False,-1.0,False,-1.0,False,2014,3,7.0,False,False,False,True,1,True
+Residential Land(Land Only),Kochi Prefecture,"Motoyama Town,Nagaoka County",3700000,460,False,15.0,False,-1.0,False,-1.0,False,2017,2,120.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Otoyo Town,Nagaoka County",2300000,190,False,12.9,False,-1.0,False,-1.0,False,2016,4,20.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Otoyo Town,Nagaoka County",1300000,140,False,8.9,False,-1.0,False,-1.0,False,2014,4,19.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tosa Town,Tosa County",1800000,140,False,4.0,False,-1.0,False,-1.0,False,2016,3,120.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tosa Town,Tosa County",6200000,490,False,13.0,False,-1.0,False,-1.0,False,2015,4,120.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",11000000,135,False,9.5,False,-1.0,False,-1.0,False,2017,3,8.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",10000000,175,False,10.5,False,-1.0,False,-1.0,False,2018,3,5.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",6300000,165,False,11.3,False,-1.0,False,-1.0,False,2019,1,6.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",9400000,200,False,11.0,False,-1.0,False,-1.0,False,2017,1,15.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",4500000,110,False,6.5,False,-1.0,False,-1.0,False,2016,3,6.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",4300000,80,False,5.5,False,-1.0,False,-1.0,False,2015,4,13.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",8700000,200,False,10.9,False,-1.0,False,-1.0,False,2015,2,6.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",8000000,150,False,10.0,False,-1.0,False,-1.0,False,2015,1,3.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",11000000,150,False,8.9,False,-1.0,False,-1.0,False,2014,4,10.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",10000000,185,False,16.5,False,-1.0,False,-1.0,False,2014,1,11.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",15000000,200,False,12.8,False,-1.0,False,-1.0,False,2014,1,9.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",7200000,170,False,11.2,False,-1.0,False,-1.0,False,2019,3,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",9500000,170,False,11.2,False,-1.0,False,-1.0,False,2019,2,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",12000000,195,False,13.0,False,-1.0,False,-1.0,False,2016,2,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",14000000,195,False,12.3,False,-1.0,False,-1.0,False,2019,3,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",12000000,185,False,12.0,False,-1.0,False,-1.0,False,2016,2,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",5500000,90,False,6.0,False,-1.0,False,-1.0,False,2014,4,12.0,True,False,False,False,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",7300000,360,False,19.9,False,-1.0,False,-1.0,False,2016,2,8.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",4200000,60,False,4.6,False,-1.0,False,-1.0,False,2014,4,9.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",11000000,160,False,8.3,False,-1.0,False,-1.0,False,2018,3,7.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",54000000,1100,False,25.3,False,-1.0,False,-1.0,False,2019,3,13.0,True,False,False,False,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",23000000,390,False,9.0,False,-1.0,False,-1.0,False,2018,1,10.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",5500000,185,False,14.0,False,-1.0,False,-1.0,False,2016,4,12.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",940000,140,False,8.7,False,-1.0,False,-1.0,False,2016,3,6.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",6500000,105,False,9.9,False,-1.0,False,-1.0,False,2016,2,11.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",11000000,185,False,8.0,False,-1.0,False,-1.0,False,2016,1,10.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ino Town,Agawa County",18000000,490,False,28.7,False,-1.0,False,-1.0,False,2015,3,11.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Niyodogawa Town,Agawa County",12000000,1200,False,40.0,False,-1.0,False,-1.0,False,2014,3,120.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Niyodogawa Town,Agawa County",3000000,240,False,24.6,False,-1.0,False,-1.0,False,2016,1,120.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Niyodogawa Town,Agawa County",5900000,260,False,-1.0,False,-1.0,False,-1.0,False,2016,2,120.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Niyodogawa Town,Agawa County",1800000,230,False,14.1,False,-1.0,False,-1.0,False,2016,2,120.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Nakatosa Town,Takaoka County",2500000,260,False,17.0,False,-1.0,False,-1.0,False,2019,1,120.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Nakatosa Town,Takaoka County",3600000,200,False,9.0,False,-1.0,False,-1.0,False,2014,4,8.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Sakawa Town,Takaoka County",5900000,165,False,10.0,False,-1.0,False,-1.0,False,2016,3,20.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Sakawa Town,Takaoka County",6000000,320,False,39.0,False,-1.0,False,-1.0,False,2018,4,13.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Sakawa Town,Takaoka County",7100000,250,False,14.0,False,-1.0,False,-1.0,False,2018,4,19.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Sakawa Town,Takaoka County",8100000,290,False,14.3,False,-1.0,False,-1.0,False,2018,4,24.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Sakawa Town,Takaoka County",8100000,220,False,15.5,False,-1.0,False,-1.0,False,2016,3,5.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Sakawa Town,Takaoka County",9300000,330,False,16.0,False,-1.0,False,-1.0,False,2016,2,19.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Sakawa Town,Takaoka County",3000000,150,False,10.5,False,-1.0,False,-1.0,False,2015,3,9.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Sakawa Town,Takaoka County",4000000,160,False,11.0,False,-1.0,False,-1.0,False,2015,2,9.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Sakawa Town,Takaoka County",4300000,240,False,9.8,False,-1.0,False,-1.0,False,2019,1,11.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Sakawa Town,Takaoka County",3300000,200,False,18.2,False,-1.0,False,-1.0,False,2017,1,9.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Sakawa Town,Takaoka County",4500000,290,False,27.0,False,-1.0,False,-1.0,False,2016,2,10.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Sakawa Town,Takaoka County",5000000,220,False,16.5,False,-1.0,False,-1.0,False,2015,1,10.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Sakawa Town,Takaoka County",8500000,230,False,20.0,False,-1.0,False,-1.0,False,2019,1,4.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Sakawa Town,Takaoka County",5400000,140,False,11.5,False,-1.0,False,-1.0,False,2018,4,12.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Sakawa Town,Takaoka County",3800000,160,False,10.0,False,-1.0,False,-1.0,False,2018,3,7.0,True,False,False,False,2,True
+Residential Land(Land Only),Kochi Prefecture,"Sakawa Town,Takaoka County",4500000,165,False,14.2,False,-1.0,False,-1.0,False,2014,4,15.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Sakawa Town,Takaoka County",1200000,620,False,30.0,False,-1.0,False,-1.0,False,2015,3,45.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Sakawa Town,Takaoka County",3300000,280,False,29.0,False,-1.0,False,-1.0,False,2016,4,11.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Sakawa Town,Takaoka County",8000000,610,False,39.0,False,-1.0,False,-1.0,False,2016,3,12.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Sakawa Town,Takaoka County",7500000,330,False,-1.0,False,-1.0,False,-1.0,False,2016,1,18.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ochi Town,Takaoka County",5000000,175,False,10.0,False,-1.0,False,-1.0,False,2019,2,75.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ochi Town,Takaoka County",6000000,180,False,12.3,False,-1.0,False,-1.0,False,2018,3,75.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ochi Town,Takaoka County",8000000,360,False,13.0,False,-1.0,False,-1.0,False,2017,2,75.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Ochi Town,Takaoka County",2400000,220,False,20.0,False,-1.0,False,-1.0,False,2015,3,75.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Hidaka Village,Takaoka County",2000000,130,False,8.6,False,-1.0,False,-1.0,False,2017,1,21.0,False,False,False,True,1,True
+Residential Land(Land Only),Kochi Prefecture,"Hidaka Village,Takaoka County",2000000,130,False,8.6,False,-1.0,False,-1.0,False,2017,1,20.0,False,False,False,True,1,True
+Residential Land(Land Only),Kochi Prefecture,"Hidaka Village,Takaoka County",8500000,440,False,38.4,False,-1.0,False,-1.0,False,2018,1,9.0,False,False,False,True,1,True
+Residential Land(Land Only),Kochi Prefecture,"Hidaka Village,Takaoka County",2600000,200,False,24.2,False,-1.0,False,-1.0,False,2017,4,9.0,False,False,False,True,1,True
+Residential Land(Land Only),Kochi Prefecture,"Hidaka Village,Takaoka County",10000000,1000,False,24.0,False,-1.0,False,-1.0,False,2016,4,10.0,False,False,False,True,1,True
+Residential Land(Land Only),Kochi Prefecture,"Tsuno Town,Takaoka County",3500000,510,False,16.0,False,-1.0,False,-1.0,False,2018,2,120.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tsuno Town,Takaoka County",1600000,250,False,21.0,False,-1.0,False,-1.0,False,2015,4,120.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Tsuno Town,Takaoka County",2600000,600,False,14.0,False,-1.0,False,-1.0,False,2018,2,120.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Shimanto Town,Takaoka County",1200000,370,False,30.0,False,-1.0,False,-1.0,False,2014,4,105.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Shimanto Town,Takaoka County",900000,520,False,16.0,False,-1.0,False,-1.0,False,2017,4,120.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Shimanto Town,Takaoka County",7000000,190,False,12.3,False,-1.0,False,-1.0,False,2019,1,2.0,True,False,False,False,2,True
+Residential Land(Land Only),Kochi Prefecture,"Shimanto Town,Takaoka County",5000000,330,False,12.0,False,-1.0,False,-1.0,False,2018,1,21.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Shimanto Town,Takaoka County",6100000,230,False,15.3,False,-1.0,False,-1.0,False,2015,4,18.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Shimanto Town,Takaoka County",850000,100,False,-1.0,False,-1.0,False,-1.0,False,2014,3,6.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Shimanto Town,Takaoka County",3300000,105,False,7.0,False,-1.0,False,-1.0,False,2016,4,9.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Shimanto Town,Takaoka County",400000,200,False,9.0,False,-1.0,False,-1.0,False,2019,1,9.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Shimanto Town,Takaoka County",780000,260,False,-1.0,False,-1.0,False,-1.0,False,2017,4,12.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Shimanto Town,Takaoka County",5000000,160,False,22.0,False,-1.0,False,-1.0,False,2015,2,12.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Shimanto Town,Takaoka County",4000000,260,False,-1.0,False,-1.0,False,-1.0,False,2018,1,12.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Shimanto Town,Takaoka County",2800000,140,False,8.0,False,-1.0,False,-1.0,False,2017,3,5.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Otsuki Town,Hata County",1900000,145,False,9.0,False,-1.0,False,-1.0,False,2015,4,120.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Mihara Village,Hata County",3700000,410,False,23.0,False,-1.0,False,-1.0,False,2017,1,105.0,False,False,False,True,1,True
+Residential Land(Land Only),Kochi Prefecture,"Kuroshio Town,Hata County",9400000,270,False,14.0,False,-1.0,False,-1.0,False,2019,3,7.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Kuroshio Town,Hata County",7800000,220,False,15.0,False,-1.0,False,-1.0,False,2019,3,7.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Kuroshio Town,Hata County",5500000,240,False,-1.0,False,-1.0,False,-1.0,False,2017,4,12.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Kuroshio Town,Hata County",7300000,240,False,12.0,False,-1.0,False,-1.0,False,2016,3,15.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Kuroshio Town,Hata County",10000000,260,False,15.0,False,-1.0,False,-1.0,False,2015,2,14.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Kuroshio Town,Hata County",3000000,220,False,11.0,False,-1.0,False,-1.0,False,2019,2,19.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Kuroshio Town,Hata County",3100000,190,False,9.8,False,-1.0,False,-1.0,False,2018,3,7.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Kuroshio Town,Hata County",4800000,165,False,9.3,False,-1.0,False,-1.0,False,2018,2,6.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Kuroshio Town,Hata County",9700000,330,False,19.8,False,-1.0,False,-1.0,False,2017,1,5.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Kuroshio Town,Hata County",7800000,260,False,15.8,False,-1.0,False,-1.0,False,2014,3,5.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Kuroshio Town,Hata County",1200000,175,False,5.0,False,-1.0,False,-1.0,False,2018,4,5.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Kuroshio Town,Hata County",6100000,330,False,20.0,False,-1.0,False,-1.0,False,2016,2,24.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Kuroshio Town,Hata County",12000000,660,False,40.0,False,-1.0,False,-1.0,False,2016,1,25.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Kuroshio Town,Hata County",5900000,320,False,20.0,False,-1.0,False,-1.0,False,2016,1,24.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Kuroshio Town,Hata County",4300000,260,False,10.6,False,-1.0,False,-1.0,False,2015,2,25.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Kuroshio Town,Hata County",6000000,330,False,20.0,False,-1.0,False,-1.0,False,2014,3,19.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,"Kuroshio Town,Hata County",4800000,260,False,16.0,False,-1.0,False,-1.0,False,2014,3,19.0,False,False,False,True,2,True
+Residential Land(Land Only),Kochi Prefecture,Kochi City,11000000,630,False,23.0,False,-1.0,False,-1.0,False,2013,3,45.0,False,False,False,True,4,True
+Residential Land(Land Only),Kochi Prefecture,Nankoku City,13000000,660,False,18.0,False,-1.0,False,-1.0,False,2013,3,4.0,False,False,False,True,3,True
