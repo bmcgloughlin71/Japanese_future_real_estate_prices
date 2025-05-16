@@ -1,0 +1,705 @@
+Now processing Hokkaido prefecture with prefecture code: 1
+Loading data . . .
+Successfully loaded the Hokkaido data set.
+133464 entries, (46.954025414784475 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 42760. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Hokkaido data set! 
+
+Now processing Aomori prefecture with prefecture code: 2
+Loading data . . .
+Successfully loaded the Aomori data set.
+21463 entries, (29.291026953258275 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 4010. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Aomori data set! 
+
+Now processing Iwate prefecture with prefecture code: 3
+Loading data . . .
+Successfully loaded the Iwate data set.
+19167 entries, (31.77079016724958 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 4889. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Iwate data set! 
+
+Now processing Miyagi prefecture with prefecture code: 4
+Loading data . . .
+Successfully loaded the Miyagi data set.
+56775 entries, (47.06423615428614 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 19032. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Miyagi data set! 
+
+Now processing Akita prefecture with prefecture code: 5
+Loading data . . .
+Successfully loaded the Akita data set.
+16415 entries, (28.171552138395 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 3173. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Akita data set! 
+
+Now processing Yamagata prefecture with prefecture code: 6
+Loading data . . .
+Successfully loaded the Yamagata data set.
+14669 entries, (26.50225835591689 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 2764. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Yamagata data set! 
+
+Now processing Fukushima prefecture with prefecture code: 7
+Loading data . . .
+Successfully loaded the Fukushima data set.
+30222 entries, (34.554830152868135 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 6891. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Fukushima data set! 
+
+Now processing Ibaraki prefecture with prefecture code: 8
+Loading data . . .
+Successfully loaded the Ibaraki data set.
+49320 entries, (39.32920265065429 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 10974. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Ibaraki data set! 
+
+Now processing Tochigi prefecture with prefecture code: 9
+Loading data . . .
+Successfully loaded the Tochigi data set.
+36548 entries, (38.208543291446254 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 6709. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Tochigi data set! 
+
+Now processing Gunma prefecture with prefecture code: 10
+Loading data . . .
+Successfully loaded the Gunma data set.
+33273 entries, (40.777734202656994 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 7188. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Gunma data set! 
+
+Now processing Saitama prefecture with prefecture code: 11
+Loading data . . .
+Successfully loaded the Saitama data set.
+192492 entries, (61.00611988121536 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 68348. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Saitama data set! 
+
+Now processing Chiba prefecture with prefecture code: 12
+Loading data . . .
+Successfully loaded the Chiba data set.
+165765 entries, (57.9504695049048 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 62747. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Chiba data set! 
+
+Now processing Tokyo prefecture with prefecture code: 13
+Loading data . . .
+Successfully loaded the Tokyo data set.
+461956 entries, (69.60239985415251 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 286218. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Tokyo data set! 
+
+Now processing Kanagawa prefecture with prefecture code: 14
+Loading data . . .
+Successfully loaded the Kanagawa data set.
+296356 entries, (68.48836403133738 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 141293. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Kanagawa data set! 
+
+Now processing Niigata prefecture with prefecture code: 15
+Loading data . . .
+Successfully loaded the Niigata data set.
+39897 entries, (33.14007093671349 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 10810. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Niigata data set! 
+
+Now processing Toyama prefecture with prefecture code: 16
+Loading data . . .
+Successfully loaded the Toyama data set.
+16918 entries, (34.534988160365806 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 2672. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Toyama data set! 
+
+Now processing Ishikawa prefecture with prefecture code: 17
+Loading data . . .
+Successfully loaded the Ishikawa data set.
+21635 entries, (37.38358129006618 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 4895. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Ishikawa data set! 
+
+Now processing Fukui prefecture with prefecture code: 18
+Loading data . . .
+Successfully loaded the Fukui data set.
+10945 entries, (34.45507775609142 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 1658. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Fukui data set! 
+
+Now processing Yamanashi prefecture with prefecture code: 19
+Loading data . . .
+Successfully loaded the Yamanashi data set.
+14631 entries, (37.58187562610773 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 5017. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Yamanashi data set! 
+
+Now processing Nagano prefecture with prefecture code: 20
+Loading data . . .
+Successfully loaded the Nagano data set.
+37183 entries, (38.60441454349135 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 9338. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Nagano data set! 
+
+Now processing Gifu prefecture with prefecture code: 21
+Loading data . . .
+Successfully loaded the Gifu data set.
+34217 entries, (32.72975971839608 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 6191. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Gifu data set! 
+
+Now processing Shizuoka prefecture with prefecture code: 22
+Loading data . . .
+Successfully loaded the Shizuoka data set.
+73599 entries, (43.22995594713656 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 17990. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Shizuoka data set! 
+
+Now processing Aichi prefecture with prefecture code: 23
+Loading data . . .
+Successfully loaded the Aichi data set.
+162889 entries, (52.938805887686755 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 52019. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Aichi data set! 
+
+Now processing Mie prefecture with prefecture code: 24
+Loading data . . .
+Successfully loaded the Mie data set.
+33735 entries, (41.033157369791034 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 7370. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Mie data set! 
+
+Now processing Shiga prefecture with prefecture code: 25
+Loading data . . .
+Successfully loaded the Shiga data set.
+30939 entries, (44.1859468723222 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 8284. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Shiga data set! 
+
+Now processing Kyoto prefecture with prefecture code: 26
+Loading data . . .
+Successfully loaded the Kyoto data set.
+76801 entries, (60.60924121059069 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 30070. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Kyoto data set! 
+
+Now processing Osaka prefecture with prefecture code: 27
+Loading data . . .
+Successfully loaded the Osaka data set.
+257150 entries, (65.94908725334811 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 117053. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Osaka data set! 
+
+Now processing Hyogo prefecture with prefecture code: 28
+Loading data . . .
+Successfully loaded the Hyogo data set.
+149530 entries, (57.40027024537051 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 66079. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Hyogo data set! 
+
+Now processing Nara prefecture with prefecture code: 29
+Loading data . . .
+Successfully loaded the Nara data set.
+32711 entries, (56.44791109423804 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 9871. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Nara data set! 
+
+Now processing Wakayama prefecture with prefecture code: 30
+Loading data . . .
+Successfully loaded the Wakayama data set.
+16946 entries, (39.32699002088651 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 3962. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Wakayama data set! 
+
+Now processing Tottori prefecture with prefecture code: 31
+Loading data . . .
+Successfully loaded the Tottori data set.
+8817 entries, (29.465628446345622 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 2047. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Tottori data set! 
+
+Now processing Shimane prefecture with prefecture code: 32
+Loading data . . .
+Successfully loaded the Shimane data set.
+9113 entries, (22.090514629239085 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 2479. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Shimane data set! 
+
+Now processing Okayama prefecture with prefecture code: 33
+Loading data . . .
+Successfully loaded the Okayama data set.
+30493 entries, (38.207949077786694 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 8829. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Okayama data set! 
+
+Now processing Hiroshima prefecture with prefecture code: 34
+Loading data . . .
+Successfully loaded the Hiroshima data set.
+50850 entries, (43.89789100201145 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 14778. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Hiroshima data set! 
+
+Now processing Yamaguchi prefecture with prefecture code: 35
+Loading data . . .
+Successfully loaded the Yamaguchi data set.
+24606 entries, (39.94739918176505 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 7325. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Yamaguchi data set! 
+
+Now processing Tokushima prefecture with prefecture code: 36
+Loading data . . .
+Successfully loaded the Tokushima data set.
+9372 entries, (29.546027742749054 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 2567. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Tokushima data set! 
+
+Now processing Kagawa prefecture with prefecture code: 37
+Loading data . . .
+Successfully loaded the Kagawa data set.
+16346 entries, (40.02252583125214 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 5292. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Kagawa data set! 
+
+Now processing Ehime prefecture with prefecture code: 38
+Loading data . . .
+Successfully loaded the Ehime data set.
+22835 entries, (38.479037476408735 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 6779. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Ehime data set! 
+
+Now processing Kochi prefecture with prefecture code: 39
+Loading data . . .
+Successfully loaded the Kochi data set.
+9282 entries, (24.1687280302044 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 2331. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Kochi data set! 
+
+Now processing Fukuoka prefecture with prefecture code: 40
+Loading data . . .
+Successfully loaded the Fukuoka data set.
+116328 entries, (54.24633004420735 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 49932. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Fukuoka data set! 
+
+Now processing Saga prefecture with prefecture code: 41
+Loading data . . .
+Successfully loaded the Saga data set.
+11829 entries, (33.26209824817929 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 2885. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Saga data set! 
+
+Now processing Nagasaki prefecture with prefecture code: 42
+Loading data . . .
+Successfully loaded the Nagasaki data set.
+18224 entries, (36.41013346120035 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 8787. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Nagasaki data set! 
+
+Now processing Kumamoto prefecture with prefecture code: 43
+Loading data . . .
+Successfully loaded the Kumamoto data set.
+26641 entries, (31.890876008523065 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 10261. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Kumamoto data set! 
+
+Now processing Oita prefecture with prefecture code: 44
+Loading data . . .
+Successfully loaded the Oita data set.
+18711 entries, (32.76308877604623 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 6555. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Oita data set! 
+
+Now processing Miyazaki prefecture with prefecture code: 45
+Loading data . . .
+Successfully loaded the Miyazaki data set.
+16973 entries, (26.305756176187966 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 5623. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Miyazaki data set! 
+
+Now processing Kagoshima prefecture with prefecture code: 46
+Loading data . . .
+Successfully loaded the Kagoshima data set.
+25536 entries, (25.36428379868292 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 9896. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Kagoshima data set! 
+
+Now processing Okinawa prefecture with prefecture code: 47
+Loading data . . .
+Successfully loaded the Okinawa data set.
+12469 entries, (27.563719963746493 % of total) in this data set satisfy the housing condition.
+Number of rows with NaN values after initial processing: 11627. Removing . . .
+Cleaning timing information . . .
+One-hot encoding Regions . . .
+Generating Muncipality Categories . . .
+Sorting prefecture to region . . .
+Formatting times . . .
+Adding greater-than flags
+Renaming Columns . . .
+Splitting data set between land only and land with building purchases
+Finished processing the Okinawa data set! 
+

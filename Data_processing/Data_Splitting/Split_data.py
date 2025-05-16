@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = pd.read_csv('../Cleaned_Data_Sets/All_prefectures_buildings.csv')
+data = pd.read_csv('../Cleaned_Data_Sets/2005_2024/All_prefectures_buildings.csv')
 data = data.sample(frac=1, random_state=5).reset_index(drop=True)
 out_prefix = "All_prefecture_Housing"
 
