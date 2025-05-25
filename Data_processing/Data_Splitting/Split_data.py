@@ -1,8 +1,8 @@
 import pandas as pd
 
-data = pd.read_csv('../Cleaned_Data_Sets/2005_2024/All_prefectures_buildings.csv')
+data = pd.read_csv('../Cleaned_Data_Sets/2005_2024_with_municipalities/All_prefectures_buildings_with_migration.csv')
 data = data.sample(frac=1, random_state=5).reset_index(drop=True)
-out_prefix = "All_prefecture_Housing"
+out_prefix = "All_prefecture_Housing_with_migration"
 
 # Do a Training, dev, test split of 80/10/10
 train_size = int(0.8 * len(data))

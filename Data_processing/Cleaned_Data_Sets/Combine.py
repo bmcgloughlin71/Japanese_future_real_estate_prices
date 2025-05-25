@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from glob import glob
 
-csv_files = glob('./2005_2024/*build*.csv')
+csv_files = glob('./2005_2024_with_municipalities/*build*.csv')
 
 dataframes = [pd.read_csv(file) for file in csv_files]
 
@@ -16,6 +16,6 @@ for i, df in enumerate(dataframes):
 
 combined_df = pd.concat(dataframes, ignore_index=True)
 
-combined_df.to_csv('./2005_2024/All_prefectures_buildings.csv', index=False)
+combined_df.to_csv('./2005_2024_with_municipalities/All_prefectures_buildings.csv', index=False)
 
 print(f"Combined {len(csv_files)} files into 'All_prefectures_buildings.csv'")
