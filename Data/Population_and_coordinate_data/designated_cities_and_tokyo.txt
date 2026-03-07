@@ -1,0 +1,23 @@
+#CityName    Latitude    Longitude
+Yokohama    35.4437     139.6380
+Osaka       34.6937     135.5023
+Nagoya      35.1815     136.9066
+Sapporo     43.0642     141.3469
+Kobe        34.6901     135.1955
+Kyoto       35.0116     135.7681
+Fukuoka     33.5902     130.4017
+Kawasaki    35.5308     139.7036
+Saitama     35.8617     139.6455
+Hiroshima   34.3853     132.4553
+Sendai      38.2688     140.8721
+Kitakyushu  33.8833     130.8750
+Sakai       34.5731     135.4828
+Niigata     37.9162     139.0364
+Hamamatsu   34.7108     137.7269
+Shizuoka    34.9756     138.3828
+Okayama     34.6551     133.9195
+Kumamoto    32.8031     130.7079
+Sagamihara  35.5538     139.3593
+Chiba       35.6074     140.1069
+Tokyo       35.6895     139.6917
+
