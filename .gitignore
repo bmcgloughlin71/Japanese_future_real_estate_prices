@@ -2,3 +2,4 @@ Data_processing/Cleaned_Data_Sets/2005_2024/All_prefectures_buildings.csv
 Data_processing/Data_Splitting/2005_2024/All_prefecture_Housing_training_data.csv
 __pycache__/
 Regression_Analysis/epoch_plots_true_v_pred/*
+.ipynb_checkpoints/
