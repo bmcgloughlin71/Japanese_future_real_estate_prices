@@ -1,0 +1,16 @@
+To prepare the data you can run these scripts in the following order, or alternatively run do_Everything.py
+
+1) Clean_real_estate_price_data.py 
+   Cleans NaN values, missing flags and formatting on the original trade price data set, based off of the Initial_Inspection notebook.
+
+2) Combine.py
+   Combines all prefecture data sets and excludes any land-only sales.
+
+3) Merge_Migration_Data.py
+   Merges the migraion data. For each property, it appends the previous year's migration value or the earliest available figure.
+
+4) Merge_Coord_Data.py
+   Merges coordinate data.
+
+5) Compute_Distances.py
+   Computes the distance from each property to the nearest designated city and additionally adds additional position related features.
