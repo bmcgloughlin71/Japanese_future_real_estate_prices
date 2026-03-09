@@ -1,3 +1,4 @@
+All scripts implement data preparation based off of the investigations notebook in the Initial_Inspection folder.
 To prepare the data you can run these scripts in the following order, or alternatively run do_Everything.py
 
 1) Clean_real_estate_price_data.py 

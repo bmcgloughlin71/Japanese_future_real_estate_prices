@@ -1,5 +1,5 @@
 import pandas as pd
-df_House_with_coords = pd.read_csv("./Cleaned_Data_Deta/All_prefectures_buildings_with_migration_and_coords.csv")
+df_House_with_coords = pd.read_csv("./Cleaned_Data_Sets/All_prefectures_buildings_with_migration_and_coords.csv")
 
 designated_cities =  pd.read_csv("../Data/designated_cities_and_tokyo.txt", delim_whitespace=True, comment='#',
                         names=["CityName", "Latitude", "Longitude"])
@@ -20,4 +20,4 @@ cols_to_exclude = [
 ]
 
 df_House_with_coords.drop(columns=cols_to_exclude, inplace=True)
-df_House_with_coords.to_csv("Final_Cleaned_Data_Set.csv")
+df_House_with_coords.to_csv("./Cleaned_Data_Sets/Final_Cleaned_Data_Set.csv")

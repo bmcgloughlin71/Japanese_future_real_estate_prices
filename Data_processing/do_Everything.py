@@ -403,6 +403,6 @@ cols_to_exclude = [
 ]
 
 df_House_with_coords.drop(columns=cols_to_exclude, inplace=True)
-df_House_with_coords.to_csv("./Cleaned_Data_Seta/Final_Cleaned_Data_Set.csv")
+df_House_with_coords.to_csv("./Cleaned_Data_Sets/Final_Cleaned_Data_Set.csv")
 
 print("All Done!")
