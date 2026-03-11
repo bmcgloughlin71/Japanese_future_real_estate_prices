@@ -22,11 +22,11 @@ Ultimately, the approach(es) with the best results so far are shown on this repo
 - Internal migration feature added
 - Positional features such as distances to nearest [designated cities](https://en.wikipedia.org/wiki/Designated_city) 
 - Population data added
-- The regression analysis is executed with a simple dense neural network targeting log transformed transaction values of properties based mainly on the physical traits of the property as well as the time of construction and transaction, the total internal migrants to the area in which the property is located in an attempt to simulate overall demand to live in that area.
+The regression analysis is executed with a simple dense neural network targeting log transformed transaction values of properties based mainly on the physical traits of the property as well as the time of construction and transaction, the total internal migrants to the area in which the property is located in an attempt to simulate overall demand to live in that area.
 
 ## Conclusions
-One of the major takeaways from this project is the difficulty in price prediction for cheap properties. While expensive properties tend to correlate strongly with physical features allowing a mean relative error of < 25%, cheap properties do not share this property.
-Perhaps there are yet unknown features (particular laws, selling under unique personal circumstances to name only a few) that may improve the models ability to predict values accurately in this lower range.
+One of the major takeaways from this project is the difficulty in price prediction for properties on the tails of the price distribution.
+Perhaps there are yet unknown features (particular laws, selling under unique personal circumstances to name only a few) that may improve the models ability to predict values accurately in the extrema.
 
-Duplicating / particular sampling methods to fairly represent cheaper properties seem to reduce the models performance overall. Similar results for custom loss functions.
-The best results have come from feature engineering. This can be seen in the difference between the two models.
+Weighting sampling methods to fairly represent such properties seem to marginally improve the models performance overall.
+The best results have come from feature engineering, that is, incorporating geographical related features.
