@@ -174,6 +174,25 @@ def find_closest_city_and_distance(lat, lon):
             closest_city = city.CityName
     return pd.Series([min_distance, closest_city])
 
+def assign_nearest_population(row):
+    year = row['Year']  # Transaction year
+    pop_years = [2005, 2010, 2015, 2020]
+    pop_cols = ['Population_2005', 'Population_2010', 'Population_2015', 'Population_2020']
+
+    # Compute absolute differences
+    diffs = [abs(year - y) for y in pop_years]
+
+    sorted_indices = sorted(range(len(diffs)), key=lambda i: diffs[i])
+
+    for idx in sorted_indices:
+        pop_value = row[pop_cols[idx]]
+        if pd.notna(pop_value) and pop_value != 0:
+            return pop_value
+
+    raise ValueError(
+        f"No valid population found for Area_Code {row['City,Town,Ward,Village code']} "
+        f"at transaction year {year}. Check population dataset."
+    )
 #Get prefecture codes
 prefecture_codes = pd.read_csv("../Data/2005_2024/prefecture_code.csv")
 
@@ -193,7 +212,7 @@ for prefecture_idx, prefecture in prefecture_codes.iterrows():
     print(f'Successfully loaded the {prefecture_name} data set.')
 
     # Remove unwanted columns #
-    data.drop(columns=['Price information classification', 'District', 'Nearest station : Name', 
+    data.drop(columns=['Price information classification', 'District', 'Nearest station : Name',
                      'City planning', 'Land : Shape', 'Frontage road : Direction', 'Frontage road : Type', 'Frontage road : Width',
                       'Renovation', 'Transaction factors', 'Layout', 'Building : Structure', 'Land : Price per ㎡'], inplace=True)
 
@@ -202,22 +221,32 @@ for prefecture_idx, prefecture in prefecture_codes.iterrows():
     House_df = data[Intended_House_condition]
     House_df.drop(columns=['Purpose of use', 'Use'], inplace=True) # No longer needed
 
-    print(f'{len(House_df)} entries, ({(len(House_df) / len(data)) * 100} % of total) in this data set satisfy the housing condition.')
+    print(f'{len(House_df)} entries, ({(len(House_df) / len(data)) * 100:.2f} % of total) in this data set satisfy the housing condition.')
 
 
 
     # Any type that is Land Only will not have a floor size, so we can set the TotalFloorArea to -1. Same logic for other Building stats and frontage
-    House_df.loc[House_df['Building : Total floor area'].isna() & (House_df['Type'] == 'Residential Land(Land Only)'), 'Building : Total floor area'] = -1
-    House_df.loc[House_df['Building : Construction year'].isna() & (House_df['Type'] == 'Residential Land(Land Only)'), 'Building : Construction year'] = -1
-    House_df.loc[House_df['Building coverage ratio'].isna() & (House_df['Type'] == 'Residential Land(Land Only)'), 'Building coverage ratio'] = -1
-    House_df.loc[House_df['Floor area ratio'].isna() & (House_df['Type'] == 'Residential Land(Land Only)'), 'Floor area ratio'] = -1
-    House_df.loc[House_df['Frontage'].isna() & (House_df['Type'] == 'Residential Land(Land Only)'), 'Frontage'] = -1
+    # Also Agriculutual land
+    land_only_condition = (House_df['Type'] == 'Residential Land(Land Only)') | (House_df['Type'] == 'Agricultural Land') | (House_df['Type'] == 'Forest Land')
+    House_df.loc[House_df['Building : Total floor area'].isna() & (land_only_condition), 'Building : Total floor area'] = -1
+    House_df.loc[House_df['Building : Construction year'].isna() & (land_only_condition), 'Building : Construction year'] = -1
+    House_df.loc[House_df['Building coverage ratio'].isna() & (land_only_condition), 'Building coverage ratio'] = -1
+    House_df.loc[House_df['Floor area ratio'].isna() & (land_only_condition), 'Floor area ratio'] = -1
+    House_df.loc[House_df['Frontage'].isna() & (land_only_condition), 'Frontage'] = -1
 
+    House_df.drop(columns=['Area'], inplace=True) # Decide to drop this since essentially all buildings, intended for housing, are in residential areas
+
+    # For condomoniums etc, we will assume that area = total_floor_area and that frontage = 0.
+    is_condomonium = (House_df['Type'] == 'Pre-owned Condominiums, etc.')
+    House_df.loc[House_df['Building : Total floor area'].isna() & (is_condomonium), 'Building : Total floor area'] = House_df.loc[House_df['Building : Total floor area'].isna() & (is_condomonium), 'Area(㎡)']
+    House_df.loc[House_df['Frontage'].isna() & (is_condomonium), 'Frontage'] = 0.
+    House_df['is_condomonium_like'] = is_condomonium
     # Count rows with NaN values in the entire DataFrame
     nan_rows_count = House_df.isna().sum(axis=1)
     rows_with_nan = nan_rows_count[nan_rows_count > 0]
+    building_temp_df = House_df[~House_df['Type'].str.contains('Land Only')]
 
-    print(f'Number of rows with NaN values after initial processing: {len(rows_with_nan)}. Removing . . .')
+    print(f'Number of rows with NaN values after initial processing: {len(rows_with_nan)} ({100 * (len(rows_with_nan))/(len(House_df)):.2f} %). Removing . . .')
     # Drop unwanted NaN values
     House_df.dropna(inplace=True)
 
@@ -226,10 +255,10 @@ for prefecture_idx, prefecture in prefecture_codes.iterrows():
     House_df['Year'] = House_df['Transaction timing'].str.extract(r'(\d{4})')[0].astype(int)
     House_df.drop(columns=['Transaction timing'], inplace=True)
 
-    print("One-hot encoding Regions . . .")
-    region_encoded = pd.get_dummies(House_df['Area'], prefix='Region')
-    House_df = pd.concat([House_df, region_encoded], axis=1)
-    House_df.drop(columns=['Area'], inplace=True)
+    #print("One-hot encoding Regions . . .")
+    #region_encoded = pd.get_dummies(House_df['Area'], prefix='Region')
+    #House_df = pd.concat([House_df, region_encoded], axis=1)
+    #House_df.drop(columns=['Area'], inplace=True)
 
     print("Generating Muncipality Categories . . .")
     House_df['MunicipalityCategory'] = House_df.apply(lambda row: categorize_municipality(row['City,Town,Ward,Village'], row['Prefecture']), axis=1)
@@ -274,9 +303,9 @@ for prefecture_idx, prefecture in prefecture_codes.iterrows():
     print("Splitting data set between land only and land with building purchases")
 
     # Filter the dataset for properties with buildings and without buildings
-    land_only_df = House_df[House_df['Type'].str.contains('Land Only')]  
-    building_df = House_df[~House_df['Type'].str.contains('Land Only')]  
-
+    land_only_condition = (House_df['Type'] == 'Residential Land(Land Only)') | (House_df['Type'] == 'Agricultural Land') | (House_df['Type'] == 'Forest Land')
+    land_only_df = House_df[land_only_condition]
+    building_df = House_df[~land_only_condition]
 
     House_df.drop(columns=['Type'], inplace=True)
 
@@ -377,15 +406,26 @@ merged_df = pd.merge(
     right_on='Area_Codes',
     how='inner'
 )
-merged_df.to_csv("./Cleaned_Data_Sets/All_prefectures_buildings_with_migration_and_coords.csv", index=False)
-print("Merged population and coordinate data!\n")
+print("Merged coordinate data!\n")
 
-#Compute distances from properties to designated cities
-df_House_with_coords = pd.read_csv("./Cleaned_Data_Sets/All_prefectures_buildings_with_migration_and_coords.csv")
+print("Adding population data . . .\n")
+
+merged_df['Population'] = merged_df.apply(assign_nearest_population, axis=1)
+
+cols_to_exclude = [
+    "Population_2020", "Population_2015", "Population_2010", "Population_2005", "Area_Codes", "Destination"]
+
+merged_df.drop(columns=cols_to_exclude, inplace=True)
+
+merged_df.to_csv("./Cleaned_Data_Sets/All_prefectures_buildings_with_migration_coords_pop.csv", index=False)
+
+df_House_with_coords = pd.read_csv("./Cleaned_Data_Sets/All_prefectures_buildings_with_migration_coords_pop.csv")
 
 designated_cities =  pd.read_csv("../Data/Population_and_coordinate_data/designated_cities_and_tokyo.txt", sep='\s+', comment='#',
                         names=["CityName", "Latitude", "Longitude"])
 
+
+#Compute distances from properties to designated cities
 print("Calculating distance to nearest designated city . . .\n")
 tqdm.pandas()
 df_House_with_coords[['Distance_to_designated_city', 'Nearest_designated_city']] = df_House_with_coords.progress_apply(
@@ -398,11 +438,7 @@ df_House_with_coords['Close_to_Tokyo'] = (df_House_with_coords['Nearest_designat
 df_House_with_coords['Close_to_greater_Tokyo_area'] = df_House_with_coords['Nearest_designated_city'].isin(greater_tokyo_set).astype(int)
 df_House_with_coords['Close_to_designated_city_flag'] = (df_House_with_coords['Distance_to_designated_city'] < 5).astype(int)
 
-cols_to_exclude = [
-    "Population_2020", "Population_2015", "Population_2010", "Population_2005", "Area_Codes", "Destination"
-]
 
-df_House_with_coords.drop(columns=cols_to_exclude, inplace=True)
-df_House_with_coords.to_csv("./Cleaned_Data_Sets/Final_Cleaned_Data_Set.csv")
+df_House_with_coords.to_csv("./Cleaned_Data_Sets/Final_Cleaned_Data_Set.csv", index=False)
 
 print("All Done!")

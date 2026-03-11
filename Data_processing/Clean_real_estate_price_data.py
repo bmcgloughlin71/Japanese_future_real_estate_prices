@@ -3,6 +3,9 @@ import pandas as pd
 import os
 import warnings
 import re
+from glob import glob
+from geopy.distance import geodesic
+from tqdm import tqdm
 warnings.simplefilter(action='ignore', category=pd.errors.SettingWithCopyWarning)
 
 os.makedirs("Cleaned_Data_Sets", exist_ok=True)
@@ -160,11 +163,23 @@ def convert_to_minutes(distance_str):
         else:  # Just minutes
             return int(re.search(r'(\d+)', distance_str).group(0))
 
+def find_closest_city_and_distance(lat, lon):
+    min_distance = float('inf')
+    closest_city = None
+    for _, city in designated_cities.iterrows():
+        city_coords = (city.Latitude, city.Longitude)
+        distance = geodesic((lat, lon), city_coords).kilometers
+        if distance < min_distance:
+            min_distance = distance
+            closest_city = city.CityName
+    return pd.Series([min_distance, closest_city])
+
 #Get prefecture codes
 prefecture_codes = pd.read_csv("../Data/2005_2024/prefecture_code.csv")
 
 data_dir = "../Data/2005_2024/trade_prices"
 
+#Clean real estate price data
 for prefecture_idx, prefecture in prefecture_codes.iterrows():
 
     prefecture_code = prefecture['Code']
@@ -178,7 +193,7 @@ for prefecture_idx, prefecture in prefecture_codes.iterrows():
     print(f'Successfully loaded the {prefecture_name} data set.')
 
     # Remove unwanted columns #
-    data.drop(columns=['Price information classification', 'District', 'Nearest station : Name', 
+    data.drop(columns=['Price information classification', 'District', 'Nearest station : Name',
                      'City planning', 'Land : Shape', 'Frontage road : Direction', 'Frontage road : Type', 'Frontage road : Width',
                       'Renovation', 'Transaction factors', 'Layout', 'Building : Structure', 'Land : Price per ㎡'], inplace=True)
 
@@ -192,17 +207,27 @@ for prefecture_idx, prefecture in prefecture_codes.iterrows():
 
 
     # Any type that is Land Only will not have a floor size, so we can set the TotalFloorArea to -1. Same logic for other Building stats and frontage
-    House_df.loc[House_df['Building : Total floor area'].isna() & (House_df['Type'] == 'Residential Land(Land Only)'), 'Building : Total floor area'] = -1
-    House_df.loc[House_df['Building : Construction year'].isna() & (House_df['Type'] == 'Residential Land(Land Only)'), 'Building : Construction year'] = -1
-    House_df.loc[House_df['Building coverage ratio'].isna() & (House_df['Type'] == 'Residential Land(Land Only)'), 'Building coverage ratio'] = -1
-    House_df.loc[House_df['Floor area ratio'].isna() & (House_df['Type'] == 'Residential Land(Land Only)'), 'Floor area ratio'] = -1
-    House_df.loc[House_df['Frontage'].isna() & (House_df['Type'] == 'Residential Land(Land Only)'), 'Frontage'] = -1
+    # Also Agriculutual land
+    land_only_condition = (House_df['Type'] == 'Residential Land(Land Only)') | (House_df['Type'] == 'Agricultural Land') | (House_df['Type'] == 'Forest Land')
+    House_df.loc[House_df['Building : Total floor area'].isna() & (land_only_condition), 'Building : Total floor area'] = -1
+    House_df.loc[House_df['Building : Construction year'].isna() & (land_only_condition), 'Building : Construction year'] = -1
+    House_df.loc[House_df['Building coverage ratio'].isna() & (land_only_condition), 'Building coverage ratio'] = -1
+    House_df.loc[House_df['Floor area ratio'].isna() & (land_only_condition), 'Floor area ratio'] = -1
+    House_df.loc[House_df['Frontage'].isna() & (land_only_condition), 'Frontage'] = -1
 
+    House_df.drop(columns=['Area'], inplace=True) # Decide to drop this since essentially all buildings, intended for housing, are in residential areas
+
+    # For condomoniums etc, we will assume that area = total_floor_area and that frontage = 0.
+    is_condomonium = (House_df['Type'] == 'Pre-owned Condominiums, etc.')
+    House_df.loc[House_df['Building : Total floor area'].isna() & (is_condomonium), 'Building : Total floor area'] = House_df.loc[House_df['Building : Total floor area'].isna() & (is_condomonium), 'Area(㎡)']
+    House_df.loc[House_df['Frontage'].isna() & (is_condomonium), 'Frontage'] = 0.
+    House_df['is_condomonium_like'] = is_condomonium
     # Count rows with NaN values in the entire DataFrame
     nan_rows_count = House_df.isna().sum(axis=1)
     rows_with_nan = nan_rows_count[nan_rows_count > 0]
+    building_temp_df = House_df[~House_df['Type'].str.contains('Land Only')]
 
-    print(f'Number of rows with NaN values after initial processing: {len(rows_with_nan)}. Removing . . .')
+    print(f'Number of rows with NaN values after initial processing: {len(rows_with_nan)} ({100 * (len(rows_with_nan))/(len(House_df))}%). Removing . . .')
     # Drop unwanted NaN values
     House_df.dropna(inplace=True)
 
@@ -211,10 +236,10 @@ for prefecture_idx, prefecture in prefecture_codes.iterrows():
     House_df['Year'] = House_df['Transaction timing'].str.extract(r'(\d{4})')[0].astype(int)
     House_df.drop(columns=['Transaction timing'], inplace=True)
 
-    print("One-hot encoding Regions . . .")
-    region_encoded = pd.get_dummies(House_df['Area'], prefix='Region')
-    House_df = pd.concat([House_df, region_encoded], axis=1)
-    House_df.drop(columns=['Area'], inplace=True)
+    #print("One-hot encoding Regions . . .")
+    #region_encoded = pd.get_dummies(House_df['Area'], prefix='Region')
+    #House_df = pd.concat([House_df, region_encoded], axis=1)
+    #House_df.drop(columns=['Area'], inplace=True)
 
     print("Generating Muncipality Categories . . .")
     House_df['MunicipalityCategory'] = House_df.apply(lambda row: categorize_municipality(row['City,Town,Ward,Village'], row['Prefecture']), axis=1)
@@ -259,20 +284,16 @@ for prefecture_idx, prefecture in prefecture_codes.iterrows():
     print("Splitting data set between land only and land with building purchases")
 
     # Filter the dataset for properties with buildings and without buildings
-    land_only_df = House_df[House_df['Type'].str.contains('Land Only')]  
-    building_df = House_df[~House_df['Type'].str.contains('Land Only')]  
-
+    land_only_condition = (House_df['Type'] == 'Residential Land(Land Only)') | (House_df['Type'] == 'Agricultural Land') | (House_df['Type'] == 'Forest Land')
+    land_only_df = House_df[land_only_condition]
+    building_df = House_df[~land_only_condition]
 
     House_df.drop(columns=['Type'], inplace=True)
 
     # Save the datasets
-    land_only_df.to_csv(f'./Cleaned_Data_Sets/2005_2024_with_municipalities/{prefecture_name}_cleaned_test_landOnly.csv', index=False)
-    building_df.to_csv(f'./Cleaned_Data_Sets/2005_2024_with_municipalities/{prefecture_name}_cleaned_test_buildings.csv', index=False)
+    land_only_df.to_csv(f'./Cleaned_Data_Sets/{prefecture_name}_cleaned_test_landOnly.csv', index=False)
+    building_df.to_csv(f'./Cleaned_Data_Sets/{prefecture_name}_cleaned_test_buildings.csv', index=False)
 
     print(f'Finished processing the {prefecture_name} data set! \n')
 
 print(f'All precture real-estate data sets successfully cleaned!\n')
-
-
-
-

@@ -3,7 +3,8 @@ set -eu
 
 cleaned_data_dir="../Cleaned_Data_Sets/"
 
-for file in $(ls -1 ${cleaned_data_dir}/*build*); do 
+#Cube Plots
+for file in $(ls -1 ${cleaned_data_dir}/*test*buildings.csv); do 
 
 prefecture=$(basename "$file" | awk -F '_' '{print $1}')
 
@@ -21,3 +22,17 @@ stilts plot2cube \
    omode=out out=$prefecture.png
 
 done
+
+#Map of Japan
+stilts plot2sky \
+   xpix=1898 ypix=606 \
+   reflectlon=false \
+   clon=138.57 clat=36.14 radius=11.234 \
+   legend=false \
+   auxmap=rainbow2 auxflip=true auxfunc=log auxmin=1000000 auxmax=230000000 \
+   auxvisible=true auxlabel=TotalTransactionValue \
+   layer=Mark \
+      in=${cleaned_data_dir}/All_prefectures_buildings_with_migration_coords_pop.csv ifmt=CSV \
+      lon=longitude lat=latitude weight=TotalTransactionValue \
+      shading=weighted size=2 \
+      omode=out out=Map_of_Japan.png
