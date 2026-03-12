@@ -1,0 +1,151 @@
+{
+  "min_max_log": {
+    "migration": [
+      4.31748811353631,
+      11.953377979444872
+    ],
+    "distance": [
+      0.009826682612909489,
+      6.671994488530617
+    ],
+    "population": [
+      6.742880635791903,
+      13.757526509264
+    ]
+  },
+  "prefecture_soft_encoding": {
+    "Aichi Prefecture": 0.07892954009171194,
+    "Akita Prefecture": -0.8730761266642919,
+    "Aomori Prefecture": -0.89790185750015,
+    "Chiba Prefecture": -0.16928656092467873,
+    "Ehime Prefecture": -0.5482355397000381,
+    "Fukui Prefecture": -0.7041778382511321,
+    "Fukuoka Prefecture": -0.2793990120778893,
+    "Fukushima Prefecture": -0.5717744097007715,
+    "Gifu Prefecture": -0.5767722495881665,
+    "Gunma Prefecture": -0.6437802828512402,
+    "Hiroshima Prefecture": -0.2338628809158455,
+    "Hokkaido": -0.5820019705454682,
+    "Hyogo Prefecture": -0.14884396405768144,
+    "Ibaraki Prefecture": -0.616958465735835,
+    "Ishikawa Prefecture": -0.6529060451014712,
+    "Iwate Prefecture": -0.7577529425759606,
+    "Kagawa Prefecture": -0.7147282861574166,
+    "Kagoshima Prefecture": -0.48094026074335255,
+    "Kanagawa Prefecture": 0.27629724356072877,
+    "Kochi Prefecture": -0.6606551557447163,
+    "Kumamoto Prefecture": -0.3196754930206335,
+    "Kyoto Prefecture": -0.1317721929888,
+    "Mie Prefecture": -0.5456597970827765,
+    "Miyagi Prefecture": -0.26487873818664043,
+    "Miyazaki Prefecture": -0.6907211020397857,
+    "Nagano Prefecture": -0.5264961038208796,
+    "Nagasaki Prefecture": -0.4603221729560914,
+    "Nara Prefecture": -0.4524664502160343,
+    "Niigata Prefecture": -0.7460763444663996,
+    "Oita Prefecture": -0.6124386393806509,
+    "Okayama Prefecture": -0.414878910209922,
+    "Okinawa Prefecture": 0.20673298767055742,
+    "Osaka Prefecture": -0.09992276153033151,
+    "Saga Prefecture": -0.6682397908021875,
+    "Saitama Prefecture": -0.11376952157101232,
+    "Shiga Prefecture": -0.3938278742977462,
+    "Shimane Prefecture": -0.7613169432567213,
+    "Shizuoka Prefecture": -0.390384625486328,
+    "Tochigi Prefecture": -0.5538655997970523,
+    "Tokushima Prefecture": -0.7380656583178099,
+    "Tokyo": 1.0,
+    "Tottori Prefecture": -0.8480156750489957,
+    "Toyama Prefecture": -0.8058021450786504,
+    "Wakayama Prefecture": -0.7394492398926324,
+    "Yamagata Prefecture": -0.7306025152206894,
+    "Yamaguchi Prefecture": -0.7323572377230303,
+    "Yamanashi Prefecture": -0.6318067492083715
+  },
+  "year_min_max": [
+    2005.0,
+    2024.0
+  ],
+  "construction_min_max": [
+    1945.0,
+    2025.0
+  ],
+  "normalization_params": {
+    "Area": [
+      10.0,
+      2000.0
+    ],
+    "Frontage": [
+      0.0,
+      50.0
+    ],
+    "TotalFloorArea": [
+      10.0,
+      2000.0
+    ],
+    "BuildingCoverageRatio": [
+      30.0,
+      80.0
+    ],
+    "FloorAreaRatio": [
+      50.0,
+      1300.0
+    ],
+    "AverageTimeToStation": [
+      0.0,
+      120.0
+    ],
+    "longitude": [
+      127.6666667,
+      145.5666667
+    ],
+    "latitude": [
+      26.2,
+      45.4
+    ]
+  },
+  "features_to_normalize": [
+    "Area",
+    "Frontage",
+    "TotalFloorArea",
+    "BuildingCoverageRatio",
+    "FloorAreaRatio",
+    "AverageTimeToStation",
+    "longitude",
+    "latitude"
+  ],
+  "feature_order": [
+    "is_condomonium_like",
+    "MunicipalityCategory",
+    "Region_Chubu",
+    "FloorAreaGreaterFLag",
+    "BeforeWarFlag",
+    "frontage_greater_than_50",
+    "AreaGreaterFlag",
+    "Region_Chugoku",
+    "Region_Hokkaido",
+    "Region_Kansai",
+    "Region_Kanto",
+    "Region_Kyushu",
+    "Region_Shikoku",
+    "Region_Tohoku",
+    "Close_to_Tokyo",
+    "Close_to_greater_Tokyo_area",
+    "Close_to_designated_city_flag",
+    "Migration_scaled",
+    "Distance_to_designated_city_scaled",
+    "Population_scaled",
+    "PrefectureSoftEncoded",
+    "ConstructionYearNormalized",
+    "Area_Normalized",
+    "Frontage_Normalized",
+    "TotalFloorArea_Normalized",
+    "BuildingCoverageRatio_Normalized",
+    "FloorAreaRatio_Normalized",
+    "AverageTimeToStation_Normalized",
+    "longitude_Normalized",
+    "latitude_Normalized",
+    "Quarter_Sin",
+    "Quarter_Cos"
+  ]
+}

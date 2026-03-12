@@ -1,0 +1,6 @@
+fastapi
+pydantic<2
+uvicorn
+tensorflow
+numpy
+pandas
