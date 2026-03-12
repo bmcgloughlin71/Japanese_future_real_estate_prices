@@ -4,6 +4,7 @@ import numpy as np
 import tensorflow as tf
 from fastapi import FastAPI, HTTPException
 
+from app.enrich import enrich_payload
 from app.preprocess import build_feature_vector
 from app.schema import HousingFeatures
 
@@ -32,7 +33,8 @@ def predict(payload: HousingFeatures):
     model_dump = getattr(payload, "model_dump", None)
     data = model_dump() if callable(model_dump) else payload.dict()
     try:
-        features = build_feature_vector(data)
+        enriched = enrich_payload(data)
+        features = build_feature_vector(enriched)
     except ValueError as exc:
         raise HTTPException(status_code=400, detail=str(exc)) from exc
 

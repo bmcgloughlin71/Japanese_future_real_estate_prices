@@ -4,3 +4,4 @@ uvicorn
 tensorflow
 numpy
 pandas
+requests

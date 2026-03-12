@@ -178,14 +178,14 @@ def _log_minmax(value, min_val, max_val, field_name):
 
 
 def _encode_prefecture(prefecture):
-    normalized = _normalize_prefecture(prefecture)
+    normalized = normalize_prefecture_name(prefecture)
     mapping = PARAMS["prefecture_soft_encoding"]
     if normalized not in mapping:
         raise ValueError(f"Unknown prefecture: {prefecture}")
     return mapping[normalized]
 
 
-def _normalize_prefecture(prefecture):
+def normalize_prefecture_name(prefecture):
     if prefecture is None:
         raise ValueError("Prefecture is required")
     raw = str(prefecture).strip()
