@@ -16,10 +16,6 @@ class HousingFeatures(BaseModel):
     FloorAreaRatio: float
     AverageTimeToStation: float
     is_condomonium_like: bool
-    FloorAreaGreaterFLag: bool
-    BeforeWarFlag: bool
-    frontage_greater_than_50: bool
-    AreaGreaterFlag: bool
 
     class Config:
         extra = "forbid"

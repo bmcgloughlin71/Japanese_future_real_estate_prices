@@ -393,6 +393,16 @@ def enrich_payload(payload):
     data["Close_to_greater_Tokyo_area"] = 1 if nearest_city in GREATER_TOKYO_SET else 0
     data["Close_to_designated_city_flag"] = 1 if distance < 5 else 0
 
+    total_floor_area = float(data["TotalFloorArea"])
+    frontage = float(data["Frontage"])
+    area = float(data["Area"])
+    construction_year = int(data["ConstructionYear"])
+
+    data["FloorAreaGreaterFLag"] = total_floor_area >= 2000
+    data["frontage_greater_than_50"] = frontage >= 50
+    data["AreaGreaterFlag"] = area >= 2000
+    data["BeforeWarFlag"] = construction_year <= 1945
+
     region = REGION_MAP.get(prefecture)
     if not region:
         raise ValueError("Unable to determine region for prefecture.")

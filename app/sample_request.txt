@@ -12,9 +12,5 @@ curl -X POST "http://127.0.0.1:8000/predict" \
     "BuildingCoverageRatio": 60,
     "FloorAreaRatio": 200,
     "AverageTimeToStation": 12,
-    "is_condomonium_like": true,
-    "FloorAreaGreaterFLag": false,
-    "BeforeWarFlag": false,
-    "frontage_greater_than_50": false,
-    "AreaGreaterFlag": false
+    "is_condomonium_like": true
   }'
