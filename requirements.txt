@@ -1,7 +1,7 @@
 fastapi
 pydantic<2
 uvicorn
-tensorflow
+tensorflow-cpu
 numpy
 pandas
 requests

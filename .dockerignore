@@ -1,0 +1,15 @@
+Data/*
+!Data/Population_and_coordinate_data/
+Data/Population_and_coordinate_data/*
+!Data/Population_and_coordinate_data/Japanese_Populations_coordinates.csv
+!Data/Population_and_coordinate_data/designated_cities_and_tokyo.txt
+!Data/Internal_Migration_Data_2008_2024/
+Data/Internal_Migration_Data_2008_2024/*
+!Data/Internal_Migration_Data_2008_2024/Number_of_Migants_to_Muncipalties_per_year.csv
+Data_processing/
+Regression_Analysis/Model_and_Weights/*
+!Regression_Analysis/Model_and_Weights/Japanese_Housing_Price_Model.keras
+Regression_Analysis/epoch_plots/
+Regression_Analysis/Regression_Model.ipynb
+*.ipynb
+__pycache__/
