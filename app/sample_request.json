@@ -1,0 +1,14 @@
+{
+  "Prefecture": "Tokyo",
+  "City": "Shibuya-ku",
+  "Year": 2024,
+  "ConstructionYear": 2005,
+  "Quarter": 2,
+  "Area": 120,
+  "Frontage": 8,
+  "TotalFloorArea": 95,
+  "BuildingCoverageRatio": 60,
+  "FloorAreaRatio": 200,
+  "AverageTimeToStation": 12,
+  "is_condomonium_like": true
+}

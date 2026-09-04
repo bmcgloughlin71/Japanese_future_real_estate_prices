@@ -30,3 +30,38 @@ Perhaps there are yet unknown features (particular laws, selling under unique pe
 
 Weighting sampling methods to fairly represent such properties seem to marginally improve the models performance overall.
 The best results have come from feature engineering, that is, incorporating geographical related features.
+
+## Agentic pricing demo
+
+A single OpenAI tool-calling agent turns natural language into a structured `HousingFeatures` payload, then calls the same prediction path as `POST /predict`. Prices are never invented: only `predict_price` / the trained model may produce ¥/€.
+
+**Setup (API key stays on your machine — end users do not need one for a hosted demo):**
+
+```bash
+cp .env.example .env   # set OPENAI_API_KEY
+pip install -r requirements.txt
+```
+
+**Interactive CLI:**
+
+```bash
+export OPENAI_API_KEY=sk-...
+python3 -m app.agent.cli
+```
+
+**Interview fallback (no LLM — proves the tool/model path if the API is down):**
+
+```bash
+python3 -m app.agent.cli --fallback app/sample_request.json
+```
+
+**HTTP:**
+
+```bash
+uvicorn app.main:app --reload
+curl -X POST http://127.0.0.1:8000/agent/chat \
+  -H "Content-Type: application/json" \
+  -d '{"message":"Condo in Shibuya-ku, Tokyo, built 2005, about 95 m² floor area, 12 min to station"}'
+```
+
+Rate limit: `AGENT_MAX_REQUESTS_PER_HOUR` (default 30) is process-local to protect demo spend.

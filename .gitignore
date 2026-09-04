@@ -3,3 +3,4 @@ Data_processing/Split_Data_Sets/All*
 __pycache__/
 Regression_Analysis/epoch_plots/*
 .ipynb_checkpoints/
+.env
