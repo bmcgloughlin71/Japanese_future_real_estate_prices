@@ -1,0 +1,10 @@
+experiment_id,date,status,summary,primary_metric,baseline_value,new_value,decision,notes_path,results_path
+EXP-000,2026-09-04,setup,"Create experiment workspace",,,,,keep,Experiment/LOG.md,
+EXP-001,2026-09-04,complete,"Baseline evaluation of current Keras model on held-out test split",median_ape,,0.19042117875,baseline,Experiment/LOG.md,Experiment/results/baseline_test_report.md
+EXP-002,2026-09-04,complete,"HistGradientBoostingRegressor on same 32 production features",median_ape,0.19042117875,0.1870942017207654,keep,Experiment/LOG.md,Experiment/results/EXP-002_hist_gradient_boosting_report.md
+EXP-003,2026-09-04,complete,"HistGradientBoostingRegressor on all training rows using same 32 production features",median_ape,0.19042117875,0.18648470262307792,keep,Experiment/LOG.md,Experiment/results/EXP-003_hist_gradient_boosting_report.md
+EXP-004,2026-09-04,complete,"Dev-set affine/isotonic calibration of existing Keras predictions",median_ape,0.19042117875,0.18709418261563,keep,Experiment/LOG.md,Experiment/results/EXP-004_keras_calibration_report.md
+EXP-005,2026-09-04,complete,"Small dev-selected HGB hyperparameter sweep on 500k rows",median_ape,0.19042117875,0.1778095801076287,keep,Experiment/LOG.md,Experiment/results/EXP-005_hgb_tuning_report.md
+EXP-006,2026-09-04,complete,"Best tuned HGB configuration trained on all rows",median_ape,0.19042117875,0.17555062029512125,keep,Experiment/LOG.md,Experiment/results/EXP-006_hist_gradient_boosting_report.md
+EXP-007,2026-09-04,complete,"Cheap-property classifier plus cheap-tail specialist regressor combined with tuned HGB",median_ape,0.17555062029512125,0.1756003962712458,reject,Experiment/LOG.md,Experiment/results/EXP-007_cheap_two_stage_report.md
+EXP-008,2026-09-04,complete,"Threshold sweep for cheap-property classifier/two-stage model",cheap_tail_median_ape,4.833707811453303,0.5251,investigate,Experiment/LOG.md,Experiment/results/EXP-008_cheap_threshold_sweep_report.md
